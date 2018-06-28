@@ -32,10 +32,10 @@ A collection of all of the various course notes, homework, quizzes, and exams ga
 Courses from Calculus to Topology, Applied Mathematics to Number Theory.
 
 ### Part Two: Physics
-Various courses from standard undergraduate physics. Introductory level to senior/graduate electromagnetism.
+Various courses from standard undergraduate physics. Introductory level to first year graduate school.
 
 ## Book Two: Undergraduate Research
-Notes from all research that has been conducted between 2012 and 2019.
+Notes from all research that has been conducted between 2012 and 2018.
 
 ### Part Three: LoCSST
 Notes and miscellaneous work conducted at the Lowell Center for Science and Space Technology.

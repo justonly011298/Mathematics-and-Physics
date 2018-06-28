@@ -1,0 +1,291 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{A}\relax \glsresetentrylist %
+\glossentry{aacs}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{175}}}%
+\glossentry{amc}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}}}%
+\glossentry{au}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{173}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{175}\delimN 
+		\glsseeformat[Glossary:]{auglos}{Z}}}%
+\glossentry{awvr}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{182}}}\glsgroupskip
+\glsgroupheading{B}\relax \glsresetentrylist %
+\glossentry{bps}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{174}}}%
+\glossentry{bsr}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{173}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{177}\delimN 
+		\glsseeformat[Glossary:]{bsrglos}{Z}}}\glsgroupskip
+\glsgroupheading{C}\relax \glsresetentrylist %
+\glossentry{cds}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{173\delimN 174}}}%
+\glossentry{cft}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{184\delimN 185}\delimN 
+		\glsseeformat[Glossary:]{cftglos}{Z}}}%
+\glossentry{ckf}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}}}%
+\glossentry{coi}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{180}}}%
+\glossentry{crsug}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{237\delimR 243}}}\glsgroupskip
+\glsgroupheading{D}\relax \glsresetentrylist %
+\glossentry{dc}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{175}\delimN 
+		\glsseeformat[Glossary:]{dcglos}{Z}}}%
+\glossentry{ddor}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{179}}}%
+\glossentry{dsn}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{172\delimR 178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{184\delimR 187}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{238}\delimN 
+		\glsseeformat[Glossary:]{dsnglos}{Z}}}\glsgroupskip
+\glsgroupheading{E}\relax \glsresetentrylist %
+\glossentry{eop}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{181\delimN 182}}}%
+\glossentry{ert}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{186}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{242\delimN 243}\delimN 
+		\glsseeformat[Glossary:]{ertglos}{Z}}}%
+\glossentry{esa}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{172}\delimN 
+		\glsseeformat[Glossary:]{esaglos}{Z}}}%
+\glossentry{et}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{180}\delimN 
+		\glsseeformat[Glossary:]{etglos}{Z}}}\glsgroupskip
+\glsgroupheading{F}\relax \glsresetentrylist %
+\glossentry{fft}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{176}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{184\delimN 185}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
+		\glsseeformat[Glossary:]{fftglos}{Z}}}%
+\glossentry{fir}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{176}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{241}\delimN 
+		\glsseeformat[Glossary:]{firglos}{Z}}}%
+\glossentry{foil}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{13\delimR 15}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{17}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{21}\delimN 
+		\glsseeformat[Glossary:]{foilglos}{Z}}}\glsgroupskip
+\glsgroupheading{G}\relax \glsresetentrylist %
+\glossentry{ghz}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{184}\delimN 
+		\glsseeformat[Glossary:]{ghzglos}{Z}}}%
+\glossentry{gps}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glossary:]{gpsglos}{Z}}}%
+\glossentry{gr}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glossary:]{grglos}{Z}}}%
+\glossentry{gw}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{172}\delimN 
+		\glsseeformat[Glossary:]{gwglos}{Z}}}%
+\glossentry{gwe}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{173}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{177}\delimN 
+		\glsseeformat[Glossary:]{gweglos}{Z}}}\glsgroupskip
+\glsgroupheading{H}\relax \glsresetentrylist %
+\glossentry{hga}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{173\delimR 175}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{177}\delimN 
+		\glsseeformat[Glossary:]{hgaglos}{Z}}}%
+\glossentry{hz}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{185\delimN 186}\delimN 
+		\glsseeformat[Glossary:]{hzglos}{Z}}}\glsgroupskip
+\glsgroupheading{I}\relax \glsresetentrylist %
+\glossentry{iau}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{181}}}%
+\glossentry{iers}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{182}}}%
+\glossentry{if}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{176}\delimN 
+		\glsseeformat[Glossary:]{ifglos}{Z}}}%
+\glossentry{ion}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}}}\glsgroupskip
+\glsgroupheading{J}\relax \glsresetentrylist %
+\glossentry{jpl}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{176}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{181}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{238}\delimN 
+		\glsseeformat[Glossary:]{jplglos}{Z}}}\glsgroupskip
+\glsgroupheading{K}\relax \glsresetentrylist %
+\glossentry{kat}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{173}\delimN 
+		\glsseeformat[Glossary:]{katglos}{Z}}}%
+\glossentry{khz}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{184\delimN 185}\delimN 
+		\glsseeformat[Glossary:]{khzglos}{Z}}}\glsgroupskip
+\glsgroupheading{L}\relax \glsresetentrylist %
+\glossentry{lcp}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glossary:]{lcpglos}{Z}}}%
+\glossentry{lem}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{175}}}%
+\glossentry{lga}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{174}}}\glsgroupskip
+\glsgroupheading{M}\relax \glsresetentrylist %
+\glossentry{mb}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glossary:]{mbglos}{Z}}}%
+\glossentry{mhz}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{184\delimN 185}\delimN 
+		\glsseeformat[Glossary:]{mhzglos}{Z}}}\glsgroupskip
+\glsgroupheading{N}\relax \glsresetentrylist %
+\glossentry{naif}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{185}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{238}\delimN 
+		\glsseeformat[Glossary:]{naifglos}{Z}}}%
+\glossentry{nasa}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{172}\delimN 
+		\glsseeformat[Glossary:]{nasaglos}{Z}}}\glsgroupskip
+\glsgroupheading{O}\relax \glsresetentrylist %
+\glossentry{od}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{179\delimR 181}\delimN 
+		\glsseeformat[Glossary:]{odglos}{Z}}}%
+\glossentry{odf}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}}}%
+\glossentry{opmode}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}\delimN 
+		\glsseeformat[Glossary:]{opmodeglos}{Z}}}\glsgroupskip
+\glsgroupheading{P}\relax \glsresetentrylist %
+\glossentry{pds}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{172}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{237\delimN 238}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{242\delimR 245}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{259}\delimN 
+		\glsseeformat[Glossary:]{pdsglos}{Z}}}%
+\glossentry{pemdas}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{3}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{323}\delimN 
+		\glsseeformat[Glossary:]{pemdasglos}{Z}}}%
+\glossentry{pll}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{176}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{184}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
+		\glsseeformat[Glossary:]{pllglos}{Z}}}%
+\glossentry{pms}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{175}}}%
+\glossentry{pps}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{175}}}%
+\glossentry{psa}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{172}\delimN 
+		\glsseeformat[Glossary:]{psaglos}{Z}}}\glsgroupskip
+\glsgroupheading{R}\relax \glsresetentrylist %
+\glossentry{rcp}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glossary:]{rcpglos}{Z}}}%
+\glossentry{rev}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{185}\delimN 
+		\glsseeformat[Glossary:]{revglos}{Z}}}%
+\glossentry{rf}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{176}\delimN 
+		\glsseeformat[Glossary:]{rcpglos}{Z}}}%
+\glossentry{rfis}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{173}}}%
+\glossentry{rfs}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{173}}}%
+\glossentry{rms}{\glossaryentrynumbers{\relax 
+		\glsseeformat[Glossary:]{rmsglos}{Z}}}%
+\glossentry{rs}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{172\delimR 174}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{176\delimR 178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{184}\delimN 
+		\glsseeformat[Glossary:]{rsglos}{Z}}}%
+\glossentry{rsr}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{176\delimR 178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{184}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{238\delimN 239}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{241}\delimN 
+		\glsseeformat[Glossary:]{rsrglos}{Z}}}%
+\glossentry{rss}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{237\delimR 239}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{242}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{244}\delimN 
+		\glsseeformat[Glossary:]{rssglos}{Z}}}%
+\glossentry{rssg}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{176}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{184}}}%
+\glossentry{rtg}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{173}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{175}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{182}\delimN 
+		\glsseeformat[Glossary:]{rtgglos}{Z}}}\glsgroupskip
+\glsgroupheading{S}\relax \glsresetentrylist %
+\glossentry{sce}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{173}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{177}\delimN 
+		\glsseeformat[Glossary:]{sceglos}{Z}}}%
+\glossentry{sfdu}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}}}%
+\glossentry{sip}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}}}%
+\glossentry{snr}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{185}\delimN 
+		\glsseeformat[Glossary:]{snrglos}{Z}}}%
+\glossentry{sop}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}}}%
+\glossentry{sost}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}}}%
+\glossentry{spice}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{185}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{238}\delimN 
+		\glsseeformat[Glossary:]{spiceglos}{Z}}}%
+\glossentry{spk}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{187}}}%
+\glossentry{spp}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}}}%
+\glossentry{ssup}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}}}%
+\glossentry{svt}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}}}\glsgroupskip
+\glsgroupheading{T}\relax \glsresetentrylist %
+\glossentry{tcb}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{180}}}%
+\glossentry{tcs}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{175}}}%
+\glossentry{tdb}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{180}\delimN 
+		\glsseeformat[Glossary:]{tdbglos}{Z}}}%
+\glossentry{tlm}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{174}\delimN 
+		\glsseeformat[Glossary:]{tlmglos}{Z}}}%
+\glossentry{tnf}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}}}%
+\glossentry{tost}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}}}%
+\glossentry{tro}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}}}%
+\glossentry{twt}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{177}}}\glsgroupskip
+\glsgroupheading{U}\relax \glsresetentrylist %
+\glossentry{uem}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{173}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{175}}}%
+\glossentry{uso}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{172\delimR 174}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{184\delimR 187}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{243}\delimN 
+		\glsseeformat[Glossary:]{usoglos}{Z}}}%
+\glossentry{utc}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{180}\delimN 
+		\glsseeformat[Glossary:]{utcglos}{Z}}}\glsgroupskip
+\glsgroupheading{V}\relax \glsresetentrylist %
+\glossentry{vlbi}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{176}}}%
+\glossentry{vsr}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{176}}}\glsgroupskip
+\glsgroupheading{W}\relax \glsresetentrylist %
+\glossentry{wvr}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{178}}}%
+\end{theglossary}\glossarypostamble

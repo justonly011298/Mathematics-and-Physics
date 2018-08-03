@@ -7,12 +7,12 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {8.1}{\ignorespaces Truth Table for Problem \ref {problem:discrete_structures_practice_exam_2_problem_3}\relax }}{54}{table.caption.372}
-\contentsline {table}{\numberline {8.2}{\ignorespaces Truth Table for Problem \ref {problem:discrete structures_make_a_truth_table_for_p_and_1_and_more}\relax }}{55}{table.caption.373}
-\contentsline {table}{\numberline {8.3}{\ignorespaces Truth Table for Problem \ref {problem:discrete_structures_exam_2_p_and_q_iff_not_p_or_not_q}\relax }}{56}{table.caption.374}
-\contentsline {table}{\numberline {8.4}{\ignorespaces The Minsets of $A,B,$ and $C$.\relax }}{57}{table.caption.375}
-\contentsline {table}{\numberline {8.5}{\ignorespaces Minsets of $A$ and $B$.\relax }}{58}{table.caption.376}
-\contentsline {table}{\numberline {8.6}{\ignorespaces Truth Table for Problem \ref {discrete_structures_quiz_3_problem_2}\relax }}{62}{table.caption.377}
+\contentsline {table}{\numberline {8.1}{\ignorespaces Truth Table for Problem \ref {problem:discrete_structures_practice_exam_2_problem_3}\relax }}{69}{table.caption.390}
+\contentsline {table}{\numberline {8.2}{\ignorespaces Truth Table for Problem \ref {problem:discrete structures_make_a_truth_table_for_p_and_1_and_more}\relax }}{70}{table.caption.391}
+\contentsline {table}{\numberline {8.3}{\ignorespaces Truth Table for Problem \ref {problem:discrete_structures_exam_2_p_and_q_iff_not_p_or_not_q}\relax }}{71}{table.caption.392}
+\contentsline {table}{\numberline {8.4}{\ignorespaces The Minsets of $A,B,$ and $C$.\relax }}{72}{table.caption.393}
+\contentsline {table}{\numberline {8.5}{\ignorespaces Minsets of $A$ and $B$.\relax }}{73}{table.caption.394}
+\contentsline {table}{\numberline {8.6}{\ignorespaces Truth Table for Problem \ref {discrete_structures_quiz_3_problem_2}\relax }}{77}{table.caption.395}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -34,16 +34,17 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {29.1}{\ignorespaces Cassini RS Bands and Wavelengths\relax }}{174}{table.caption.524}
-\contentsline {table}{\numberline {29.2}{\ignorespaces USO Frequency $2006-2011$\relax }}{175}{table.caption.527}
+\contentsline {table}{\numberline {29.1}{\ignorespaces Cassini RS Bands and Wavelengths\relax }}{189}{table.caption.542}
+\contentsline {table}{\numberline {29.2}{\ignorespaces USO Frequency $2006-2011$\relax }}{190}{table.caption.545}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {31.1}{\ignorespaces Easy Data Parameters for Geo File}}{221}{table.caption.614}
-\contentsline {table}{\numberline {31.2}{\ignorespaces Easy Data Parameters for Cal File}}{221}{table.caption.615}
-\contentsline {table}{\numberline {31.3}{\ignorespaces Easy Data Parameters for Tau File}}{221}{table.caption.616}
-\contentsline {table}{\numberline {31.4}{\ignorespaces Glossary of Parameters from the Geo File}}{228}{table.caption.623}
-\contentsline {table}{\numberline {31.5}{\ignorespaces Glossary of Data from the Cal File}}{228}{table.caption.624}
-\contentsline {table}{\numberline {31.6}{\ignorespaces Glossary of Parameters in Tau File}}{228}{table.caption.625}
+\contentsline {table}{\numberline {31.1}{\ignorespaces Easy Data Parameters for Geo File}}{236}{table.caption.632}
+\contentsline {table}{\numberline {31.2}{\ignorespaces Easy Data Parameters for Cal File}}{236}{table.caption.633}
+\contentsline {table}{\numberline {31.3}{\ignorespaces Easy Data Parameters for Tau File}}{236}{table.caption.634}
+\contentsline {table}{\numberline {31.4}{\ignorespaces Glossary of Parameters from the Geo File}}{243}{table.caption.641}
+\contentsline {table}{\numberline {31.5}{\ignorespaces Glossary of Data from the Cal File}}{243}{table.caption.642}
+\contentsline {table}{\numberline {31.6}{\ignorespaces Glossary of Parameters in Tau File}}{243}{table.caption.643}
+\addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

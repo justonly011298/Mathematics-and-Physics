@@ -1,7 +1,7 @@
 \babel@toc {english}{}
 \contentsline {chapter}{List of Figures}{ix}{chapter*.2}
 \contentsline {chapter}{List of Tables}{xi}{chapter*.3}
-\contentsline {book}{Book\ \Numberstringnum {1}:\hspace {1em}Undergraduate Courses}{1}{book.1}
+\contentsline {book}{ Book\ \Numberstringnum {1} :\hspace {1em}Undergraduate Courses }{1}{book.1}
 \contentsline {part}{\numberline {I}Mathematics}{2}{part.1}
 \contentsline {chapter}{\numberline {1}Elementary Algebra}{3}{chapter.1}
 \contentsline {section}{\numberline {1.1}North Shore Placement Exam}{3}{section.1.1}
@@ -33,469 +33,493 @@
 \contentsline {subsubsection}{Problems}{20}{subsubsection*.360}
 \contentsline {subsection}{\numberline {1.1.14}Radicals}{21}{subsection.1.1.14}
 \contentsline {subsubsection}{Problems}{21}{subsubsection*.363}
-\contentsline {chapter}{\numberline {2}Calculus I}{22}{chapter.2}
-\contentsline {section}{\numberline {2.1}Exams}{22}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}CLEP Exam}{22}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Exam I}{23}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Exam II}{25}{subsection.2.1.3}
-\contentsline {chapter}{\numberline {3}Calculus II}{27}{chapter.3}
-\contentsline {section}{\numberline {3.1}Exams}{27}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Practice Exam I}{27}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Exam I}{29}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Exam II}{32}{subsection.3.1.3}
-\contentsline {chapter}{\numberline {4}Calculus III}{33}{chapter.4}
-\contentsline {chapter}{\numberline {5}Differential Equations}{34}{chapter.5}
-\contentsline {chapter}{\numberline {6}Linear Algebra I}{35}{chapter.6}
-\contentsline {chapter}{\numberline {7}Linear Algebra II}{36}{chapter.7}
-\contentsline {section}{\numberline {7.1}Miscellaneous Lecture Notes}{36}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}Orthogonal Projections}{36}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}Reflections}{37}{subsection.7.1.2}
-\contentsline {subsection}{\numberline {7.1.3}Lecture Notes on Orthogonal Matrices}{37}{subsection.7.1.3}
-\contentsline {subsection}{\numberline {7.1.4}Rotations}{38}{subsection.7.1.4}
-\contentsline {subsection}{\numberline {7.1.5}The Matrix Exponential}{40}{subsection.7.1.5}
-\contentsline {subsection}{\numberline {7.1.6}Linear Systems of Ordinary Differential Equations}{41}{subsection.7.1.6}
-\contentsline {section}{\numberline {7.2}Problem Sets}{41}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Problem Set I}{41}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Problem Set II}{42}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}Problem Set III}{43}{subsection.7.2.3}
-\contentsline {subsection}{\numberline {7.2.4}Problem Set IV}{44}{subsection.7.2.4}
-\contentsline {subsection}{\numberline {7.2.5}Problem Set V}{45}{subsection.7.2.5}
-\contentsline {subsection}{\numberline {7.2.6}Problem Set VI}{47}{subsection.7.2.6}
-\contentsline {subsection}{\numberline {7.2.7}Problem Set VII}{48}{subsection.7.2.7}
-\contentsline {subsection}{\numberline {7.2.8}Problem Set VIII}{49}{subsection.7.2.8}
-\contentsline {chapter}{\numberline {8}Discrete Structures I}{51}{chapter.8}
-\contentsline {section}{\numberline {8.1}Exams}{51}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Practice Exam I}{51}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}Exam I}{53}{subsection.8.1.2}
-\contentsline {subsection}{\numberline {8.1.3}Practice Exam II}{54}{subsection.8.1.3}
-\contentsline {subsection}{\numberline {8.1.4}Exam II}{56}{subsection.8.1.4}
-\contentsline {subsection}{\numberline {8.1.5}Practice Exam III}{57}{subsection.8.1.5}
-\contentsline {subsection}{\numberline {8.1.6}Exam III}{59}{subsection.8.1.6}
-\contentsline {subsection}{\numberline {8.1.7}Final Exam}{60}{subsection.8.1.7}
-\contentsline {section}{\numberline {8.2}Quizzes}{61}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Quiz I}{61}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Quiz II}{61}{subsection.8.2.2}
-\contentsline {subsection}{\numberline {8.2.3}Quiz III}{62}{subsection.8.2.3}
-\contentsline {subsection}{\numberline {8.2.4}Quiz IV}{63}{subsection.8.2.4}
-\contentsline {subsection}{\numberline {8.2.5}Quiz V}{63}{subsection.8.2.5}
-\contentsline {chapter}{\numberline {9}Discrete Structures II}{64}{chapter.9}
-\contentsline {chapter}{\numberline {10}Mathematical Analysis}{65}{chapter.10}
-\contentsline {chapter}{\numberline {11}Measure Theory}{66}{chapter.11}
-\contentsline {chapter}{\numberline {12}Functional Analysis}{67}{chapter.12}
-\contentsline {chapter}{\numberline {13}Chaos Theory}{68}{chapter.13}
-\contentsline {chapter}{\numberline {14}Introduction to Applied Mathematics}{69}{chapter.14}
-\contentsline {chapter}{\numberline {15}Applied Mathematics}{70}{chapter.15}
-\contentsline {chapter}{\numberline {16}Mathematical Modelling}{71}{chapter.16}
-\contentsline {chapter}{\numberline {17}Problem Solving}{72}{chapter.17}
-\contentsline {chapter}{\numberline {18}Algebra}{73}{chapter.18}
-\contentsline {chapter}{\numberline {19}Number Theory}{74}{chapter.19}
-\contentsline {chapter}{\numberline {20}Topology}{75}{chapter.20}
-\contentsline {chapter}{\numberline {21}Graph Theory}{76}{chapter.21}
-\contentsline {section}{\numberline {21.1}Graph Theory I}{76}{section.21.1}
-\contentsline {section}{\numberline {21.2}Graph Theory II}{92}{section.21.2}
-\contentsline {subsection}{\numberline {21.2.1}Spanning Trees}{92}{subsection.21.2.1}
-\contentsline {subsection}{\numberline {21.2.2}Product Graphs}{92}{subsection.21.2.2}
-\contentsline {subsection}{\numberline {21.2.3}Distance Properties of Graphs}{92}{subsection.21.2.3}
-\contentsline {section}{\numberline {21.3}Additional Material}{92}{section.21.3}
-\contentsline {subsection}{\numberline {21.3.1}F\'{a}ry's Theorem}{92}{subsection.21.3.1}
-\contentsline {subsection}{\numberline {21.3.2}The Art Gallery Theorem}{92}{subsection.21.3.2}
-\contentsline {subsection}{\numberline {21.3.3}F\'{a}ry's Theorem}{92}{subsection.21.3.3}
-\contentsline {subsection}{\numberline {21.3.4}Kuratowski's Theorem}{92}{subsection.21.3.4}
-\contentsline {subsection}{\numberline {21.3.5}Notes}{92}{subsection.21.3.5}
-\contentsline {chapter}{\numberline {22}Probability}{93}{chapter.22}
-\contentsline {chapter}{\numberline {23}Algebraic Geometry}{94}{chapter.23}
-\contentsline {section}{\numberline {23.1}Notes on Cox, Little, and O'Shea}{94}{section.23.1}
-\contentsline {subsection}{\numberline {23.1.1}Preliminaries}{94}{subsection.23.1.1}
-\contentsline {subsubsection}{Groups}{94}{subsubsection*.378}
-\contentsline {subsubsection}{Fields and Rings}{94}{subsubsection*.379}
-\contentsline {subsubsection}{Determinants}{95}{subsubsection*.380}
-\contentsline {subsection}{\numberline {23.1.2}Geometry, Algebra, and Algorithms}{96}{subsection.23.1.2}
-\contentsline {subsubsection}{Polynomials and Affine Space}{96}{subsubsection*.381}
-\contentsline {subsubsection}{Affine Varieties}{97}{subsubsection*.382}
-\contentsline {subsubsection}{Parametrizations of Affine Varieties}{98}{subsubsection*.383}
-\contentsline {subsubsection}{Ideals}{99}{subsubsection*.384}
-\contentsline {subsubsection}{Polynomials in One Variable}{101}{subsubsection*.385}
-\contentsline {subsection}{\numberline {23.1.3}Groebner Bases}{101}{subsection.23.1.3}
-\contentsline {subsubsection}{Introduction}{101}{subsubsection*.386}
-\contentsline {subsubsection}{Orderings on the Monomials in $k[x_1,\mathinner {\ldotp \ldotp \ldotp },x_n]$}{102}{subsubsection*.387}
-\contentsline {subsubsection}{The Hilbert Basis Theorem and Groebner Bases}{103}{subsubsection*.388}
-\contentsline {subsubsection}{Properties of Groebner Bases}{103}{subsubsection*.389}
-\contentsline {subsection}{\numberline {23.1.4}Elimination Theory}{103}{subsection.23.1.4}
-\contentsline {subsubsection}{The Elimination and Extension Theorems}{103}{subsubsection*.390}
-\contentsline {subsubsection}{The Geometry of Elimination}{104}{subsubsection*.391}
-\contentsline {subsubsection}{Implicitization}{104}{subsubsection*.392}
-\contentsline {subsubsection}{Singular Points and Envelopes}{104}{subsubsection*.393}
-\contentsline {subsubsection}{Unique Factorization and Resultants}{105}{subsubsection*.394}
-\contentsline {subsection}{\numberline {23.1.5}The Algebra-Geometry Dictionary}{105}{subsection.23.1.5}
-\contentsline {subsubsection}{Hilbert's Nullstellensatz}{105}{subsubsection*.395}
-\contentsline {subsubsection}{Radical Ideals and the Ideal-Variety Correspondence}{106}{subsubsection*.396}
-\contentsline {subsubsection}{Sums, Products, and Intersections of Ideals}{106}{subsubsection*.397}
-\contentsline {subsubsection}{Zariski Closure and Quotients of Ideals}{107}{subsubsection*.398}
-\contentsline {subsubsection}{Irreducible Varieties and Prime Ideals}{107}{subsubsection*.399}
-\contentsline {subsection}{\numberline {23.1.6}Polynomials and Rational Functions on a Variety}{108}{subsection.23.1.6}
-\contentsline {subsubsection}{Polynomial Mappings}{108}{subsubsection*.400}
-\contentsline {subsubsection}{Quotients of Polynomial Rings}{108}{subsubsection*.401}
-\contentsline {subsubsection}{The Coordinate Ring of an Affine Variety}{108}{subsubsection*.402}
-\contentsline {section}{\numberline {23.2}Miscellaneous Notes}{109}{section.23.2}
-\contentsline {subsection}{\numberline {23.2.1}\'{E}tale Cohomology}{109}{subsection.23.2.1}
-\contentsline {subsubsection}{Review of Schemes}{109}{subsubsection*.403}
-\contentsline {subsubsection}{Differential Calculus of Schemes}{109}{subsubsection*.404}
-\contentsline {subsubsection}{The Fundamental \'{E}tale Group}{110}{subsubsection*.405}
-\contentsline {subsubsection}{\'{E}tale Topology}{110}{subsubsection*.406}
-\contentsline {subsection}{\numberline {23.2.2}Groebner Basis}{111}{subsection.23.2.2}
-\contentsline {subsection}{\numberline {23.2.3}Elimination Theory}{112}{subsection.23.2.3}
-\contentsline {subsection}{\numberline {23.2.4}The Zariski Topology}{113}{subsection.23.2.4}
-\contentsline {subsubsection}{The Zariski Topology}{113}{subsubsection*.407}
-\contentsline {subsubsection}{Problems}{114}{subsubsection*.408}
-\contentsline {subsection}{\numberline {23.2.5}Notes on Varieties}{114}{subsection.23.2.5}
-\contentsline {subsubsection}{Affine Varieties}{114}{subsubsection*.409}
-\contentsline {subsubsection}{Projective Varieties}{115}{subsubsection*.410}
-\contentsline {subsubsection}{More Notes on Projective Varieties}{115}{subsubsection*.411}
-\contentsline {chapter}{\numberline {24}Surgery Theory}{117}{chapter.24}
-\contentsline {section}{\numberline {24.1}Lecture Notes}{117}{section.24.1}
-\contentsline {subsection}{\numberline {24.1.1}Lecture 1: Homotopy}{117}{subsection.24.1.1}
-\contentsline {subsubsection}{The Unsolvable Word Problem}{123}{subsubsection*.420}
-\contentsline {subsubsection}{Exact Sequences and Surgery Exact Sequences}{123}{subsubsection*.421}
-\contentsline {subsection}{\numberline {24.1.2}Lecture 2: Surgery Structure Sets}{124}{subsection.24.1.2}
-\contentsline {subsubsection}{Orientable and Non-Orientable}{124}{subsubsection*.423}
-\contentsline {subsubsection}{More On Surgery Exact Sequences}{126}{subsubsection*.427}
-\contentsline {subsection}{\numberline {24.1.3}Lecture 3: Vector Bundles and Group Rings}{127}{subsection.24.1.3}
-\contentsline {subsection}{\numberline {24.1.4}Lecture 4: Principle G-Bundles}{127}{subsection.24.1.4}
-\contentsline {subsubsection}{Principle G-Bundles}{128}{subsubsection*.431}
-\contentsline {subsubsection}{Functors}{128}{subsubsection*.432}
-\contentsline {subsubsection}{Grothendique Groupification of Semigroup}{129}{subsubsection*.433}
-\contentsline {subsubsection}{Suspension}{129}{subsubsection*.434}
-\contentsline {subsubsection}{Higher Homotopy}{130}{subsubsection*.435}
-\contentsline {subsubsection}{Fibrations}{130}{subsubsection*.436}
-\contentsline {subsubsection}{Classifying Space}{131}{subsubsection*.437}
-\contentsline {subsection}{\numberline {24.1.5}The Wall L-Groups}{131}{subsection.24.1.5}
-\contentsline {subsubsection}{The Witt Group}{132}{subsubsection*.438}
-\contentsline {part}{\numberline {II}Physics}{133}{part.2}
-\contentsline {chapter}{\numberline {25}Electromagnetism I}{134}{chapter.25}
-\contentsline {section}{\numberline {25.1}Homework From UML PHYS.5530 (95.553)}{134}{section.25.1}
-\contentsline {subsection}{\numberline {25.1.1}Homework I}{134}{subsection.25.1.1}
-\contentsline {subsection}{\numberline {25.1.2}Homework II}{137}{subsection.25.1.2}
-\contentsline {subsection}{\numberline {25.1.3}Homework III}{140}{subsection.25.1.3}
-\contentsline {subsection}{\numberline {25.1.4}Homework IV}{144}{subsection.25.1.4}
-\contentsline {subsection}{\numberline {25.1.5}Homework V}{146}{subsection.25.1.5}
-\contentsline {subsubsection}{Wangsness 4-7}{147}{subsubsection*.448}
-\contentsline {subsubsection}{Wangsness 4-11}{147}{subsubsection*.449}
-\contentsline {subsubsection}{Wangsness 4-12}{147}{subsubsection*.450}
-\contentsline {subsection}{\numberline {25.1.6}Homework VI}{147}{subsection.25.1.6}
-\contentsline {subsubsection}{Wangsness 5-1}{147}{subsubsection*.451}
-\contentsline {subsubsection}{Wangsness 5-3}{148}{subsubsection*.452}
-\contentsline {subsubsection}{Wangsness 5-4}{148}{subsubsection*.454}
-\contentsline {subsubsection}{Wangsness 5-10}{149}{subsubsection*.456}
-\contentsline {subsubsection}{Wangsness 5-11}{149}{subsubsection*.457}
-\contentsline {subsubsection}{Wangsness 5-14}{149}{subsubsection*.458}
-\contentsline {subsection}{\numberline {25.1.7}Homework VII}{149}{subsection.25.1.7}
-\contentsline {subsubsection}{Wangsness 6-6}{149}{subsubsection*.459}
-\contentsline {subsubsection}{Wangsness 6-7}{149}{subsubsection*.460}
-\contentsline {subsubsection}{Wangsness 6-9}{149}{subsubsection*.461}
-\contentsline {subsubsection}{Wangsness 6-10}{150}{subsubsection*.462}
-\contentsline {subsection}{\numberline {25.1.8}Homework VIII}{150}{subsection.25.1.8}
-\contentsline {subsubsection}{Wangsness 7-2}{150}{subsubsection*.463}
-\contentsline {subsubsection}{Wangsness 7-4}{150}{subsubsection*.465}
-\contentsline {subsubsection}{Wangsness 7-6}{150}{subsubsection*.466}
-\contentsline {subsubsection}{Wangsness 7-9}{150}{subsubsection*.468}
-\contentsline {subsubsection}{Wangsness 7-10}{151}{subsubsection*.469}
-\contentsline {subsubsection}{Wangsness 7-17}{151}{subsubsection*.470}
-\contentsline {subsection}{\numberline {25.1.9}Homework IX}{151}{subsection.25.1.9}
-\contentsline {subsubsection}{Wangsness 8-5}{151}{subsubsection*.471}
-\contentsline {subsubsection}{Wangsness 9-1}{152}{subsubsection*.473}
-\contentsline {subsubsection}{Wangsness 9-3}{152}{subsubsection*.474}
-\contentsline {subsection}{\numberline {25.1.10}Homework X}{152}{subsection.25.1.10}
-\contentsline {subsubsection}{Wangsness 10-3}{152}{subsubsection*.475}
-\contentsline {subsubsection}{Wangsness 10-6}{152}{subsubsection*.477}
-\contentsline {subsubsection}{Wangsness 10-17}{152}{subsubsection*.479}
-\contentsline {subsubsection}{Wangsness 10-18}{154}{subsubsection*.480}
-\contentsline {subsubsection}{Wangsness 10-25}{154}{subsubsection*.481}
-\contentsline {subsubsection}{Wangsness 10-27}{154}{subsubsection*.483}
-\contentsline {subsection}{\numberline {25.1.11}Homework XI}{154}{subsection.25.1.11}
-\contentsline {subsubsection}{Wangsness 12-3}{154}{subsubsection*.484}
-\contentsline {subsubsection}{Wangsness 13-4}{155}{subsubsection*.485}
-\contentsline {subsubsection}{Wangsness 14-7}{155}{subsubsection*.487}
-\contentsline {subsubsection}{Wangsness 14-15}{155}{subsubsection*.488}
-\contentsline {subsection}{\numberline {25.1.12}Homework XII}{156}{subsection.25.1.12}
-\contentsline {subsubsection}{Wangsness 15-7}{156}{subsubsection*.490}
-\contentsline {subsubsection}{Wangsness 15-8}{156}{subsubsection*.492}
-\contentsline {subsubsection}{Wangsness 16-10}{157}{subsubsection*.493}
-\contentsline {subsection}{\numberline {25.1.13}Homework XIII}{157}{subsection.25.1.13}
-\contentsline {subsubsection}{Wangsness 17-3}{157}{subsubsection*.494}
-\contentsline {subsubsection}{Wangsness 17-4}{157}{subsubsection*.495}
-\contentsline {subsubsection}{Wangsness 17-19}{157}{subsubsection*.497}
-\contentsline {subsubsection}{Wangsness 17-20}{158}{subsubsection*.498}
-\contentsline {section}{\numberline {25.2}Exams}{158}{section.25.2}
-\contentsline {subsection}{\numberline {25.2.1}Exam I}{158}{subsection.25.2.1}
-\contentsline {subsubsection}{Question I}{158}{subsubsection*.499}
-\contentsline {subsubsection}{Question II}{158}{subsubsection*.500}
-\contentsline {subsubsection}{Question III}{158}{subsubsection*.501}
-\contentsline {subsection}{\numberline {25.2.2}Exam II}{158}{subsection.25.2.2}
-\contentsline {subsubsection}{Question I}{158}{subsubsection*.502}
-\contentsline {subsubsection}{Question II}{158}{subsubsection*.503}
-\contentsline {subsubsection}{Question III}{158}{subsubsection*.504}
-\contentsline {subsection}{\numberline {25.2.3}Exam III}{159}{subsection.25.2.3}
-\contentsline {subsubsection}{Question I}{159}{subsubsection*.505}
-\contentsline {subsubsection}{Question II}{159}{subsubsection*.506}
-\contentsline {subsubsection}{Question III}{159}{subsubsection*.507}
-\contentsline {subsection}{\numberline {25.2.4}Practice Final Exam}{159}{subsection.25.2.4}
-\contentsline {subsubsection}{Problem I}{159}{subsubsection*.508}
-\contentsline {subsubsection}{Problem II}{159}{subsubsection*.509}
-\contentsline {subsubsection}{Problem III}{160}{subsubsection*.510}
-\contentsline {subsubsection}{Problem IV}{160}{subsubsection*.511}
-\contentsline {subsubsection}{Problem V}{160}{subsubsection*.512}
-\contentsline {subsection}{\numberline {25.2.5}Final Exam}{160}{subsection.25.2.5}
-\contentsline {subsubsection}{Problem I}{160}{subsubsection*.513}
-\contentsline {subsubsection}{Problem II}{160}{subsubsection*.514}
-\contentsline {subsubsection}{Problem III}{161}{subsubsection*.515}
-\contentsline {subsubsection}{Problem IV}{161}{subsubsection*.516}
-\contentsline {subsubsection}{Problem V}{161}{subsubsection*.517}
-\contentsline {chapter}{\numberline {26}Electromagnetism II}{162}{chapter.26}
-\contentsline {section}{\numberline {26.1}Homework}{162}{section.26.1}
-\contentsline {subsection}{\numberline {26.1.1}Homework I}{162}{subsection.26.1.1}
-\contentsline {chapter}{\numberline {27}Mechanics}{163}{chapter.27}
-\contentsline {section}{\numberline {27.1}Some Notes on Lagrangian Mechanics}{163}{section.27.1}
-\contentsline {chapter}{\numberline {28}Mathematical Physics I}{165}{chapter.28}
-\contentsline {section}{\numberline {28.1}Cheat Sheet}{165}{section.28.1}
-\contentsline {subsection}{\numberline {28.1.1}Series}{165}{subsection.28.1.1}
-\contentsline {subsection}{\numberline {28.1.2}Complex Variables}{166}{subsection.28.1.2}
-\contentsline {subsection}{\numberline {28.1.3}Matrices}{167}{subsection.28.1.3}
-\contentsline {subsection}{\numberline {28.1.4}Vectors}{168}{subsection.28.1.4}
+\contentsline {section}{\numberline {1.2}Miscellaneous Notes}{21}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}The Language, Notation, and Numbers of Mathematics}{21}{subsection.1.2.1}
+\contentsline {subsubsection}{Solved Problems}{25}{subsubsection*.364}
+\contentsline {subsubsection}{Algebraic Expressions and the Properties of Real Numbers}{25}{subsubsection*.365}
+\contentsline {subsubsection}{Exponents, Scientific Notation, and a Review of Polynomials}{26}{subsubsection*.366}
+\contentsline {subsubsection}{Factoring Polynomials}{28}{subsubsection*.367}
+\contentsline {subsubsection}{Solved Problems}{29}{subsubsection*.368}
+\contentsline {subsubsection}{Rational Expressions}{29}{subsubsection*.369}
+\contentsline {subsubsection}{Radicals and Radical Expressions}{30}{subsubsection*.370}
+\contentsline {subsubsection}{Solved Problems}{31}{subsubsection*.371}
+\contentsline {subsection}{\numberline {1.2.2}Equations and Inequalities}{32}{subsection.1.2.2}
+\contentsline {subsubsection}{Linear Equations}{32}{subsubsection*.372}
+\contentsline {subsubsection}{Solved Problems}{33}{subsubsection*.373}
+\contentsline {subsubsection}{Linear Inequalities in One Variable}{33}{subsubsection*.374}
+\contentsline {subsubsection}{Solved Problems}{34}{subsubsection*.375}
+\contentsline {subsubsection}{Absolute Value Equations and Inequalities}{34}{subsubsection*.376}
+\contentsline {subsubsection}{Solved Problems}{34}{subsubsection*.377}
+\contentsline {subsubsection}{Complex Numbers}{34}{subsubsection*.378}
+\contentsline {subsubsection}{Solved Problems}{35}{subsubsection*.379}
+\contentsline {subsubsection}{Solving Quadratic Equations}{36}{subsubsection*.380}
+\contentsline {subsubsection}{Completing the Square}{36}{subsubsection*.381}
+\contentsline {chapter}{\numberline {2}Calculus I}{37}{chapter.2}
+\contentsline {section}{\numberline {2.1}Exams}{37}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}CLEP Exam}{37}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Exam I}{38}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Exam II}{40}{subsection.2.1.3}
+\contentsline {chapter}{\numberline {3}Calculus II}{42}{chapter.3}
+\contentsline {section}{\numberline {3.1}Exams}{42}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Practice Exam I}{42}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Exam I}{44}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Exam II}{47}{subsection.3.1.3}
+\contentsline {chapter}{\numberline {4}Calculus III}{48}{chapter.4}
+\contentsline {chapter}{\numberline {5}Differential Equations}{49}{chapter.5}
+\contentsline {chapter}{\numberline {6}Linear Algebra I}{50}{chapter.6}
+\contentsline {chapter}{\numberline {7}Linear Algebra II}{51}{chapter.7}
+\contentsline {section}{\numberline {7.1}Miscellaneous Lecture Notes}{51}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Orthogonal Projections}{51}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Reflections}{52}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.3}Lecture Notes on Orthogonal Matrices}{52}{subsection.7.1.3}
+\contentsline {subsection}{\numberline {7.1.4}Rotations}{53}{subsection.7.1.4}
+\contentsline {subsection}{\numberline {7.1.5}The Matrix Exponential}{55}{subsection.7.1.5}
+\contentsline {subsection}{\numberline {7.1.6}Linear Systems of Ordinary Differential Equations}{56}{subsection.7.1.6}
+\contentsline {section}{\numberline {7.2}Problem Sets}{56}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Problem Set I}{56}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Problem Set II}{57}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Problem Set III}{58}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.4}Problem Set IV}{59}{subsection.7.2.4}
+\contentsline {subsection}{\numberline {7.2.5}Problem Set V}{60}{subsection.7.2.5}
+\contentsline {subsection}{\numberline {7.2.6}Problem Set VI}{62}{subsection.7.2.6}
+\contentsline {subsection}{\numberline {7.2.7}Problem Set VII}{63}{subsection.7.2.7}
+\contentsline {subsection}{\numberline {7.2.8}Problem Set VIII}{64}{subsection.7.2.8}
+\contentsline {chapter}{\numberline {8}Discrete Structures I}{66}{chapter.8}
+\contentsline {section}{\numberline {8.1}Exams}{66}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Practice Exam I}{66}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Exam I}{68}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.3}Practice Exam II}{69}{subsection.8.1.3}
+\contentsline {subsection}{\numberline {8.1.4}Exam II}{71}{subsection.8.1.4}
+\contentsline {subsection}{\numberline {8.1.5}Practice Exam III}{72}{subsection.8.1.5}
+\contentsline {subsection}{\numberline {8.1.6}Exam III}{74}{subsection.8.1.6}
+\contentsline {subsection}{\numberline {8.1.7}Final Exam}{75}{subsection.8.1.7}
+\contentsline {section}{\numberline {8.2}Quizzes}{76}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Quiz I}{76}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Quiz II}{76}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Quiz III}{77}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}Quiz IV}{78}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.5}Quiz V}{78}{subsection.8.2.5}
+\contentsline {chapter}{\numberline {9}Discrete Structures II}{79}{chapter.9}
+\contentsline {chapter}{\numberline {10}Mathematical Analysis}{80}{chapter.10}
+\contentsline {chapter}{\numberline {11}Measure Theory}{81}{chapter.11}
+\contentsline {chapter}{\numberline {12}Functional Analysis}{82}{chapter.12}
+\contentsline {chapter}{\numberline {13}Chaos Theory}{83}{chapter.13}
+\contentsline {chapter}{\numberline {14}Introduction to Applied Mathematics}{84}{chapter.14}
+\contentsline {chapter}{\numberline {15}Applied Mathematics}{85}{chapter.15}
+\contentsline {chapter}{\numberline {16}Mathematical Modelling}{86}{chapter.16}
+\contentsline {chapter}{\numberline {17}Problem Solving}{87}{chapter.17}
+\contentsline {chapter}{\numberline {18}Algebra}{88}{chapter.18}
+\contentsline {chapter}{\numberline {19}Number Theory}{89}{chapter.19}
+\contentsline {chapter}{\numberline {20}Topology}{90}{chapter.20}
+\contentsline {chapter}{\numberline {21}Graph Theory}{91}{chapter.21}
+\contentsline {section}{\numberline {21.1}Graph Theory I}{91}{section.21.1}
+\contentsline {section}{\numberline {21.2}Graph Theory II}{107}{section.21.2}
+\contentsline {subsection}{\numberline {21.2.1}Spanning Trees}{107}{subsection.21.2.1}
+\contentsline {subsection}{\numberline {21.2.2}Product Graphs}{107}{subsection.21.2.2}
+\contentsline {subsection}{\numberline {21.2.3}Distance Properties of Graphs}{107}{subsection.21.2.3}
+\contentsline {section}{\numberline {21.3}Additional Material}{107}{section.21.3}
+\contentsline {subsection}{\numberline {21.3.1}F\'{a}ry's Theorem}{107}{subsection.21.3.1}
+\contentsline {subsection}{\numberline {21.3.2}The Art Gallery Theorem}{107}{subsection.21.3.2}
+\contentsline {subsection}{\numberline {21.3.3}F\'{a}ry's Theorem}{107}{subsection.21.3.3}
+\contentsline {subsection}{\numberline {21.3.4}Kuratowski's Theorem}{107}{subsection.21.3.4}
+\contentsline {subsection}{\numberline {21.3.5}Notes}{107}{subsection.21.3.5}
+\contentsline {chapter}{\numberline {22}Probability}{108}{chapter.22}
+\contentsline {chapter}{\numberline {23}Algebraic Geometry}{109}{chapter.23}
+\contentsline {section}{\numberline {23.1}Notes on Cox, Little, and O'Shea}{109}{section.23.1}
+\contentsline {subsection}{\numberline {23.1.1}Preliminaries}{109}{subsection.23.1.1}
+\contentsline {subsubsection}{Groups}{109}{subsubsection*.396}
+\contentsline {subsubsection}{Fields and Rings}{109}{subsubsection*.397}
+\contentsline {subsubsection}{Determinants}{110}{subsubsection*.398}
+\contentsline {subsection}{\numberline {23.1.2}Geometry, Algebra, and Algorithms}{111}{subsection.23.1.2}
+\contentsline {subsubsection}{Polynomials and Affine Space}{111}{subsubsection*.399}
+\contentsline {subsubsection}{Affine Varieties}{112}{subsubsection*.400}
+\contentsline {subsubsection}{Parametrizations of Affine Varieties}{113}{subsubsection*.401}
+\contentsline {subsubsection}{Ideals}{114}{subsubsection*.402}
+\contentsline {subsubsection}{Polynomials in One Variable}{116}{subsubsection*.403}
+\contentsline {subsection}{\numberline {23.1.3}Groebner Bases}{116}{subsection.23.1.3}
+\contentsline {subsubsection}{Introduction}{116}{subsubsection*.404}
+\contentsline {subsubsection}{Orderings on the Monomials in $k[x_1,\mathinner {\ldotp \ldotp \ldotp },x_n]$}{117}{subsubsection*.405}
+\contentsline {subsubsection}{The Hilbert Basis Theorem and Groebner Bases}{118}{subsubsection*.406}
+\contentsline {subsubsection}{Properties of Groebner Bases}{118}{subsubsection*.407}
+\contentsline {subsection}{\numberline {23.1.4}Elimination Theory}{118}{subsection.23.1.4}
+\contentsline {subsubsection}{The Elimination and Extension Theorems}{118}{subsubsection*.408}
+\contentsline {subsubsection}{The Geometry of Elimination}{119}{subsubsection*.409}
+\contentsline {subsubsection}{Implicitization}{119}{subsubsection*.410}
+\contentsline {subsubsection}{Singular Points and Envelopes}{119}{subsubsection*.411}
+\contentsline {subsubsection}{Unique Factorization and Resultants}{120}{subsubsection*.412}
+\contentsline {subsection}{\numberline {23.1.5}The Algebra-Geometry Dictionary}{120}{subsection.23.1.5}
+\contentsline {subsubsection}{Hilbert's Nullstellensatz}{120}{subsubsection*.413}
+\contentsline {subsubsection}{Radical Ideals and the Ideal-Variety Correspondence}{121}{subsubsection*.414}
+\contentsline {subsubsection}{Sums, Products, and Intersections of Ideals}{121}{subsubsection*.415}
+\contentsline {subsubsection}{Zariski Closure and Quotients of Ideals}{122}{subsubsection*.416}
+\contentsline {subsubsection}{Irreducible Varieties and Prime Ideals}{122}{subsubsection*.417}
+\contentsline {subsection}{\numberline {23.1.6}Polynomials and Rational Functions on a Variety}{123}{subsection.23.1.6}
+\contentsline {subsubsection}{Polynomial Mappings}{123}{subsubsection*.418}
+\contentsline {subsubsection}{Quotients of Polynomial Rings}{123}{subsubsection*.419}
+\contentsline {subsubsection}{The Coordinate Ring of an Affine Variety}{123}{subsubsection*.420}
+\contentsline {section}{\numberline {23.2}Miscellaneous Notes}{124}{section.23.2}
+\contentsline {subsection}{\numberline {23.2.1}\'{E}tale Cohomology}{124}{subsection.23.2.1}
+\contentsline {subsubsection}{Review of Schemes}{124}{subsubsection*.421}
+\contentsline {subsubsection}{Differential Calculus of Schemes}{124}{subsubsection*.422}
+\contentsline {subsubsection}{The Fundamental \'{E}tale Group}{125}{subsubsection*.423}
+\contentsline {subsubsection}{\'{E}tale Topology}{125}{subsubsection*.424}
+\contentsline {subsection}{\numberline {23.2.2}Groebner Basis}{126}{subsection.23.2.2}
+\contentsline {subsection}{\numberline {23.2.3}Elimination Theory}{127}{subsection.23.2.3}
+\contentsline {subsection}{\numberline {23.2.4}The Zariski Topology}{128}{subsection.23.2.4}
+\contentsline {subsubsection}{The Zariski Topology}{128}{subsubsection*.425}
+\contentsline {subsubsection}{Problems}{129}{subsubsection*.426}
+\contentsline {subsection}{\numberline {23.2.5}Notes on Varieties}{129}{subsection.23.2.5}
+\contentsline {subsubsection}{Affine Varieties}{129}{subsubsection*.427}
+\contentsline {subsubsection}{Projective Varieties}{130}{subsubsection*.428}
+\contentsline {subsubsection}{More Notes on Projective Varieties}{130}{subsubsection*.429}
+\contentsline {chapter}{\numberline {24}Surgery Theory}{132}{chapter.24}
+\contentsline {section}{\numberline {24.1}Lecture Notes}{132}{section.24.1}
+\contentsline {subsection}{\numberline {24.1.1}Lecture 1: Homotopy}{132}{subsection.24.1.1}
+\contentsline {subsubsection}{The Unsolvable Word Problem}{138}{subsubsection*.438}
+\contentsline {subsubsection}{Exact Sequences and Surgery Exact Sequences}{138}{subsubsection*.439}
+\contentsline {subsection}{\numberline {24.1.2}Lecture 2: Surgery Structure Sets}{139}{subsection.24.1.2}
+\contentsline {subsubsection}{Orientable and Non-Orientable}{139}{subsubsection*.441}
+\contentsline {subsubsection}{More On Surgery Exact Sequences}{141}{subsubsection*.445}
+\contentsline {subsection}{\numberline {24.1.3}Lecture 3: Vector Bundles and Group Rings}{142}{subsection.24.1.3}
+\contentsline {subsection}{\numberline {24.1.4}Lecture 4: Principle G-Bundles}{142}{subsection.24.1.4}
+\contentsline {subsubsection}{Principle G-Bundles}{143}{subsubsection*.449}
+\contentsline {subsubsection}{Functors}{143}{subsubsection*.450}
+\contentsline {subsubsection}{Grothendique Groupification of Semigroup}{144}{subsubsection*.451}
+\contentsline {subsubsection}{Suspension}{144}{subsubsection*.452}
+\contentsline {subsubsection}{Higher Homotopy}{145}{subsubsection*.453}
+\contentsline {subsubsection}{Fibrations}{145}{subsubsection*.454}
+\contentsline {subsubsection}{Classifying Space}{146}{subsubsection*.455}
+\contentsline {subsection}{\numberline {24.1.5}The Wall L-Groups}{146}{subsection.24.1.5}
+\contentsline {subsubsection}{The Witt Group}{147}{subsubsection*.456}
+\contentsline {part}{\numberline {II}Physics}{148}{part.2}
+\contentsline {chapter}{\numberline {25}Electromagnetism I}{149}{chapter.25}
+\contentsline {section}{\numberline {25.1}Homework From UML PHYS.5530 (95.553)}{149}{section.25.1}
+\contentsline {subsection}{\numberline {25.1.1}Homework I}{149}{subsection.25.1.1}
+\contentsline {subsection}{\numberline {25.1.2}Homework II}{152}{subsection.25.1.2}
+\contentsline {subsection}{\numberline {25.1.3}Homework III}{155}{subsection.25.1.3}
+\contentsline {subsection}{\numberline {25.1.4}Homework IV}{159}{subsection.25.1.4}
+\contentsline {subsection}{\numberline {25.1.5}Homework V}{161}{subsection.25.1.5}
+\contentsline {subsubsection}{Wangsness 4-7}{162}{subsubsection*.466}
+\contentsline {subsubsection}{Wangsness 4-11}{162}{subsubsection*.467}
+\contentsline {subsubsection}{Wangsness 4-12}{162}{subsubsection*.468}
+\contentsline {subsection}{\numberline {25.1.6}Homework VI}{162}{subsection.25.1.6}
+\contentsline {subsubsection}{Wangsness 5-1}{162}{subsubsection*.469}
+\contentsline {subsubsection}{Wangsness 5-3}{163}{subsubsection*.470}
+\contentsline {subsubsection}{Wangsness 5-4}{163}{subsubsection*.472}
+\contentsline {subsubsection}{Wangsness 5-10}{164}{subsubsection*.474}
+\contentsline {subsubsection}{Wangsness 5-11}{164}{subsubsection*.475}
+\contentsline {subsubsection}{Wangsness 5-14}{164}{subsubsection*.476}
+\contentsline {subsection}{\numberline {25.1.7}Homework VII}{164}{subsection.25.1.7}
+\contentsline {subsubsection}{Wangsness 6-6}{164}{subsubsection*.477}
+\contentsline {subsubsection}{Wangsness 6-7}{164}{subsubsection*.478}
+\contentsline {subsubsection}{Wangsness 6-9}{164}{subsubsection*.479}
+\contentsline {subsubsection}{Wangsness 6-10}{165}{subsubsection*.480}
+\contentsline {subsection}{\numberline {25.1.8}Homework VIII}{165}{subsection.25.1.8}
+\contentsline {subsubsection}{Wangsness 7-2}{165}{subsubsection*.481}
+\contentsline {subsubsection}{Wangsness 7-4}{165}{subsubsection*.483}
+\contentsline {subsubsection}{Wangsness 7-6}{165}{subsubsection*.484}
+\contentsline {subsubsection}{Wangsness 7-9}{165}{subsubsection*.486}
+\contentsline {subsubsection}{Wangsness 7-10}{166}{subsubsection*.487}
+\contentsline {subsubsection}{Wangsness 7-17}{166}{subsubsection*.488}
+\contentsline {subsection}{\numberline {25.1.9}Homework IX}{166}{subsection.25.1.9}
+\contentsline {subsubsection}{Wangsness 8-5}{166}{subsubsection*.489}
+\contentsline {subsubsection}{Wangsness 9-1}{167}{subsubsection*.491}
+\contentsline {subsubsection}{Wangsness 9-3}{167}{subsubsection*.492}
+\contentsline {subsection}{\numberline {25.1.10}Homework X}{167}{subsection.25.1.10}
+\contentsline {subsubsection}{Wangsness 10-3}{167}{subsubsection*.493}
+\contentsline {subsubsection}{Wangsness 10-6}{167}{subsubsection*.495}
+\contentsline {subsubsection}{Wangsness 10-17}{167}{subsubsection*.497}
+\contentsline {subsubsection}{Wangsness 10-18}{169}{subsubsection*.498}
+\contentsline {subsubsection}{Wangsness 10-25}{169}{subsubsection*.499}
+\contentsline {subsubsection}{Wangsness 10-27}{169}{subsubsection*.501}
+\contentsline {subsection}{\numberline {25.1.11}Homework XI}{169}{subsection.25.1.11}
+\contentsline {subsubsection}{Wangsness 12-3}{169}{subsubsection*.502}
+\contentsline {subsubsection}{Wangsness 13-4}{170}{subsubsection*.503}
+\contentsline {subsubsection}{Wangsness 14-7}{170}{subsubsection*.505}
+\contentsline {subsubsection}{Wangsness 14-15}{170}{subsubsection*.506}
+\contentsline {subsection}{\numberline {25.1.12}Homework XII}{171}{subsection.25.1.12}
+\contentsline {subsubsection}{Wangsness 15-7}{171}{subsubsection*.508}
+\contentsline {subsubsection}{Wangsness 15-8}{171}{subsubsection*.510}
+\contentsline {subsubsection}{Wangsness 16-10}{172}{subsubsection*.511}
+\contentsline {subsection}{\numberline {25.1.13}Homework XIII}{172}{subsection.25.1.13}
+\contentsline {subsubsection}{Wangsness 17-3}{172}{subsubsection*.512}
+\contentsline {subsubsection}{Wangsness 17-4}{172}{subsubsection*.513}
+\contentsline {subsubsection}{Wangsness 17-19}{172}{subsubsection*.515}
+\contentsline {subsubsection}{Wangsness 17-20}{173}{subsubsection*.516}
+\contentsline {section}{\numberline {25.2}Exams}{173}{section.25.2}
+\contentsline {subsection}{\numberline {25.2.1}Exam I}{173}{subsection.25.2.1}
+\contentsline {subsubsection}{Question I}{173}{subsubsection*.517}
+\contentsline {subsubsection}{Question II}{173}{subsubsection*.518}
+\contentsline {subsubsection}{Question III}{173}{subsubsection*.519}
+\contentsline {subsection}{\numberline {25.2.2}Exam II}{173}{subsection.25.2.2}
+\contentsline {subsubsection}{Question I}{173}{subsubsection*.520}
+\contentsline {subsubsection}{Question II}{173}{subsubsection*.521}
+\contentsline {subsubsection}{Question III}{173}{subsubsection*.522}
+\contentsline {subsection}{\numberline {25.2.3}Exam III}{174}{subsection.25.2.3}
+\contentsline {subsubsection}{Question I}{174}{subsubsection*.523}
+\contentsline {subsubsection}{Question II}{174}{subsubsection*.524}
+\contentsline {subsubsection}{Question III}{174}{subsubsection*.525}
+\contentsline {subsection}{\numberline {25.2.4}Practice Final Exam}{174}{subsection.25.2.4}
+\contentsline {subsubsection}{Problem I}{174}{subsubsection*.526}
+\contentsline {subsubsection}{Problem II}{174}{subsubsection*.527}
+\contentsline {subsubsection}{Problem III}{175}{subsubsection*.528}
+\contentsline {subsubsection}{Problem IV}{175}{subsubsection*.529}
+\contentsline {subsubsection}{Problem V}{175}{subsubsection*.530}
+\contentsline {subsection}{\numberline {25.2.5}Final Exam}{175}{subsection.25.2.5}
+\contentsline {subsubsection}{Problem I}{175}{subsubsection*.531}
+\contentsline {subsubsection}{Problem II}{175}{subsubsection*.532}
+\contentsline {subsubsection}{Problem III}{176}{subsubsection*.533}
+\contentsline {subsubsection}{Problem IV}{176}{subsubsection*.534}
+\contentsline {subsubsection}{Problem V}{176}{subsubsection*.535}
+\contentsline {chapter}{\numberline {26}Electromagnetism II}{177}{chapter.26}
+\contentsline {section}{\numberline {26.1}Homework}{177}{section.26.1}
+\contentsline {subsection}{\numberline {26.1.1}Homework I}{177}{subsection.26.1.1}
+\contentsline {chapter}{\numberline {27}Mechanics}{178}{chapter.27}
+\contentsline {section}{\numberline {27.1}Some Notes on Lagrangian Mechanics}{178}{section.27.1}
+\contentsline {chapter}{\numberline {28}Mathematical Physics I}{180}{chapter.28}
+\contentsline {section}{\numberline {28.1}Cheat Sheet}{180}{section.28.1}
+\contentsline {subsection}{\numberline {28.1.1}Series}{180}{subsection.28.1.1}
+\contentsline {subsection}{\numberline {28.1.2}Complex Variables}{181}{subsection.28.1.2}
+\contentsline {subsection}{\numberline {28.1.3}Matrices}{182}{subsection.28.1.3}
+\contentsline {subsection}{\numberline {28.1.4}Vectors}{183}{subsection.28.1.4}
 \newpage 
-\contentsline {book}{Book\ \Numberstringnum {2}:\hspace {1em}Undergraduate Research}{169}{book.2}
-\contentsline {part}{\numberline {III}Research: LoCSST}{170}{part.3}
-\contentsline {part}{\numberline {IV}Research: Whitin Observatory}{171}{part.4}
-\contentsline {chapter}{\numberline {29}Cassini: Articles and Papers}{172}{chapter.29}
-\contentsline {section}{\numberline {29.1}Cassini Radio Science User's Guide}{172}{section.29.1}
-\contentsline {subsection}{\numberline {29.1.1}Introduction}{172}{subsection.29.1.1}
-\contentsline {subsection}{\numberline {29.1.2}Cassini Radio Science}{172}{subsection.29.1.2}
-\contentsline {subsubsection}{Radio Science Observations and Instrumentation}{172}{subsubsection*.518}
-\contentsline {subsubsection}{Spacecraft }{173}{subsubsection*.521}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Radio Frequency Subsystem }{173}{subsubsection*.522}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip USO }{174}{subsubsection*.525}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Attitude and Articulation Control Subsystem }{175}{subsubsection*.528}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Other Subsystems }{175}{subsubsection*.529}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Ground Systems }{175}{subsubsection*.530}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Closed-Loop Tracking Receiver }{176}{subsubsection*.531}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Open-Loop Radio Science Receiever }{176}{subsubsection*.532}
-\contentsline {subsubsection}{Radio Science Receiver Observables and Analysis}{176}{subsubsection*.533}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Sky Frequency}{176}{subsubsection*.534}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Observation Planning }{177}{subsubsection*.535}
-\contentsline {subsubsection}{Data Archives}{177}{subsubsection*.536}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip RSR }{178}{subsubsection*.537}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Other}{178}{subsubsection*.538}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip SPK and CKF}{178}{subsubsection*.539}
-\contentsline {subsection}{\numberline {29.1.3}Radio Science Investigations}{178}{subsection.29.1.3}
-\contentsline {subsubsection}{Gravity}{178}{subsubsection*.540}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Field Representation}{179}{subsubsection*.541}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Data Processing}{179}{subsubsection*.542}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Calculation of Observables}{179}{subsubsection*.544}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Planetary/Satellite Ephemeris Update}{180}{subsubsection*.545}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Integration of Equations of Motions and Variational Equations}{180}{subsubsection*.546}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Time Transformations}{180}{subsubsection*.547}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Ground Station State Computation}{180}{subsubsection*.548}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Light-Time Computation}{181}{subsubsection*.549}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Estimation Filter}{181}{subsubsection*.550}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Solution Analysis}{181}{subsubsection*.551}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Solve-For Parameters}{182}{subsubsection*.552}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Consider Parameters}{182}{subsubsection*.553}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Exact Parameters}{182}{subsubsection*.554}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: \textit {a priori} Uncertainties}{182}{subsubsection*.555}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Pre-processing of Radiometric Measurements}{182}{subsubsection*.556}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Data Selection}{182}{subsubsection*.557}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Data Compression}{182}{subsubsection*.558}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Group and Phase Delay Calibration}{182}{subsubsection*.559}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Estimation Filter}{183}{subsubsection*.560}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Solution Analysis and Results}{183}{subsubsection*.562}
-\contentsline {subsubsection}{Atmosphere}{183}{subsubsection*.563}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Neutral Atmosphere}{184}{subsubsection*.564}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Analysis}{184}{subsubsection*.565}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Converting Raw RSR Data to Usable Forms}{184}{subsubsection*.566}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Using the Ephemeris}{185}{subsubsection*.568}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Abel Inversion}{186}{subsubsection*.570}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Ionosphere}{187}{subsubsection*.571}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Signal Detection in the RSR}{187}{subsubsection*.572}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Conversion of Recorded Frequency to Sky Frequency}{187}{subsubsection*.573}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Conversion of Sky Frequency to Residuals}{187}{subsubsection*.574}
-\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Extraction of the Ionospheric Profile}{187}{subsubsection*.575}
-\contentsline {subsubsection}{Rings}{188}{subsubsection*.577}
-\contentsline {subsubsection}{Surface Scattering}{192}{subsubsection*.582}
-\contentsline {subsubsection}{Fundamental Physics}{193}{subsubsection*.584}
-\contentsline {section}{\numberline {29.2}Theory of Radio Occultation by Saturn's Rings - Marouf et. al.}{194}{section.29.2}
-\contentsline {subsection}{\numberline {29.2.1}Abstract}{194}{subsection.29.2.1}
-\contentsline {subsection}{\numberline {29.2.2}Introduction}{194}{subsection.29.2.2}
-\contentsline {subsubsection}{Received Signal}{195}{subsubsection*.585}
-\contentsline {subsection}{\numberline {29.2.3}Model}{196}{subsection.29.2.3}
-\contentsline {subsection}{\numberline {29.2.4}Statistics}{196}{subsection.29.2.4}
-\contentsline {subsection}{\numberline {29.2.5}Coherent Signal}{197}{subsection.29.2.5}
-\contentsline {section}{\numberline {29.3}Profiling Saturn's Rings by Radio Occultation - Marouf et. al.}{198}{section.29.3}
-\contentsline {section}{\numberline {29.4}Geometry of the Saturn System}{198}{section.29.4}
-\contentsline {section}{\numberline {29.5}Characteristics of Different Smoothing Windows}{198}{section.29.5}
-\contentsline {subsubsection}{Rectangular}{198}{subsubsection*.588}
-\contentsline {subsubsection}{Bohman}{198}{subsubsection*.589}
-\contentsline {subsubsection}{Hanning}{198}{subsubsection*.590}
-\contentsline {subsubsection}{Hamming}{198}{subsubsection*.591}
-\contentsline {subsubsection}{Kaiser-Bessel}{199}{subsubsection*.592}
-\contentsline {subsubsection}{Low Sidelobe}{199}{subsubsection*.593}
-\contentsline {subsubsection}{Bartlett Window}{199}{subsubsection*.594}
-\contentsline {subsubsection}{Modified Bartlett-Hanning}{199}{subsubsection*.595}
-\contentsline {subsubsection}{Parzen}{199}{subsubsection*.596}
-\contentsline {subsubsection}{Welch Window}{199}{subsubsection*.597}
-\contentsline {subsubsection}{Flat Top Window}{199}{subsubsection*.598}
-\contentsline {subsubsection}{Exponential Window}{200}{subsubsection*.599}
-\contentsline {subsubsection}{Blackman Window}{200}{subsubsection*.600}
-\contentsline {subsubsection}{Exact Blackman Window}{200}{subsubsection*.601}
-\contentsline {subsubsection}{Blackman-Harris Window}{200}{subsubsection*.602}
-\contentsline {subsubsection}{Blackman-Nuttal Window}{200}{subsubsection*.603}
-\contentsline {subsubsection}{General Cosine Window}{200}{subsubsection*.605}
-\contentsline {subsubsection}{Cosine Tapered Window}{201}{subsubsection*.606}
-\contentsline {subsubsection}{Gaussian Window}{201}{subsubsection*.607}
-\contentsline {subsubsection}{Dolph-Chebyshev Window}{201}{subsubsection*.608}
-\contentsline {subsubsection}{Force Window}{201}{subsubsection*.610}
-\contentsline {section}{\numberline {29.6}Partial-Wave Resonances - Chylek}{201}{section.29.6}
-\contentsline {subsection}{\numberline {29.6.1}Abstract}{201}{subsection.29.6.1}
-\contentsline {subsection}{\numberline {29.6.2}Main Article}{202}{subsection.29.6.2}
-\contentsline {section}{\numberline {29.7}Hanning Function - Wolfram Article}{202}{section.29.7}
-\contentsline {section}{\numberline {29.8}Hamming Function - Wolfram Article}{203}{section.29.8}
-\contentsline {section}{\numberline {29.9}Understanding FFTs and Windowing}{203}{section.29.9}
-\contentsline {section}{\numberline {29.10}Low-Complexity Real-Time Single-Tone Phase and Frequency Estimation}{204}{section.29.10}
-\contentsline {section}{\numberline {29.11}One-Dimensional Phase Unwrapping Problem}{205}{section.29.11}
-\contentsline {section}{\numberline {29.12}Rev 280 Occultation}{205}{section.29.12}
-\contentsline {section}{\numberline {29.13}Rev 282 Occultation}{205}{section.29.13}
-\contentsline {chapter}{\numberline {30}Notes on Mathematics}{206}{chapter.30}
-\contentsline {section}{\numberline {30.1}Atmospheric Occultation}{206}{section.30.1}
-\contentsline {subsection}{\numberline {30.1.1}Titan Geometry}{206}{subsection.30.1.1}
-\contentsline {section}{\numberline {30.2}Ring Occultation}{209}{section.30.2}
-\contentsline {subsection}{\numberline {30.2.1}Ring Geometry}{209}{subsection.30.2.1}
-\contentsline {subsection}{\numberline {30.2.2}Derivation of Equation 4a in Marouf et al.}{210}{subsection.30.2.2}
-\contentsline {subsection}{\numberline {30.2.3}Shannon's Sampling Theorem}{211}{subsection.30.2.3}
-\contentsline {subsection}{\numberline {30.2.4}Diffraction Through a Square Well}{212}{subsection.30.2.4}
-\contentsline {subsection}{\numberline {30.2.5}Derivation of the Solution of Diffraction Through an Inverted Square Well}{212}{subsection.30.2.5}
-\contentsline {subsection}{\numberline {30.2.6}Radial Shift from a Linear Phase Offset}{213}{subsection.30.2.6}
-\contentsline {subsection}{\numberline {30.2.7}Some Useful Results}{214}{subsection.30.2.7}
-\contentsline {section}{\numberline {30.3}Some Notes on Fresnel Inversion}{217}{section.30.3}
-\contentsline {section}{\numberline {30.4}Window Width as a Function of Resolution}{217}{section.30.4}
-\contentsline {section}{\numberline {30.5}Old Notes}{218}{section.30.5}
-\contentsline {subsection}{\numberline {30.5.1}The Forward Model}{218}{subsection.30.5.1}
-\contentsline {subsection}{\numberline {30.5.2}Stationary Phase Approximation}{218}{subsection.30.5.2}
-\contentsline {chapter}{\numberline {31}Easy Data Example}{220}{chapter.31}
-\contentsline {section}{\numberline {31.1}Example 1}{220}{section.31.1}
-\contentsline {section}{\numberline {31.2}Example 2}{227}{section.31.2}
-\contentsline {chapter}{\numberline {32}Cassini Interim January 2018 Report}{236}{chapter.32}
-\contentsline {section}{\numberline {32.1}Introduction}{237}{section.32.1}
-\contentsline {section}{\numberline {32.2}General Approach and Analysis Methods}{237}{section.32.2}
-\contentsline {subsection}{\numberline {32.2.1}Occultation Geometry}{238}{subsection.32.2.1}
-\contentsline {subsection}{\numberline {32.2.2}Calibrated Observed Diffraction Pattern of Direct Signal}{238}{subsection.32.2.2}
-\contentsline {subsection}{\numberline {32.2.3}Diffraction-Corrected Optical Depth Profiles}{238}{subsection.32.2.3}
-\contentsline {subsection}{\numberline {32.2.4}Additional Useful Information}{238}{subsection.32.2.4}
-\contentsline {section}{\numberline {32.3}Critical Tests of Processing Methods and Codes}{239}{section.32.3}
-\contentsline {subsection}{\numberline {32.3.1}Comparison with Cassini Radio Science User's Guide}{239}{subsection.32.3.1}
-\contentsline {subsubsection}{Frequency Estimation}{239}{subsubsection*.636}
-\contentsline {subsubsection}{Frequency-Corrected Phase}{239}{subsubsection*.638}
-\contentsline {subsubsection}{Normalized Power}{240}{subsubsection*.641}
-\contentsline {subsubsection}{Calibrated Diffraction Profile}{241}{subsubsection*.643}
-\contentsline {subsubsection}{Open Issues}{242}{subsubsection*.646}
-\contentsline {subsection}{\numberline {32.3.2}Comparison with Existing Results on the PDS}{242}{subsection.32.3.2}
-\contentsline {subsubsection}{Occultation Geometry}{242}{subsubsection*.647}
-\contentsline {subsubsection}{Calibration Files}{243}{subsubsection*.649}
-\contentsline {subsubsection}{Diffraction-Corrected Ring Profiles}{243}{subsubsection*.650}
-\contentsline {subsubsection}{Open Issues}{244}{subsubsection*.652}
-\contentsline {subsection}{\numberline {32.3.3}Additional Tests}{244}{subsection.32.3.3}
-\contentsline {subsubsection}{C Ring Ripples - Rev133E}{244}{subsubsection*.653}
-\contentsline {subsection}{\numberline {32.3.4}High Resolution F Ring Profiles}{245}{subsection.32.3.4}
-\contentsline {section}{\numberline {32.4}Proposed PDS Organization and Contents}{249}{section.32.4}
-\contentsline {subsection}{\numberline {32.4.1}Directory Structure}{249}{subsection.32.4.1}
-\contentsline {subsection}{\numberline {32.4.2}Sample Auxiliary Information}{251}{subsection.32.4.2}
-\contentsline {section}{\numberline {32.5}Data Pipeline}{251}{section.32.5}
-\contentsline {subsection}{\numberline {32.5.1}Conversion of Software to Python 3}{255}{subsection.32.5.1}
-\contentsline {subsection}{\numberline {32.5.2}Documentation}{258}{subsection.32.5.2}
-\contentsline {section}{\numberline {32.6}Future Milestones and Delivery Schedule}{259}{section.32.6}
+\contentsline {book}{ Book\ \Numberstringnum {2} :\hspace {1em}Undergraduate Research }{184}{book.2}
+\contentsline {part}{\numberline {III}Research: LoCSST}{185}{part.3}
+\contentsline {part}{\numberline {IV}Research: Whitin Observatory}{186}{part.4}
+\contentsline {chapter}{\numberline {29}Cassini: Articles and Papers}{187}{chapter.29}
+\contentsline {section}{\numberline {29.1}Cassini Radio Science User's Guide}{187}{section.29.1}
+\contentsline {subsection}{\numberline {29.1.1}Introduction}{187}{subsection.29.1.1}
+\contentsline {subsection}{\numberline {29.1.2}Cassini Radio Science}{187}{subsection.29.1.2}
+\contentsline {subsubsection}{Radio Science Observations and Instrumentation}{187}{subsubsection*.536}
+\contentsline {subsubsection}{Spacecraft }{188}{subsubsection*.539}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Radio Frequency Subsystem }{188}{subsubsection*.540}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip USO }{189}{subsubsection*.543}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Attitude and Articulation Control Subsystem }{190}{subsubsection*.546}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Other Subsystems }{190}{subsubsection*.547}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Ground Systems }{190}{subsubsection*.548}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Closed-Loop Tracking Receiver }{191}{subsubsection*.549}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Open-Loop Radio Science Receiever }{191}{subsubsection*.550}
+\contentsline {subsubsection}{Radio Science Receiver Observables and Analysis}{191}{subsubsection*.551}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Sky Frequency}{191}{subsubsection*.552}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Observation Planning }{192}{subsubsection*.553}
+\contentsline {subsubsection}{Data Archives}{192}{subsubsection*.554}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip RSR }{193}{subsubsection*.555}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Other}{193}{subsubsection*.556}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip SPK and CKF}{193}{subsubsection*.557}
+\contentsline {subsection}{\numberline {29.1.3}Radio Science Investigations}{193}{subsection.29.1.3}
+\contentsline {subsubsection}{Gravity}{193}{subsubsection*.558}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Field Representation}{194}{subsubsection*.559}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Data Processing}{194}{subsubsection*.560}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Calculation of Observables}{194}{subsubsection*.562}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Planetary/Satellite Ephemeris Update}{195}{subsubsection*.563}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Integration of Equations of Motions and Variational Equations}{195}{subsubsection*.564}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Time Transformations}{195}{subsubsection*.565}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Ground Station State Computation}{195}{subsubsection*.566}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Light-Time Computation}{196}{subsubsection*.567}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Estimation Filter}{196}{subsubsection*.568}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Solution Analysis}{196}{subsubsection*.569}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Solve-For Parameters}{197}{subsubsection*.570}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Consider Parameters}{197}{subsubsection*.571}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Exact Parameters}{197}{subsubsection*.572}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: \textit {a priori} Uncertainties}{197}{subsubsection*.573}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Pre-processing of Radiometric Measurements}{197}{subsubsection*.574}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Data Selection}{197}{subsubsection*.575}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Data Compression}{197}{subsubsection*.576}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Group and Phase Delay Calibration}{197}{subsubsection*.577}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Estimation Filter}{198}{subsubsection*.578}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Rhea: Solution Analysis and Results}{198}{subsubsection*.580}
+\contentsline {subsubsection}{Atmosphere}{198}{subsubsection*.581}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Neutral Atmosphere}{199}{subsubsection*.582}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Analysis}{199}{subsubsection*.583}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Converting Raw RSR Data to Usable Forms}{199}{subsubsection*.584}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Using the Ephemeris}{200}{subsubsection*.586}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Abel Inversion}{201}{subsubsection*.588}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Ionosphere}{202}{subsubsection*.589}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Signal Detection in the RSR}{202}{subsubsection*.590}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Conversion of Recorded Frequency to Sky Frequency}{202}{subsubsection*.591}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Conversion of Sky Frequency to Residuals}{202}{subsubsection*.592}
+\contentsline {subsubsection}{\relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Extraction of the Ionospheric Profile}{202}{subsubsection*.593}
+\contentsline {subsubsection}{Rings}{203}{subsubsection*.595}
+\contentsline {subsubsection}{Surface Scattering}{207}{subsubsection*.600}
+\contentsline {subsubsection}{Fundamental Physics}{208}{subsubsection*.602}
+\contentsline {section}{\numberline {29.2}Theory of Radio Occultation by Saturn's Rings - Marouf et. al.}{209}{section.29.2}
+\contentsline {subsection}{\numberline {29.2.1}Abstract}{209}{subsection.29.2.1}
+\contentsline {subsection}{\numberline {29.2.2}Introduction}{209}{subsection.29.2.2}
+\contentsline {subsubsection}{Received Signal}{210}{subsubsection*.603}
+\contentsline {subsection}{\numberline {29.2.3}Model}{211}{subsection.29.2.3}
+\contentsline {subsection}{\numberline {29.2.4}Statistics}{211}{subsection.29.2.4}
+\contentsline {subsection}{\numberline {29.2.5}Coherent Signal}{212}{subsection.29.2.5}
+\contentsline {section}{\numberline {29.3}Profiling Saturn's Rings by Radio Occultation - Marouf et. al.}{213}{section.29.3}
+\contentsline {section}{\numberline {29.4}Geometry of the Saturn System}{213}{section.29.4}
+\contentsline {section}{\numberline {29.5}Characteristics of Different Smoothing Windows}{213}{section.29.5}
+\contentsline {subsubsection}{Rectangular}{213}{subsubsection*.606}
+\contentsline {subsubsection}{Bohman}{213}{subsubsection*.607}
+\contentsline {subsubsection}{Hanning}{213}{subsubsection*.608}
+\contentsline {subsubsection}{Hamming}{213}{subsubsection*.609}
+\contentsline {subsubsection}{Kaiser-Bessel}{214}{subsubsection*.610}
+\contentsline {subsubsection}{Low Sidelobe}{214}{subsubsection*.611}
+\contentsline {subsubsection}{Bartlett Window}{214}{subsubsection*.612}
+\contentsline {subsubsection}{Modified Bartlett-Hanning}{214}{subsubsection*.613}
+\contentsline {subsubsection}{Parzen}{214}{subsubsection*.614}
+\contentsline {subsubsection}{Welch Window}{214}{subsubsection*.615}
+\contentsline {subsubsection}{Flat Top Window}{214}{subsubsection*.616}
+\contentsline {subsubsection}{Exponential Window}{215}{subsubsection*.617}
+\contentsline {subsubsection}{Blackman Window}{215}{subsubsection*.618}
+\contentsline {subsubsection}{Exact Blackman Window}{215}{subsubsection*.619}
+\contentsline {subsubsection}{Blackman-Harris Window}{215}{subsubsection*.620}
+\contentsline {subsubsection}{Blackman-Nuttal Window}{215}{subsubsection*.621}
+\contentsline {subsubsection}{General Cosine Window}{215}{subsubsection*.623}
+\contentsline {subsubsection}{Cosine Tapered Window}{216}{subsubsection*.624}
+\contentsline {subsubsection}{Gaussian Window}{216}{subsubsection*.625}
+\contentsline {subsubsection}{Dolph-Chebyshev Window}{216}{subsubsection*.626}
+\contentsline {subsubsection}{Force Window}{216}{subsubsection*.628}
+\contentsline {section}{\numberline {29.6}Partial-Wave Resonances - Chylek}{216}{section.29.6}
+\contentsline {subsection}{\numberline {29.6.1}Abstract}{216}{subsection.29.6.1}
+\contentsline {subsection}{\numberline {29.6.2}Main Article}{217}{subsection.29.6.2}
+\contentsline {section}{\numberline {29.7}Hanning Function - Wolfram Article}{217}{section.29.7}
+\contentsline {section}{\numberline {29.8}Hamming Function - Wolfram Article}{218}{section.29.8}
+\contentsline {section}{\numberline {29.9}Understanding FFTs and Windowing}{218}{section.29.9}
+\contentsline {section}{\numberline {29.10}Low-Complexity Real-Time Single-Tone Phase and Frequency Estimation}{219}{section.29.10}
+\contentsline {section}{\numberline {29.11}One-Dimensional Phase Unwrapping Problem}{220}{section.29.11}
+\contentsline {section}{\numberline {29.12}Rev 280 Occultation}{220}{section.29.12}
+\contentsline {section}{\numberline {29.13}Rev 282 Occultation}{220}{section.29.13}
+\contentsline {chapter}{\numberline {30}Notes on Mathematics}{221}{chapter.30}
+\contentsline {section}{\numberline {30.1}Atmospheric Occultation}{221}{section.30.1}
+\contentsline {subsection}{\numberline {30.1.1}Titan Geometry}{221}{subsection.30.1.1}
+\contentsline {section}{\numberline {30.2}Ring Occultation}{224}{section.30.2}
+\contentsline {subsection}{\numberline {30.2.1}Ring Geometry}{224}{subsection.30.2.1}
+\contentsline {subsection}{\numberline {30.2.2}Derivation of Equation 4a in Marouf et al.}{225}{subsection.30.2.2}
+\contentsline {subsection}{\numberline {30.2.3}Shannon's Sampling Theorem}{226}{subsection.30.2.3}
+\contentsline {subsection}{\numberline {30.2.4}Diffraction Through a Square Well}{227}{subsection.30.2.4}
+\contentsline {subsection}{\numberline {30.2.5}Derivation of the Solution of Diffraction Through an Inverted Square Well}{227}{subsection.30.2.5}
+\contentsline {subsection}{\numberline {30.2.6}Radial Shift from a Linear Phase Offset}{228}{subsection.30.2.6}
+\contentsline {subsection}{\numberline {30.2.7}Some Useful Results}{229}{subsection.30.2.7}
+\contentsline {section}{\numberline {30.3}Some Notes on Fresnel Inversion}{232}{section.30.3}
+\contentsline {section}{\numberline {30.4}Window Width as a Function of Resolution}{232}{section.30.4}
+\contentsline {section}{\numberline {30.5}Old Notes}{233}{section.30.5}
+\contentsline {subsection}{\numberline {30.5.1}The Forward Model}{233}{subsection.30.5.1}
+\contentsline {subsection}{\numberline {30.5.2}Stationary Phase Approximation}{233}{subsection.30.5.2}
+\contentsline {chapter}{\numberline {31}Easy Data Example}{235}{chapter.31}
+\contentsline {section}{\numberline {31.1}Example 1}{235}{section.31.1}
+\contentsline {section}{\numberline {31.2}Example 2}{242}{section.31.2}
+\contentsline {chapter}{\numberline {32}Cassini Interim January 2018 Report}{251}{chapter.32}
+\contentsline {section}{\numberline {32.1}Introduction}{252}{section.32.1}
+\contentsline {section}{\numberline {32.2}General Approach and Analysis Methods}{252}{section.32.2}
+\contentsline {subsection}{\numberline {32.2.1}Occultation Geometry}{253}{subsection.32.2.1}
+\contentsline {subsection}{\numberline {32.2.2}Calibrated Observed Diffraction Pattern of Direct Signal}{253}{subsection.32.2.2}
+\contentsline {subsection}{\numberline {32.2.3}Diffraction-Corrected Optical Depth Profiles}{253}{subsection.32.2.3}
+\contentsline {subsection}{\numberline {32.2.4}Additional Useful Information}{253}{subsection.32.2.4}
+\contentsline {section}{\numberline {32.3}Critical Tests of Processing Methods and Codes}{254}{section.32.3}
+\contentsline {subsection}{\numberline {32.3.1}Comparison with Cassini Radio Science User's Guide}{254}{subsection.32.3.1}
+\contentsline {subsubsection}{Frequency Estimation}{254}{subsubsection*.654}
+\contentsline {subsubsection}{Frequency-Corrected Phase}{254}{subsubsection*.656}
+\contentsline {subsubsection}{Normalized Power}{255}{subsubsection*.659}
+\contentsline {subsubsection}{Calibrated Diffraction Profile}{256}{subsubsection*.661}
+\contentsline {subsubsection}{Open Issues}{257}{subsubsection*.664}
+\contentsline {subsection}{\numberline {32.3.2}Comparison with Existing Results on the PDS}{257}{subsection.32.3.2}
+\contentsline {subsubsection}{Occultation Geometry}{257}{subsubsection*.665}
+\contentsline {subsubsection}{Calibration Files}{258}{subsubsection*.667}
+\contentsline {subsubsection}{Diffraction-Corrected Ring Profiles}{258}{subsubsection*.668}
+\contentsline {subsubsection}{Open Issues}{259}{subsubsection*.670}
+\contentsline {subsection}{\numberline {32.3.3}Additional Tests}{259}{subsection.32.3.3}
+\contentsline {subsubsection}{C Ring Ripples - Rev133E}{259}{subsubsection*.671}
+\contentsline {subsection}{\numberline {32.3.4}High Resolution F Ring Profiles}{260}{subsection.32.3.4}
+\contentsline {section}{\numberline {32.4}Proposed PDS Organization and Contents}{264}{section.32.4}
+\contentsline {subsection}{\numberline {32.4.1}Directory Structure}{264}{subsection.32.4.1}
+\contentsline {subsection}{\numberline {32.4.2}Sample Auxiliary Information}{266}{subsection.32.4.2}
+\contentsline {section}{\numberline {32.5}Data Pipeline}{266}{section.32.5}
+\contentsline {subsection}{\numberline {32.5.1}Conversion of Software to Python 3}{270}{subsection.32.5.1}
+\contentsline {subsection}{\numberline {32.5.2}Documentation}{273}{subsection.32.5.2}
+\contentsline {section}{\numberline {32.6}Future Milestones and Delivery Schedule}{274}{section.32.6}
 \newpage 
-\contentsline {book}{Book\ \Numberstringnum {3}:\hspace {1em}Undergraduate Work}{260}{book.3}
-\contentsline {part}{\numberline {V}Undergraduate Work: Mathematics}{261}{part.5}
-\contentsline {chapter}{\numberline {33}Master's Work}{262}{chapter.33}
-\contentsline {section}{\numberline {33.1}Preliminaries}{262}{section.33.1}
-\contentsline {subsection}{\numberline {33.1.1}Set Theory}{262}{subsection.33.1.1}
-\contentsline {subsection}{\numberline {33.1.2}Algebra}{263}{subsection.33.1.2}
-\contentsline {subsection}{\numberline {33.1.3}Relations of Order}{267}{subsection.33.1.3}
-\contentsline {subsection}{\numberline {33.1.4}The Real Numbers}{269}{subsection.33.1.4}
-\contentsline {subsection}{\numberline {33.1.5}Equivalence and Transfinite Cardinal Numbers}{273}{subsection.33.1.5}
-\contentsline {subsection}{\numberline {33.1.6}Vector Spaces and Euclidean Spaces}{275}{subsection.33.1.6}
-\contentsline {subsection}{\numberline {33.1.7}Topology}{279}{subsection.33.1.7}
-\contentsline {subsection}{\numberline {33.1.8}Metric Spaces}{282}{subsection.33.1.8}
-\contentsline {subsection}{\numberline {33.1.9}Measure}{287}{subsection.33.1.9}
-\contentsline {section}{\numberline {33.2}Calculus on Normed Spaces}{287}{section.33.2}
-\contentsline {subsection}{\numberline {33.2.1}Linear Transformations}{287}{subsection.33.2.1}
-\contentsline {subsection}{\numberline {33.2.2}Integration}{287}{subsection.33.2.2}
-\contentsline {subsection}{\numberline {33.2.3}Differentiation}{287}{subsection.33.2.3}
-\contentsline {subsection}{\numberline {33.2.4}Real Analysis}{287}{subsection.33.2.4}
-\contentsline {section}{\numberline {33.3}Convexity: Part I}{287}{section.33.3}
-\contentsline {subsection}{\numberline {33.3.1}Convex Sets}{287}{subsection.33.3.1}
-\contentsline {subsection}{\numberline {33.3.2}Convexity in the Euclidean Plane}{290}{subsection.33.3.2}
-\contentsline {chapter}{\numberline {34}Some More Stuff}{296}{chapter.34}
-\contentsline {section}{\numberline {34.1}On the Quotients of Primes}{296}{section.34.1}
-\contentsline {section}{\numberline {34.2}On Uniform Convergence}{296}{section.34.2}
-\contentsline {section}{\numberline {34.3}On Analyticity}{299}{section.34.3}
-\contentsline {section}{\numberline {34.4}On Infinite Order O.D.E.'s}{301}{section.34.4}
-\contentsline {section}{\numberline {34.5}Other Results}{302}{section.34.5}
-\contentsline {section}{\numberline {34.6}An Uninteresting Algebraic Structure}{302}{section.34.6}
-\contentsline {subsubsection}{Properties}{302}{subsubsection*.669}
-\contentsline {section}{\numberline {34.7}An Almost Group}{304}{section.34.7}
-\contentsline {section}{\numberline {34.8}On Sequences}{304}{section.34.8}
-\contentsline {subsubsection}{Some Fun Stuff}{304}{subsubsection*.670}
-\contentsline {subsubsection}{A Peculiar Family of Sequences and their Averages}{305}{subsubsection*.671}
-\contentsline {section}{\numberline {34.9}A Class of Differentiability}{306}{section.34.9}
-\contentsline {chapter}{\numberline {35}GRE Mathematics Subject Test}{307}{chapter.35}
-\contentsline {section}{\numberline {35.1}Theorems for the GRE}{307}{section.35.1}
-\contentsline {section}{\numberline {35.2}GR0568}{307}{section.35.2}
-\contentsline {section}{\numberline {35.3}GR1268}{314}{section.35.3}
-\contentsline {part}{\numberline {VI}Translation of Volterra's Mathematical Biology}{315}{part.6}
-\contentsline {chapter}{Preface}{316}{chapter*.672}
-\contentsline {chapter}{\numberline {36}Introduction}{318}{chapter.36}
-\contentsline {section}{\numberline {36.1}Purpose of the Book}{318}{section.36.1}
-\contentsline {section}{\numberline {36.1}But de l'Ouvrage}{318}{section.36.1}
-\contentsline {part}{\numberline {VII}Undergraduate Work: Programming Tutorials}{319}{part.7}
-\contentsline {chapter}{\numberline {37}Python}{320}{chapter.37}
-\contentsline {section}{\numberline {37.1}Summary of Tutorials}{320}{section.37.1}
-\contentsline {section}{\numberline {37.2}Tutorials from LearnPython.org}{320}{section.37.2}
-\contentsline {subsection}{\numberline {37.2.1}Introduction}{320}{subsection.37.2.1}
-\contentsline {subsubsection}{Hello World}{320}{subsubsection*.673}
-\contentsline {subsection}{\numberline {37.2.2}Variables and Types}{320}{subsection.37.2.2}
-\contentsline {subsubsection}{Numbers}{320}{subsubsection*.674}
-\contentsline {subsubsection}{Strings}{321}{subsubsection*.675}
-\contentsline {subsubsection}{Basic Operations on Numbers and Strings}{321}{subsubsection*.676}
-\contentsline {subsection}{\numberline {37.2.3}Lists}{322}{subsection.37.2.3}
-\contentsline {subsection}{\numberline {37.2.4}Basic Operators}{323}{subsection.37.2.4}
-\contentsline {subsubsection}{Arithmetic Operators}{323}{subsubsection*.677}
-\contentsline {subsubsection}{String Operators}{323}{subsubsection*.678}
-\contentsline {subsubsection}{Using Operators with Lists}{323}{subsubsection*.679}
-\contentsline {subsection}{\numberline {37.2.5}String Formatting}{324}{subsection.37.2.5}
-\contentsline {subsection}{\numberline {37.2.6}Conditions}{324}{subsection.37.2.6}
-\contentsline {subsubsection}{Boolean Operators}{324}{subsubsection*.680}
-\contentsline {subsubsection}{More Operators}{325}{subsubsection*.681}
-\contentsline {subsection}{\numberline {37.2.7}Loops}{326}{subsection.37.2.7}
-\contentsline {subsubsection}{For Loops}{326}{subsubsection*.682}
-\contentsline {subsection}{\numberline {37.2.8}Functions}{327}{subsection.37.2.8}
-\contentsline {subsection}{\numberline {37.2.9}Classes and Objects}{328}{subsection.37.2.9}
-\contentsline {subsection}{\numberline {37.2.10}Dictionaries}{329}{subsection.37.2.10}
-\contentsline {subsection}{\numberline {37.2.11}Modules and Packages}{329}{subsection.37.2.11}
-\contentsline {section}{\numberline {37.3}Miscellaneous Tests}{329}{section.37.3}
-\contentsline {subsection}{\numberline {37.3.1}Time Test for Squaring an Array}{329}{subsection.37.3.1}
-\contentsline {chapter}{\numberline {38}Bash}{331}{chapter.38}
-\contentsline {section}{\numberline {38.1}Summary of Tutorials}{331}{section.38.1}
-\contentsline {section}{\numberline {38.2}Introduction}{331}{section.38.2}
-\contentsline {section}{\numberline {38.3}My Stuff}{331}{section.38.3}
-\contentsline {subsection}{\numberline {38.3.1}Test Codes}{331}{subsection.38.3.1}
-\contentsline {subsubsection}{How to Use READ}{331}{subsubsection*.683}
-\contentsline {subsection}{\numberline {38.3.2}Beta Version of RSSCONFIG Script}{331}{subsection.38.3.2}
+\contentsline {book}{ Book\ \Numberstringnum {3} :\hspace {1em}Undergraduate Work }{275}{book.3}
+\contentsline {part}{\numberline {V}Undergraduate Work: Mathematics}{276}{part.5}
+\contentsline {chapter}{\numberline {33}Master's Work}{277}{chapter.33}
+\contentsline {section}{\numberline {33.1}Preliminaries}{277}{section.33.1}
+\contentsline {subsection}{\numberline {33.1.1}Set Theory}{277}{subsection.33.1.1}
+\contentsline {subsection}{\numberline {33.1.2}Algebra}{278}{subsection.33.1.2}
+\contentsline {subsection}{\numberline {33.1.3}Relations of Order}{282}{subsection.33.1.3}
+\contentsline {subsection}{\numberline {33.1.4}The Real Numbers}{284}{subsection.33.1.4}
+\contentsline {subsection}{\numberline {33.1.5}Equivalence and Transfinite Cardinal Numbers}{288}{subsection.33.1.5}
+\contentsline {subsection}{\numberline {33.1.6}Vector Spaces and Euclidean Spaces}{290}{subsection.33.1.6}
+\contentsline {subsection}{\numberline {33.1.7}Topology}{294}{subsection.33.1.7}
+\contentsline {subsection}{\numberline {33.1.8}Metric Spaces}{297}{subsection.33.1.8}
+\contentsline {subsection}{\numberline {33.1.9}Measure}{302}{subsection.33.1.9}
+\contentsline {section}{\numberline {33.2}Calculus on Normed Spaces}{302}{section.33.2}
+\contentsline {subsection}{\numberline {33.2.1}Linear Transformations}{302}{subsection.33.2.1}
+\contentsline {subsection}{\numberline {33.2.2}Integration}{302}{subsection.33.2.2}
+\contentsline {subsection}{\numberline {33.2.3}Differentiation}{302}{subsection.33.2.3}
+\contentsline {subsection}{\numberline {33.2.4}Real Analysis}{302}{subsection.33.2.4}
+\contentsline {section}{\numberline {33.3}Convexity: Part I}{302}{section.33.3}
+\contentsline {subsection}{\numberline {33.3.1}Convex Sets}{302}{subsection.33.3.1}
+\contentsline {subsection}{\numberline {33.3.2}Convexity in the Euclidean Plane}{305}{subsection.33.3.2}
+\contentsline {chapter}{\numberline {34}Some More Stuff}{311}{chapter.34}
+\contentsline {section}{\numberline {34.1}On the Quotients of Primes}{311}{section.34.1}
+\contentsline {section}{\numberline {34.2}On Uniform Convergence}{311}{section.34.2}
+\contentsline {section}{\numberline {34.3}On Analyticity}{314}{section.34.3}
+\contentsline {section}{\numberline {34.4}On Infinite Order O.D.E.'s}{316}{section.34.4}
+\contentsline {section}{\numberline {34.5}Other Results}{317}{section.34.5}
+\contentsline {section}{\numberline {34.6}An Uninteresting Algebraic Structure}{317}{section.34.6}
+\contentsline {subsubsection}{Properties}{317}{subsubsection*.687}
+\contentsline {section}{\numberline {34.7}An Almost Group}{319}{section.34.7}
+\contentsline {section}{\numberline {34.8}On Sequences}{319}{section.34.8}
+\contentsline {subsubsection}{Some Fun Stuff}{319}{subsubsection*.688}
+\contentsline {subsubsection}{A Peculiar Family of Sequences and their Averages}{320}{subsubsection*.689}
+\contentsline {section}{\numberline {34.9}A Class of Differentiability}{321}{section.34.9}
+\contentsline {chapter}{\numberline {35}GRE Mathematics Subject Test}{322}{chapter.35}
+\contentsline {section}{\numberline {35.1}Theorems and Definitions for the GRE}{322}{section.35.1}
+\contentsline {section}{\numberline {35.2}GR0568}{322}{section.35.2}
+\contentsline {section}{\numberline {35.3}GR1268}{329}{section.35.3}
+\contentsline {part}{\numberline {VI}Translation of Volterra's Mathematical Biology}{330}{part.6}
+\contentsline {chapter}{Preface}{331}{chapter*.690}
+\contentsline {chapter}{\numberline {36}Introduction}{333}{chapter.36}
+\contentsline {section}{\numberline {36.1}Purpose of the Book}{333}{section.36.1}
+\contentsline {section}{\numberline {36.1}But de l'Ouvrage}{333}{section.36.1}
+\contentsline {part}{\numberline {VII}Undergraduate Work: Programming Tutorials}{334}{part.7}
+\contentsline {chapter}{\numberline {37}Python}{335}{chapter.37}
+\contentsline {section}{\numberline {37.1}Summary of Tutorials}{335}{section.37.1}
+\contentsline {section}{\numberline {37.2}Tutorials from LearnPython.org}{335}{section.37.2}
+\contentsline {subsection}{\numberline {37.2.1}Introduction}{335}{subsection.37.2.1}
+\contentsline {subsubsection}{Hello World}{335}{subsubsection*.691}
+\contentsline {subsection}{\numberline {37.2.2}Variables and Types}{335}{subsection.37.2.2}
+\contentsline {subsubsection}{Numbers}{335}{subsubsection*.692}
+\contentsline {subsubsection}{Strings}{336}{subsubsection*.693}
+\contentsline {subsubsection}{Basic Operations on Numbers and Strings}{336}{subsubsection*.694}
+\contentsline {subsection}{\numberline {37.2.3}Lists}{337}{subsection.37.2.3}
+\contentsline {subsection}{\numberline {37.2.4}Basic Operators}{338}{subsection.37.2.4}
+\contentsline {subsubsection}{Arithmetic Operators}{338}{subsubsection*.695}
+\contentsline {subsubsection}{String Operators}{338}{subsubsection*.696}
+\contentsline {subsubsection}{Using Operators with Lists}{338}{subsubsection*.697}
+\contentsline {subsection}{\numberline {37.2.5}String Formatting}{339}{subsection.37.2.5}
+\contentsline {subsection}{\numberline {37.2.6}Conditions}{339}{subsection.37.2.6}
+\contentsline {subsubsection}{Boolean Operators}{339}{subsubsection*.698}
+\contentsline {subsubsection}{More Operators}{340}{subsubsection*.699}
+\contentsline {subsection}{\numberline {37.2.7}Loops}{341}{subsection.37.2.7}
+\contentsline {subsubsection}{For Loops}{341}{subsubsection*.700}
+\contentsline {subsection}{\numberline {37.2.8}Functions}{342}{subsection.37.2.8}
+\contentsline {subsection}{\numberline {37.2.9}Classes and Objects}{343}{subsection.37.2.9}
+\contentsline {subsection}{\numberline {37.2.10}Dictionaries}{344}{subsection.37.2.10}
+\contentsline {subsection}{\numberline {37.2.11}Modules and Packages}{344}{subsection.37.2.11}
+\contentsline {section}{\numberline {37.3}Miscellaneous Tests}{344}{section.37.3}
+\contentsline {subsection}{\numberline {37.3.1}Time Test for Squaring an Array}{344}{subsection.37.3.1}
+\contentsline {chapter}{\numberline {38}Bash}{346}{chapter.38}
+\contentsline {section}{\numberline {38.1}Summary of Tutorials}{346}{section.38.1}
+\contentsline {section}{\numberline {38.2}Introduction}{346}{section.38.2}
+\contentsline {section}{\numberline {38.3}My Stuff}{346}{section.38.3}
+\contentsline {subsection}{\numberline {38.3.1}Test Codes}{346}{subsection.38.3.1}
+\contentsline {subsubsection}{How to Use READ}{346}{subsubsection*.701}
+\contentsline {subsection}{\numberline {38.3.2}Beta Version of RSSCONFIG Script}{346}{subsection.38.3.2}
+\contentsline {chapter}{\numberline {39}IDL}{348}{chapter.39}
+\contentsline {section}{\numberline {39.1}Tutorials}{348}{section.39.1}
+\contentsline {subsection}{\numberline {39.1.1}Introduction}{348}{subsection.39.1.1}
 \newpage 
-\contentsline {book}{Book\ \Numberstringnum {4}:\hspace {1em}Encyclopedia Mathematica}{333}{book.4}
-\contentsline {part}{\numberline {VIII}Analysis}{334}{part.8}
-\contentsline {chapter}{\numberline {39}Analysis Summary}{335}{chapter.39}
-\contentsline {section}{\numberline {39.1}Definitions and Theorems}{335}{section.39.1}
-\contentsline {subsection}{\numberline {39.1.1}Definitions}{335}{subsection.39.1.1}
-\contentsline {subsection}{\numberline {39.1.2}Theorems}{336}{subsection.39.1.2}
-\contentsline {section}{\numberline {39.2}Notes}{338}{section.39.2}
-\contentsline {chapter}{Acronyms}{339}{section*.684}
-\contentsline {chapter}{Glossary}{342}{section*.686}
+\contentsline {book}{ Book\ \Numberstringnum {4} :\hspace {1em}Encyclopedia Mathematica }{349}{book.4}
+\contentsline {part}{\numberline {VIII}Analysis}{350}{part.8}
+\contentsline {chapter}{\numberline {40}Analysis Summary}{351}{chapter.40}
+\contentsline {section}{\numberline {40.1}Definitions and Theorems}{351}{section.40.1}
+\contentsline {subsection}{\numberline {40.1.1}Definitions}{351}{subsection.40.1.1}
+\contentsline {subsection}{\numberline {40.1.2}Theorems}{352}{subsection.40.1.2}
+\contentsline {section}{\numberline {40.2}Notes}{354}{section.40.2}
+\contentsline {chapter}{Acronyms}{355}{section*.702}
+\contentsline {chapter}{Glossary}{358}{section*.704}
 \contentsfinish 

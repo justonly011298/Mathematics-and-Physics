@@ -2,596 +2,598 @@
 \begin{theglossary}\glossaryheader
 \glsgroupheading{A}\relax \glsresetentrylist %
 \glossentry{abel integral}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{201}}}%
+		\setentrycounter[]{page}\glsnumberformat{203}}}%
 \glossentry{abel transform}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{199}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{201}}}%
+		\setentrycounter[]{page}\glsnumberformat{201}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{203}}}%
 \glossentry{aberration correction}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
 \glossentry{absolute range}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
 \glossentry{absorption coefficient}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{199}}}%
+		\setentrycounter[]{page}\glsnumberformat{201}}}%
 \glossentry{absorption profile}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}}}%
-\glossentry{allen deviation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{189\delimN 190}}}%
-\glossentry{altimetry}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
-\glossentry{amplitude}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{198\delimN 199}}}%
-\glossentry{analog-to-digital converter}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
-\glossentry{apollo}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
-\glossentry{a ring}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{254}}}%
-\glossentry{auglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{190}}}%
-\glossentry{atmosphere}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{198\delimN 199}}}%
-\glossentry{attitude}{\glossaryentrynumbers{\relax 
+\glossentry{allen deviation}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{191\delimN 192}}}%
+\glossentry{altimetry}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
+\glossentry{amplitude}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{200\delimN 201}}}%
+\glossentry{analog-to-digital converter}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
+\glossentry{apollo}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
+\glossentry{a ring}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{256}}}%
+\glossentry{auglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{192}}}%
+\glossentry{atmosphere}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{200\delimN 201}}}%
+\glossentry{attitude}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{194}}}%
 \glossentry{azimuth}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{195}}}\glsgroupskip
 \glsgroupheading{B}\relax \glsresetentrylist %
 \glossentry{tdbglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{195}}}%
+		\setentrycounter[]{page}\glsnumberformat{197}}}%
 \glossentry{bending angle}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{199\delimR 201}}}%
+		\setentrycounter[]{page}\glsnumberformat{201\delimR 203}}}%
 \glossentry{bsrglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{192}}}%
+		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{194}}}%
 \glossentry{bit}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
 \glossentry{principal rotation axes}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{194}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{196}}}\glsgroupskip
 \glsgroupheading{C}\relax \glsresetentrylist %
 \glossentry{carrier}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197}}}%
-\glossentry{cassini}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
-\glossentry{center of figure}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
-\glossentry{center of gravity}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
-\glossentry{closed-loop}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191\delimR 193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}}}%
-\glossentry{coherent}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197}}}%
-\glossentry{diagonal matrix}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{197}}}%
-\glossentry{symmetric matrix}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{197}}}%
-\glossentry{cometary comae}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}}}%
-\glossentry{compression}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{197}}}%
-\glossentry{conical scan}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
-\glossentry{consider parameters}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{194}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{196\delimN 197}}}%
-\glossentry{cftglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{199\delimN 200}}}%
-\glossentry{covariance matrix}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{194}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{196\delimN 197}}}%
-\glossentry{c ring}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{259}}}%
-\glossentry{cruise mission}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimR 189}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{192}}}\glsgroupskip
-\glsgroupheading{D}\relax \glsresetentrylist %
-\glossentry{decimate}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
-\glossentry{dsnglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimR 193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimR 202}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{253}}}%
-\glossentry{demodulation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}}}%
-\glossentry{diffraction reconstruction}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{252\delimN 253}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{256\delimR 259}}}%
-\glossentry{dione}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
-\glossentry{dcglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{190}}}%
-\glossentry{dispersion}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{202}}}%
-\glossentry{distribution network}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
-\glossentry{doppler effect}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191\delimR 194}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197\delimR 199}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}}}%
-\glossentry{doppler residual}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{200\delimN 201}}}%
-\glossentry{downlink}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimN 200}}}\glsgroupskip
-\glsgroupheading{E}\relax \glsresetentrylist %
-\glossentry{ertglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{201}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{257\delimN 258}}}%
-\glossentry{electron}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}}}%
-\glossentry{electron density profile}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{198}}}%
-\glossentry{elevation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
-\glossentry{enceladus}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
-\glossentry{ephemeris}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimR 202}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{253\delimN 254}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{257}}}%
-\glossentry{etglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{199}}}%
+\glossentry{cassini}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
+\glossentry{center of figure}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{195}}}%
-\glossentry{equations of motion}{\glossaryentrynumbers{\relax 
+\glossentry{center of gravity}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{195}}}%
-\glossentry{equinox mission}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{192}}}%
-\glossentry{esaglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}}}%
-\glossentry{exact parameters}{\glossaryentrynumbers{\relax 
+\glossentry{closed-loop}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193\delimR 195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}}}%
+\glossentry{coherent}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{199}}}%
+\glossentry{diagonal matrix}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{199}}}%
+\glossentry{symmetric matrix}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{199}}}%
+\glossentry{cometary comae}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}}}%
+\glossentry{compression}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{199}}}%
+\glossentry{conical scan}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
+\glossentry{consider parameters}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{196}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{198\delimN 199}}}%
+\glossentry{cftglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{201\delimN 202}}}%
+\glossentry{covariance matrix}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{196}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{198\delimN 199}}}%
+\glossentry{c ring}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{261}}}%
+\glossentry{cruise mission}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189\delimR 191}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{194}}}\glsgroupskip
+\glsgroupheading{D}\relax \glsresetentrylist %
+\glossentry{decimate}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
+\glossentry{dsnglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189\delimR 195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimR 204}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{255}}}%
+\glossentry{demodulation}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}}}%
+\glossentry{diffraction reconstruction}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{254\delimN 255}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{258\delimR 261}}}%
+\glossentry{dione}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
+\glossentry{dcglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{192}}}%
+\glossentry{dispersion}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{204}}}%
+\glossentry{distribution network}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
+\glossentry{doppler effect}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193\delimR 196}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{199\delimR 201}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}}}%
+\glossentry{doppler residual}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{202\delimN 203}}}%
+\glossentry{downlink}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{199}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimN 202}}}\glsgroupskip
+\glsgroupheading{E}\relax \glsresetentrylist %
+\glossentry{ertglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{203}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{259\delimN 260}}}%
+\glossentry{electron}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}}}%
+\glossentry{electron density profile}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{200}}}%
+\glossentry{elevation}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
+\glossentry{enceladus}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
+\glossentry{ephemeris}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{197}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimR 204}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{255\delimN 256}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{259}}}%
+\glossentry{etglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{197}}}%
+\glossentry{equations of motion}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{197}}}%
+\glossentry{equinox mission}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{194}}}%
+\glossentry{esaglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}}}%
+\glossentry{exact parameters}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{196}}}\glsgroupskip
 \glsgroupheading{F}\relax \glsresetentrylist %
 \glossentry{fftglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimN 200}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}}}%
+		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimN 202}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}}}%
 \glossentry{fft averaging}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{199}}}%
+		\setentrycounter[]{page}\glsnumberformat{201}}}%
 \glossentry{firglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{256}}}%
+		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{258}}}%
 \glossentry{foilglos}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{13\delimR 15}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{17}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{21}}}%
 \glossentry{frequency}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimN 188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{189\delimN 190}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimR 202}}}%
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{199}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimR 204}}}%
 \glossentry{frequency offset}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{254}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{269}}}%
+		\setentrycounter[]{page}\glsnumberformat{256}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{271}}}%
 \glossentry{frequency-tuning polynomial}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
 \glossentry{fresnel transform}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{252\delimN 253}}}%
+		\setentrycounter[]{page}\glsnumberformat{254\delimN 255}}}%
 \glossentry{f ring}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{259}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{261}}}\glsgroupskip
 \glsgroupheading{G}\relax \glsresetentrylist %
 \glossentry{geoid}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
 \glossentry{ghzglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199}}}%
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201}}}%
 \glossentry{grand finale}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}}}%
+		\setentrycounter[]{page}\glsnumberformat{189}}}%
 \glossentry{gravitation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}}}%
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}}}%
 \glossentry{gravitational field}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193\delimR 195}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{198}}}%
+		\setentrycounter[]{page}\glsnumberformat{195\delimR 197}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{200}}}%
 \glossentry{gravitational harmonics}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
 \glossentry{gwglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}}}%
+		\setentrycounter[]{page}\glsnumberformat{189}}}%
 \glossentry{gweglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{192}}}%
+		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{194}}}%
 \glossentry{group delay}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{194}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{196}}}\glsgroupskip
 \glsgroupheading{H}\relax \glsresetentrylist %
 \glossentry{hzglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{200\delimN 201}}}%
+		\setentrycounter[]{page}\glsnumberformat{202\delimN 203}}}%
 \glossentry{heterodyne}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
 \glossentry{hgaglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188\delimR 190}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{192}}}%
-\glossentry{huygens}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}}}%
-\glossentry{hydrazine}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{190}}}%
-\glossentry{hydrostatic}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{198}}}\glsgroupskip
-\glsgroupheading{I}\relax \glsresetentrylist %
-\glossentry{impact parameter}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{201}}}%
-\glossentry{in-phase}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{258}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{269\delimN 270}}}%
-\glossentry{index of refraction}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{199}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{201}}}%
-\glossentry{inertial vector propagation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{190}}}%
-\glossentry{ingress}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{200}}}%
-\glossentry{ifglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
-\glossentry{interplanetary plasma}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190\delimR 192}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{194}}}%
+\glossentry{huygens}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}}}%
+\glossentry{hydrazine}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{192}}}%
+\glossentry{hydrostatic}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{200}}}\glsgroupskip
+\glsgroupheading{I}\relax \glsresetentrylist %
+\glossentry{iau}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{198}}}%
+\glossentry{impact parameter}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{203}}}%
+\glossentry{in-phase}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{260}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{271\delimN 272}}}%
+\glossentry{index of refraction}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{201}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{203}}}%
+\glossentry{inertial vector propagation}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{192}}}%
+\glossentry{ingress}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{202}}}%
+\glossentry{ifglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
+\glossentry{interplanetary plasma}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{196}}}%
 \glossentry{ionosphere}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimN 188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{194}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197\delimN 198}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{189\delimN 190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{196}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{199\delimN 200}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}}}\glsgroupskip
 \glsgroupheading{J}\relax \glsresetentrylist %
 \glossentry{jplglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{196}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{253}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{198}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{255}}}\glsgroupskip
 \glsgroupheading{K}\relax \glsresetentrylist %
 \glossentry{ka-band}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188\delimN 189}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{252}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{259}}}%
-\glossentry{katglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}}}%
-\glossentry{ku-band}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{189}}}%
-\glossentry{kernel}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{200}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{257}}}%
-\glossentry{khzglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190\delimN 191}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimN 200}}}%
+		\setentrycounter[]{page}\glsnumberformat{199}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{254}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{261}}}%
+\glossentry{katglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}}}%
+\glossentry{ku-band}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{191}}}%
+\glossentry{kernel}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{202}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{259}}}%
+\glossentry{khzglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimN 202}}}%
 \glossentry{kronecker delta}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{194}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{196}}}\glsgroupskip
 \glsgroupheading{L}\relax \glsresetentrylist %
 \glossentry{laplace's equation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{194}}}%
-\glossentry{least squares}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{196}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{255}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{258}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{269\delimN 270}}}%
-\glossentry{lorentz transformation}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{196}}}%
+\glossentry{least squares}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{198}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{257}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{260}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{271\delimN 272}}}%
+\glossentry{lorentz transformation}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{198}}}%
 \glossentry{love numbers}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{194}}}%
+		\setentrycounter[]{page}\glsnumberformat{196}}}%
 \glossentry{lunar orbiter}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{195}}}\glsgroupskip
 \glsgroupheading{M}\relax \glsresetentrylist %
 \glossentry{magnetosphere}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{192}}}%
-\glossentry{mariner}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{198}}}%
-\glossentry{mascon}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
-\glossentry{maxwell ringlet}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{258}}}%
-\glossentry{mhzglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimN 200}}}%
-\glossentry{modulation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
-\glossentry{moment of inertia}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
-\glossentry{monopole}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{197}}}%
-\glossentry{monopulse}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
-\glossentry{moyer model}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{194}}}%
+\glossentry{mariner}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{200}}}%
+\glossentry{mascon}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
+\glossentry{maxwell ringlet}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{260}}}%
+\glossentry{mhzglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimN 202}}}%
+\glossentry{modulation}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
+\glossentry{moment of inertia}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
+\glossentry{monopole}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{199}}}%
+\glossentry{monopulse}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
+\glossentry{moyer model}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{196}}}%
 \glossentry{multi-path effect}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{193}}}\glsgroupskip
 \glsgroupheading{N}\relax \glsresetentrylist %
 \glossentry{naifglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{200}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{253}}}%
+		\setentrycounter[]{page}\glsnumberformat{202}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{255}}}%
 \glossentry{nasaglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}}}%
+		\setentrycounter[]{page}\glsnumberformat{189}}}%
 \glossentry{neutral atmosphere}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimN 188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{198}}}%
+		\setentrycounter[]{page}\glsnumberformat{189\delimN 190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{200}}}%
 \glossentry{nutation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{196}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{198}}}\glsgroupskip
 \glsgroupheading{O}\relax \glsresetentrylist %
 \glossentry{occultation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimN 188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{192\delimN 193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{198\delimR 200}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{252\delimR 257}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{259}}}%
+		\setentrycounter[]{page}\glsnumberformat{189\delimN 190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{194\delimN 195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{200\delimR 202}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{254\delimR 259}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{261}}}%
 \glossentry{ocean loadings}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{195}}}%
+		\setentrycounter[]{page}\glsnumberformat{197}}}%
 \glossentry{one-way observation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimN 188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{196}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimN 200}}}%
+		\setentrycounter[]{page}\glsnumberformat{189\delimN 190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{198}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimN 202}}}%
 \glossentry{open-loop}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191\delimR 194}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}}}%
+		\setentrycounter[]{page}\glsnumberformat{193\delimR 196}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}}}%
 \glossentry{opmodeglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{192}}}%
+		\setentrycounter[]{page}\glsnumberformat{194}}}%
 \glossentry{optical depth}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{253}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{256\delimR 259}}}%
+		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{255}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{258\delimR 261}}}%
 \glossentry{odglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{192}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{194\delimR 196}}}%
+		\setentrycounter[]{page}\glsnumberformat{194}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{196\delimR 198}}}%
 \glossentry{oscillator}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
 \glossentry{outlier}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{194}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{196}}}\glsgroupskip
 \glsgroupheading{P}\relax \glsresetentrylist %
 \glossentry{particle size distribution}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}}}%
+		\setentrycounter[]{page}\glsnumberformat{190}}}%
 \glossentry{pemdasglos}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{3}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{338}}}%
+		\setentrycounter[]{page}\glsnumberformat{341}}}%
 \glossentry{phase}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191\delimN 192}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{198}}}%
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{193\delimN 194}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{200}}}%
 \glossentry{pllglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}}}%
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}}}%
 \glossentry{phase delay}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{194}}}%
-\glossentry{phase stability}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
-\glossentry{pdsglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{252\delimN 253}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{257\delimR 260}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{274}}}%
-\glossentry{planetary rings}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}}}%
-\glossentry{psaglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}}}%
-\glossentry{plasma}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{197\delimN 198}}}%
-\glossentry{plate motion}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{195}}}%
-\glossentry{polarization}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimN 188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
-\glossentry{pole tides}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{195}}}%
-\glossentry{power}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{202}}}%
-\glossentry{precession}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{196}}}%
+\glossentry{phase stability}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
+\glossentry{pdsglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{254\delimN 255}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{259\delimR 262}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{276}}}%
+\glossentry{planetary rings}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}}}%
+\glossentry{psaglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}}}%
+\glossentry{plasma}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{199\delimN 200}}}%
+\glossentry{plate motion}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{197}}}%
+\glossentry{polarization}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189\delimN 190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
+\glossentry{pole tides}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{197}}}%
+\glossentry{power}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{204}}}%
+\glossentry{precession}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{198}}}%
 \glossentry{prime mission}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{192}}}%
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{194}}}%
 \glossentry{propagation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{189}}}\glsgroupskip
 \glsgroupheading{Q}\relax \glsresetentrylist %
 \glossentry{quadrature-phase}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{258}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{269\delimN 270}}}%
-\glossentry{quadrupole}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197\delimN 198}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{260}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{271\delimN 272}}}%
+\glossentry{quadrupole}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{199\delimN 200}}}\glsgroupskip
 \glsgroupheading{R}\relax \glsresetentrylist %
 \glossentry{radar}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{189}}}%
+		\setentrycounter[]{page}\glsnumberformat{191}}}%
 \glossentry{rtgglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197}}}%
-\glossentry{radio path}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}}}%
-\glossentry{rsglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimR 189}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191\delimR 193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199}}}%
-\glossentry{rsrglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191\delimR 193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{253\delimN 254}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{256}}}%
-\glossentry{rssglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{252\delimR 254}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{257}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{259}}}%
-\glossentry{radio waves}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}}}%
-\glossentry{range}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{194}}}%
-\glossentry{ranger}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}}}%
-\glossentry{ranging code}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
-\glossentry{ranging sample}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
-\glossentry{ray periapsis}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{201}}}%
-\glossentry{refraction}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimR 201}}}%
-\glossentry{relativity}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimN 188}}}%
-\glossentry{relative velocity}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimN 188}}}%
-\glossentry{residual}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{196}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}}}%
-\glossentry{resolution}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimN 200}}}%
-\glossentry{revglos}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{192}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{200}}}%
+		\setentrycounter[]{page}\glsnumberformat{199}}}%
+\glossentry{radio path}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}}}%
+\glossentry{rsglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189\delimR 191}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{193\delimR 195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201}}}%
+\glossentry{rsrglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193\delimR 195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{255\delimN 256}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{258}}}%
+\glossentry{rssglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{254\delimR 256}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{259}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{261}}}%
+\glossentry{radio waves}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}}}%
+\glossentry{range}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{196}}}%
+\glossentry{ranger}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}}}%
+\glossentry{ranging code}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
+\glossentry{ranging sample}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
+\glossentry{ray periapsis}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{203}}}%
+\glossentry{refraction}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimR 203}}}%
+\glossentry{relativity}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189\delimN 190}}}%
+\glossentry{relative velocity}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189\delimN 190}}}%
+\glossentry{residual}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{198}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}}}%
+\glossentry{resolution}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimN 202}}}%
+\glossentry{revglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{194}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{202}}}%
 \glossentry{rhea}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197\delimN 198}}}%
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{199\delimN 200}}}%
 \glossentry{rcpglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
 \glossentry{ring opening}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{253}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{257}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{259}}}%
+		\setentrycounter[]{page}\glsnumberformat{255}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{259}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{261}}}%
 \glossentry{rotation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{202}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{204}}}\glsgroupskip
 \glsgroupheading{S}\relax \glsresetentrylist %
 \glossentry{s-band}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188\delimN 189}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{252}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{259}}}%
-\glossentry{sampling rate}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199}}}%
-\glossentry{saturn}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}}}%
-\glossentry{saturn tour}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{192}}}%
-\glossentry{sequence}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{192}}}%
-\glossentry{shapiro effect}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{196}}}%
-\glossentry{snrglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190\delimN 191}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{200}}}%
-\glossentry{sky frequency}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{194}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197\delimR 199}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{253\delimN 254}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{258}}}%
-\glossentry{sliding fft}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{199}}}%
-\glossentry{sceglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{192}}}%
-\glossentry{solar corona}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimN 188}}}%
-\glossentry{solar opposition}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}}}%
-\glossentry{solar plasma}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimN 188}}}%
-\glossentry{solid earth tides}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{195}}}%
-\glossentry{solstice mission}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{192}}}%
-\glossentry{solve-for parameters}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{194}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{196\delimN 197}}}%
-\glossentry{spherical harmonic}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{201}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{254}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{261}}}%
+\glossentry{sampling rate}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201}}}%
+\glossentry{saturn}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}}}%
+\glossentry{saturn tour}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{194}}}%
-\glossentry{spiceglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{200}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{253}}}%
-\glossentry{spline fit}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{255}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{258}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{269\delimN 270}}}%
-\glossentry{steering}{\glossaryentrynumbers{\relax 
+\glossentry{sequence}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{194}}}%
+\glossentry{shapiro effect}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{198}}}%
+\glossentry{snrglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{202}}}%
+\glossentry{sky frequency}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{196}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{199\delimR 201}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{255\delimN 256}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{260}}}%
+\glossentry{sliding fft}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{201}}}%
+\glossentry{sceglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{194}}}%
+\glossentry{solar corona}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189\delimN 190}}}%
+\glossentry{solar opposition}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}}}%
+\glossentry{solar plasma}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189\delimN 190}}}%
+\glossentry{solid earth tides}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{197}}}%
+\glossentry{solstice mission}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{194}}}%
+\glossentry{solve-for parameters}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{196}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{198\delimN 199}}}%
+\glossentry{spherical harmonic}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{196}}}%
+\glossentry{spiceglos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{202}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{255}}}%
+\glossentry{spline fit}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{257}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{260}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{271\delimN 272}}}%
+\glossentry{steering}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{204}}}%
 \glossentry{steering function}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{202}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{204}}}\glsgroupskip
 \glsgroupheading{T}\relax \glsresetentrylist %
 \glossentry{tlmglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{189}}}%
-\glossentry{temperature-pressure profile}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{198\delimN 199}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{201}}}%
-\glossentry{three-way observation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{196\delimN 197}}}%
-\glossentry{titan}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimR 202}}}%
-\glossentry{trajectory}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{192}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{202}}}%
-\glossentry{transmitter}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}}}%
-\glossentry{transponder}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}}}%
-\glossentry{troposphere}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{194}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197}}}%
-\glossentry{truncation}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{191}}}%
+\glossentry{temperature-pressure profile}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{200\delimN 201}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{203}}}%
+\glossentry{three-way observation}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{198\delimN 199}}}%
+\glossentry{titan}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{195}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimR 204}}}%
+\glossentry{trajectory}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{194}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}}}%
+\glossentry{transmitter}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}}}%
+\glossentry{transponder}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{190}}}%
+\glossentry{troposphere}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{196}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{199}}}%
+\glossentry{truncation}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
 \glossentry{two-way observation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimN 188}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{196\delimN 197}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{189\delimN 190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{198\delimN 199}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201}}}\glsgroupskip
 \glsgroupheading{U}\relax \glsresetentrylist %
 \glossentry{usoglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187\delimR 189}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimR 202}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{258}}}%
+		\setentrycounter[]{page}\glsnumberformat{189\delimR 191}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimR 204}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{260}}}%
 \glossentry{utcglos}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{195}}}%
+		\setentrycounter[]{page}\glsnumberformat{197}}}%
 \glossentry{uplink}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{187}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191\delimN 192}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{189}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{193\delimN 194}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{199}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201}}}\glsgroupskip
 \glsgroupheading{V}\relax \glsresetentrylist %
 \glossentry{variational equation}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{195}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{197}}}\glsgroupskip
 \glsgroupheading{W}\relax \glsresetentrylist %
 \glossentry{waveguide}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{191}}}%
+		\setentrycounter[]{page}\glsnumberformat{193}}}%
 \glossentry{wavelength}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{190}}}\glsgroupskip
 \glsgroupheading{X}\relax \glsresetentrylist %
 \glossentry{x-band}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{188\delimN 189}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{191}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{197}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{199\delimN 200}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{252}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{190\delimN 191}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{193}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{199}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201\delimN 202}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{254}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{256\delimN 257}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{259}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{256}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{258\delimN 259}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{261}}}\glsgroupskip
 \glsgroupheading{Z}\relax \glsresetentrylist %
 \glossentry{zero padding}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{199}}}%
+		\setentrycounter[]{page}\glsnumberformat{201}}}%
 \end{theglossary}\glossarypostamble

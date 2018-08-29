@@ -24,6 +24,17 @@ Download the main.pdf file and read away...
 The benefits to this method are you now have the main.tex file, and all of the other various .tex files to change and
 edit as you please (But do give credit where it's due).
 
+## The Cool Method
+1. Cloan or Dowload the repository onto your compute.
+2. Navigate to where it's located (For example: /Documents/Research/Mathematics_and_Physics/Mathematics-and-Physics)
+3. Run the make_main.sh shell script.
+```Bash
+  Ryans-iMac:~ ryan$ cd ~/Documents/Research/Mathematics_and_Physics/Mathematics-and-Physics
+  Ryans-iMac:Mathematics-and-Physics ryan$ ./make_main.sh
+  Ryans-iMac:Mathematics-and-Physics ryan$ open main.pdf
+'''
+4. See step 4 of The LaTeX Method.
+
 # Simplified Table of Contents
 ## Book One: Undergraduate Coursework
 A collection of all of the various course notes, homework, quizzes, and exams gathered from several universities.

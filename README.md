@@ -25,7 +25,7 @@ The benefits to this method are you now have the main.tex file, and all of the o
 edit as you please (But do give credit where it's due).
 
 ## The Cool Method
-  1. Cloan or Dowload the repository onto your compute.
+  1. Cloan or Dowload the repository onto your computer.
   2. Navigate to where it's located (For example: /Documents/Research/Mathematics_and_Physics)
   3. Run the make_main.sh shell script.
 ```Bash
@@ -34,6 +34,7 @@ edit as you please (But do give credit where it's due).
   Ryans-iMac:Mathematics-and-Physics ryan$ open main.pdf
 ```
   4. See step 4 of The LaTeX Method.
+
 If the `make_main.sh` doesn't have executable permissions, do:
 ```Bash
   Ryans-iMac:Mathematics-and-Physics ryan$ chmod +x make_main.sh

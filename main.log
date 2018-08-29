@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.15)  22 AUG 2018 07:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.15)  29 AUG 2018 17:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1425,7 +1425,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip106
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 52.
+Package hyperref Info: Option `colorlinks' set `true' on input line 53.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/glossaries/base/glossaries.sty
 Package: glossaries 2017/11/14 v4.35 (NLCT)
@@ -1863,17 +1863,17 @@ Chapter 1.
 
 ] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
 [19] [20] [21]
-Overfull \hbox (11.36609pt too wide) in paragraph at lines 1478--1479
+Overfull \hbox (11.36609pt too wide) in paragraph at lines 1494--1495
 []$\OMS/cmsy/m/n/10 f[]g$ 
  []
 
 
-Overfull \hbox (31.82646pt too wide) in paragraph at lines 1520--1521
+Overfull \hbox (31.82646pt too wide) in paragraph at lines 1536--1537
 []$\OMS/cmsy/m/n/10 f[]g ^^Z f[]g$ 
  []
 
 
-Overfull \hbox (3.46123pt too wide) in paragraph at lines 1544--1545
+Overfull \hbox (3.46123pt too wide) in paragraph at lines 1560--1561
 []$\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 ^^Y; []; \OT1/cmr/m/n/10 0\OML/cmm/m/it/1
 0 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; \OT
 1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 5\OML/cmm/
@@ -1882,7 +1882,7 @@ m/it/10 ; \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 101001000100001 []
  []
 
 [22]
-Overfull \hbox (39.31366pt too wide) in paragraph at lines 1590--1591
+Overfull \hbox (39.31366pt too wide) in paragraph at lines 1606--1607
 []$\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/
 cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OMS/cmsy/m/n/10 g [ f[]g \OT1/cmr/m/n/10 = \OMS
 /cmsy/m/n/10 f\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/i
@@ -1890,24 +1890,24 @@ t/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; []\OMS/cmsy/m/n/10 g$
  []
 
 
-Overfull \hbox (0.97392pt too wide) in paragraph at lines 1591--1592
+Overfull \hbox (0.97392pt too wide) in paragraph at lines 1607--1608
 []$\OMS/cmsy/m/n/10 f[]g [ f[]g \OT1/cmr/m/n/10 =
  []
 
 [23] [24] [25]
-Underfull \hbox (badness 7944) in paragraph at lines 1995--1996
+Underfull \hbox (badness 7944) in paragraph at lines 2011--2012
 []$\OT1/cmr/m/n/10 10[] = [] =
  []
 
 [26] [27] [28] [29]
-Overfull \hbox (9.0181pt too wide) in paragraph at lines 2345--2347
+Overfull \hbox (9.0181pt too wide) in paragraph at lines 2361--2363
 [][]\T1/cmr/bx/n/10 Properties 1.2.12 \T1/cmr/m/n/10 (Sim-pli-fy-ing Com-pound 
 Frac-tions) []If $\OML/cmm/m/it/10 A; B; C; D; E; F; G; H$ \T1/cmr/m/n/10 are f
 rac-tions, $\OML/cmm/m/it/10 B; D; F; H \OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2372--2373
+Underfull \hbox (badness 10000) in paragraph at lines 2388--2389
 []$[] \OT1/cmr/m/n/10 =
  []
 
@@ -1916,35 +1916,35 @@ ion.1.2.4}) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.2458             \item
+l.2474             \item
                          $12\sqrt{72} - 9\sqrt{98} = 9\sqrt{2}$pdfTeX warning (
 ext4): destination with the same identifier (name{equation.1.2.4}) has been alr
 eady used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.2458             \item
+l.2474             \item
                          $12\sqrt{72} - 9\sqrt{98} = 9\sqrt{2}$pdfTeX warning (
 ext4): destination with the same identifier (name{equation.1.2.4}) has been alr
 eady used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.2458             \item
+l.2474             \item
                          $12\sqrt{72} - 9\sqrt{98} = 9\sqrt{2}$pdfTeX warning (
 ext4): destination with the same identifier (name{equation.1.2.4}) has been alr
 eady used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.2458             \item
+l.2474             \item
                          $12\sqrt{72} - 9\sqrt{98} = 9\sqrt{2}$]
-Underfull \hbox (badness 10000) in paragraph at lines 2460--2461
+Underfull \hbox (badness 10000) in paragraph at lines 2476--2477
 []$\OT1/cmr/m/n/10 7[] \OMS/cmsy/m/n/10 ^^@ [] \OT1/cmr/m/n/10 =
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 2461--2462
+Underfull \hbox (badness 5147) in paragraph at lines 2477--2478
 []$\OT1/cmr/m/n/10 2[] \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 3[] =
  []
 
@@ -1960,17 +1960,21 @@ Chapter 2.
 Chapter 3.
 [44
 
-] [45] [46] [47] [48]) [49]
+] [45] [46] [47] [48])
+(./Undergraduate_Courses/Courses_Mathematics/004_calculus_3.tex [49]
 Chapter 4.
+) (./Undergraduate_Courses/Courses_Mathematics/005_differential_equations.tex
 [50
 
 ]
 Chapter 5.
+) (./Undergraduate_Courses/Courses_Mathematics/006_linear_algebra_1.tex
 [51
 
 ]
 Chapter 6.
-(./Undergraduate_Courses/Courses_Mathematics/007_linear_algebra_2.tex [52
+) (./Undergraduate_Courses/Courses_Mathematics/007_linear_algebra_2.tex
+[52
 
 ]
 Chapter 7.
@@ -1990,7 +1994,7 @@ Chapter 8.
 
 ]
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 397.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 409.
 
 
 [72
@@ -2043,132 +2047,136 @@ Chapter 17.
 
 ]
 Chapter 18.
-[90
+(./Undergraduate_Courses/Courses_Mathematics/019_Number_Theory.tex [90
 
 ]
 Chapter 19.
 [91
 
-]
+] [92]) (./Undergraduate_Courses/Courses_Mathematics/020_probability.tex
+[93]
 Chapter 20.
-(./Undergraduate_Courses/Courses_Mathematics/021_graph_theory.tex [92
+) (./Undergraduate_Courses/Courses_Mathematics/021_topology.tex [94
 
 ]
 Chapter 21.
-[93
-
-] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
-[107] [108]) [109]
-Chapter 22.
-(./Undergraduate_Courses/Courses_Mathematics/023_algebraic_geometry.tex
-[110
+) (./Undergraduate_Courses/Courses_Mathematics/022_graph_theory.tex [95
 
 ]
+Chapter 22.
+[96
+
+] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+[109] [110] [111])
+(./Undergraduate_Courses/Courses_Mathematics/023_algebraic_geometry.tex
+[112]
 Chapter 23.
-[111
+[113
 
-] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122]
-[123] [124] [125] [126] [127] [128] [129] [130] [131] [132])
-(./Undergraduate_Courses/Courses_Mathematics/024_surgery_theory.tex [133]
+] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124]
+[125] [126] [127] [128] [129] [130] [131] [132] [133] [134])
+(./Undergraduate_Courses/Courses_Mathematics/024_surgery_theory.tex [135]
 Chapter 24.
-[134
+[136
 
-] [135] [136] [137] [138] [139]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 545.
+] [137] [138
+
+] [139] [140] [141]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 889.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 545.
- [140] [141]
-[142] [143] [144] [145]
-Overfull \hbox (5.76129pt too wide) in paragraph at lines 961--962
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 889.
+ [142] [143]
+[144] [145] [146] [147]
+Overfull \hbox (5.76129pt too wide) in paragraph at lines 1307--1308
 [][]\T1/cmr/bx/n/10 Theorem 24.1.14 []$\OML/cmm/m/it/10 K\OT1/cmr/m/n/10 (\OML/
 cmm/m/it/10 G; n\OT1/cmr/m/n/10 )$ \T1/cmr/m/it/10 is the clas-si-fy-ing space 
 for co-ho-mol-ogy. That is, up to ho-mo-topy, $\OML/cmm/m/it/10 H[]\OT1/cmr/m/n
 /10 (\OML/cmm/m/it/10 X; G\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 $
  []
 
-[146] [147] [148]) [149] [150
+[148] [149] [150] [151]) [152] [153
 
 ]
 (./Undergraduate_Courses/Courses_Physics/105_electromagnetism_1.tex
 Chapter 25.
-[151
+[154
 
-] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162]
-[163]
-<images/5-3.png, id=5426, 598.235pt x 577.15625pt>
+] [155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165]
+[166]
+<images/5-3.png, id=5602, 598.235pt x 577.15625pt>
 File: images/5-3.png Graphic file (type png)
 <use images/5-3.png>
-Package pdftex.def Info: images/5-3.png  used on input line 1458.
+Package pdftex.def Info: images/5-3.png  used on input line 1469.
 (pdftex.def)             Requested size: 239.28975pt x 230.8584pt.
- [164]
-<images/5-4.png, id=5437, 503.8825pt x 480.79625pt>
+ [167]
+<images/5-4.png, id=5613, 503.8825pt x 480.79625pt>
 File: images/5-4.png Graphic file (type png)
 <use images/5-4.png>
-Package pdftex.def Info: images/5-4.png  used on input line 1465.
+Package pdftex.def Info: images/5-4.png  used on input line 1476.
 (pdftex.def)             Requested size: 201.54942pt x 192.31508pt.
- [165 <./images/5-3.png> <./images/5-4.png>] [166]
-<images/7-2.png, id=5456, 449.68pt x 443.6575pt>
+ [168 <./images/5-3.png> <./images/5-4.png>] [169]
+<images/7-2.png, id=5634, 449.68pt x 443.6575pt>
 File: images/7-2.png Graphic file (type png)
 <use images/7-2.png>
-Package pdftex.def Info: images/7-2.png  used on input line 1491.
+Package pdftex.def Info: images/7-2.png  used on input line 1502.
 (pdftex.def)             Requested size: 179.8688pt x 177.45984pt.
-<images/7-6.png, id=5457, 584.1825pt x 415.5525pt>
+<images/7-6.png, id=5635, 584.1825pt x 415.5525pt>
 File: images/7-6.png Graphic file (type png)
 <use images/7-6.png>
-Package pdftex.def Info: images/7-6.png  used on input line 1499.
+Package pdftex.def Info: images/7-6.png  used on input line 1510.
 (pdftex.def)             Requested size: 233.66885pt x 166.21805pt.
- [167 <./images/7-2.png>]
-<images/8-5.png, id=5468, 512.91624pt x 480.79625pt>
+ [170 <./images/7-2.png>]
+<images/8-5.png, id=5646, 512.91624pt x 480.79625pt>
 File: images/8-5.png Graphic file (type png)
 <use images/8-5.png>
-Package pdftex.def Info: images/8-5.png  used on input line 1515.
+Package pdftex.def Info: images/8-5.png  used on input line 1526.
 (pdftex.def)             Requested size: 205.16286pt x 192.31508pt.
- [168 <./images/7-6.png> <./images/8-5.png>]
-<images/10-3.png, id=5478, 528.97626pt x 529.98pt>
+ [171 <./images/7-6.png> <./images/8-5.png>]
+<images/10-3.png, id=5656, 528.97626pt x 529.98pt>
 File: images/10-3.png Graphic file (type png)
 <use images/10-3.png>
-Package pdftex.def Info: images/10-3.png  used on input line 1541.
+Package pdftex.def Info: images/10-3.png  used on input line 1552.
 (pdftex.def)             Requested size: 211.58675pt x 211.98824pt.
-<images/10-6.png, id=5479, 509.905pt x 508.90125pt>
+<images/10-6.png, id=5657, 509.905pt x 508.90125pt>
 File: images/10-6.png Graphic file (type png)
 <use images/10-6.png>
-Package pdftex.def Info: images/10-6.png  used on input line 1548.
+Package pdftex.def Info: images/10-6.png  used on input line 1559.
 (pdftex.def)             Requested size: 152.97267pt x 152.67155pt.
- [169] [170 <./images/10-3.png> <./images/10-6.png>]
-<images/10-25.png, id=5498, 553.06625pt x 448.67625pt>
+ [172] [173 <./images/10-3.png> <./images/10-6.png>]
+<images/10-25.png, id=5674, 553.06625pt x 448.67625pt>
 File: images/10-25.png Graphic file (type png)
 <use images/10-25.png>
-Package pdftex.def Info: images/10-25.png  used on input line 1560.
+Package pdftex.def Info: images/10-25.png  used on input line 1571.
 (pdftex.def)             Requested size: 221.95676pt x 180.06294pt.
-<images/12-3.png, id=5499, 467.7475pt x 468.75125pt>
+<images/12-3.png, id=5675, 467.7475pt x 468.75125pt>
 File: images/12-3.png Graphic file (type png)
 <use images/12-3.png>
-Package pdftex.def Info: images/12-3.png  used on input line 1565.
+Package pdftex.def Info: images/12-3.png  used on input line 1576.
 (pdftex.def)             Requested size: 221.95676pt x 222.43742pt.
-<images/13-4.png, id=5500, 530.98375pt x 504.88625pt>
+<images/13-4.png, id=5676, 530.98375pt x 504.88625pt>
 File: images/13-4.png Graphic file (type png)
 <use images/13-4.png>
-Package pdftex.def Info: images/13-4.png  used on input line 1578.
+Package pdftex.def Info: images/13-4.png  used on input line 1589.
 (pdftex.def)             Requested size: 212.38972pt x 201.95091pt.
- [171 <./images/10-25.png> <./images/12-3.png>]
-<images/14-15.png, id=5512, 746.79pt x 402.50375pt>
+ [174 <./images/10-25.png> <./images/12-3.png>]
+<images/14-15.png, id=5688, 746.79pt x 402.50375pt>
 File: images/14-15.png Graphic file (type png)
 <use images/14-15.png>
-Package pdftex.def Info: images/14-15.png  used on input line 1596.
+Package pdftex.def Info: images/14-15.png  used on input line 1607.
 (pdftex.def)             Requested size: 298.7107pt x 160.99864pt.
-<images/15-7.png, id=5513, 767.86874pt x 595.22375pt>
+<images/15-7.png, id=5689, 767.86874pt x 595.22375pt>
 File: images/15-7.png Graphic file (type png)
 <use images/15-7.png>
-Package pdftex.def Info: images/15-7.png  used on input line 1604.
+Package pdftex.def Info: images/15-7.png  used on input line 1615.
 (pdftex.def)             Requested size: 307.14206pt x 238.08528pt.
 
-[172 <./images/13-4.png>] [173 <./images/14-15.png> <./images/15-7.png>]
-Overfull \hbox (14.42595pt too wide) in paragraph at lines 1617--1618
+[175 <./images/13-4.png>] [176 <./images/14-15.png> <./images/15-7.png>]
+Overfull \hbox (14.42595pt too wide) in paragraph at lines 1628--1629
 \OML/cmm/m/it/10 ad^^^[]\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@ []\OT1/cmr/m/n/10
  (\OML/cmm/m/it/10 ^^^[]\OT1/cmr/m/n/10 )[] + [](\OML/cmm/m/it/10 ^^^[]\OT1/cmr
 /m/n/10 )[])$\T1/cmr/m/n/10 . $\OT1/cmr/bx/n/10 A \OT1/cmr/m/n/10 = [] [] [] = 
@@ -2178,13 +2186,13 @@ r/m/n/10 )[] + [](\OML/cmm/m/it/10 ^^^[]\OT1/cmr/m/n/10 )[])\OML/cmm/m/it/10 d^
 10 .
  []
 
-<images/17-4.png, id=5531, 759.83875pt x 524.96124pt>
+<images/17-4.png, id=5708, 759.83875pt x 524.96124pt>
 File: images/17-4.png Graphic file (type png)
 <use images/17-4.png>
-Package pdftex.def Info: images/17-4.png  used on input line 1625.
+Package pdftex.def Info: images/17-4.png  used on input line 1636.
 (pdftex.def)             Requested size: 303.93011pt x 209.98077pt.
 
-Overfull \hbox (1.15538pt too wide) in paragraph at lines 1622--1628
+Overfull \hbox (1.15538pt too wide) in paragraph at lines 1633--1639
 [] [][] [] [][] [][][][] \OMS/cmsy/m/n/10 ) [][] [][] []\OT1/cmr/m/n/10 (\OML/c
 mm/m/it/10 ^^Y\OT1/cmr/m/n/10 )[] \OMS/cmsy/m/n/10 ^^@ [][] [][] []\OT1/cmr/m/n
 /10 (0)[]$\T1/cmr/m/n/10 . So $\OT1/cmr/m/n/10 ^^H = \OML/cmm/m/it/10 ^^V[]I[]b
@@ -2192,21 +2200,21 @@ mm/m/it/10 ^^Y\OT1/cmr/m/n/10 )[] \OMS/cmsy/m/n/10 ^^@ [][] [][] []\OT1/cmr/m/n
  []
 
 
-Overfull \hbox (6.55983pt too wide) in paragraph at lines 1631--1632
+Overfull \hbox (6.55983pt too wide) in paragraph at lines 1642--1643
 \T1/cmr/m/n/10 The field in-side the toroid is $\OT1/cmr/bx/n/10 B \OT1/cmr/m/n
 /10 = [][]$\T1/cmr/m/n/10 . The flux through a sin-gle turn is $\OT1/cmr/m/n/10
  ^^H[] = [] [][] [][] []\OML/cmm/m/it/10 d^^Rdr$\T1/cmr/m/n/10 .
  []
 
-[174 <./images/17-4.png>] [175] [176] [177])
-(./Undergraduate_Courses/Courses_Physics/106_electromagnetism_2.tex [178]
+[177 <./images/17-4.png>] [178] [179] [180])
+(./Undergraduate_Courses/Courses_Physics/106_electromagnetism_2.tex [181]
 Chapter 26.
-) (./Undergraduate_Courses/Courses_Physics/107_classical_mechanics.tex [179
+) (./Undergraduate_Courses/Courses_Physics/107_classical_mechanics.tex [182
 
 ]
 Chapter 27.
 ) (./Undergraduate_Courses/Courses_Physics/110_mathematical_physics_1.tex
-[180
+[183
 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.27.1
 .1}) has been already used, duplicate ignored
@@ -2228,41 +2236,48 @@ red
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
 l.10 \chapter
-             {Mathematical Physics I}] [181]
+             {Mathematical Physics I}] [184]
 Chapter 28.
-[182
+[185
 
-] [183] [184])) [185] [186
+] [186] [187]) [188] [189
 
 ]
-(./Undergraduate_Research/Undergraduate_Research_Main.tex [187
+(./Undergraduate_Courses/Courses_Other/UML_General_Education.tex
+Chapter 29.
+[190
 
-] [188
+] [191])) [192] [193
+
+]
+(./Undergraduate_Research/Undergraduate_Research_Main.tex [194
+
+] [195
 
 ]
 (./Undergraduate_Research/Research_Whitin_Observatory/202_articles_and_papers.t
 ex
-Chapter 29.
-<images/images.pdf, id=5774, page=15, 794.97pt x 614.295pt>
+Chapter 30.
+<images/images.pdf, id=5967, page=15, 794.97pt x 614.295pt>
 File: images/images.pdf Graphic file (type pdf)
 <use images/images.pdf, page 15>
 Package pdftex.def Info: images/images.pdf , page15 used on input line 39.
 (pdftex.def)             Requested size: 221.95676pt x 148.87076pt.
-<images/images.pdf, id=5776, page=14, 794.97pt x 614.295pt>
+<images/images.pdf, id=5969, page=14, 794.97pt x 614.295pt>
 File: images/images.pdf Graphic file (type pdf)
 <use images/images.pdf, page 14>
 Package pdftex.def Info: images/images.pdf , page14 used on input line 41.
 (pdftex.def)             Requested size: 221.95676pt x 148.87076pt.
-[189
+[196
 
 ]
-<images/images.pdf, id=5868, page=16, 614.295pt x 794.97pt>
+<images/images.pdf, id=6062, page=16, 614.295pt x 794.97pt>
 File: images/images.pdf Graphic file (type pdf)
 <use images/images.pdf, page 16>
 Package pdftex.def Info: images/images.pdf , page16 used on input line 52.
 (pdftex.def)             Requested size: 226.48395pt x 173.51607pt.
- [190 <./images/images.pdf> <./images/images.pdf> <./images/images.pdf>]
-<images/images.pdf, id=6021, page=1, 614.295pt x 794.97pt>
+ [197 <./images/images.pdf> <./images/images.pdf> <./images/images.pdf>]
+<images/images.pdf, id=6214, page=1, 614.295pt x 794.97pt>
 File: images/images.pdf Graphic file (type pdf)
 <use images/images.pdf, page 1>
 Package pdftex.def Info: images/images.pdf , page1 used on input line 82.
@@ -2272,13 +2287,13 @@ File: images/images.pdf Graphic file (type pdf)
 Package pdftex.def Info: images/images.pdf , page1 used on input line 87.
 (pdftex.def)             Requested size: 221.95676pt x 189.48059pt.
 
-[191 <./images/images.pdf>] [192] [193] [194] [195]
+[198 <./images/images.pdf>] [199] [200] [201] [202]
 Overfull \hbox (1.74957pt too wide) in paragraph at lines 260--260
  [][][][]\T1/cmr/m/n/7 Done? 
  []
 
-[196] [197] [198] [199]
-<images/images.pdf, id=6695, page=2, 614.295pt x 794.97pt>
+[203] [204] [205] [206]
+<images/images.pdf, id=6887, page=2, 614.295pt x 794.97pt>
 File: images/images.pdf Graphic file (type pdf)
 <use images/images.pdf, page 2>
 Package pdftex.def Info: images/images.pdf , page2 used on input line 445.
@@ -2287,70 +2302,70 @@ File: images/images.pdf Graphic file (type pdf)
 <use images/images.pdf, page 2>
 Package pdftex.def Info: images/images.pdf , page2 used on input line 450.
 (pdftex.def)             Requested size: 226.48395pt x 111.10808pt.
- [200 <./images/images.pdf>] [201]
-<images/images.pdf, id=6863, page=3, 614.295pt x 794.97pt>
+ [207 <./images/images.pdf>] [208]
+<images/images.pdf, id=7055, page=3, 614.295pt x 794.97pt>
 File: images/images.pdf Graphic file (type pdf)
 <use images/images.pdf, page 3>
 Package pdftex.def Info: images/images.pdf , page3 used on input line 485.
 (pdftex.def)             Requested size: 226.48395pt x 158.27065pt.
-<images/images.pdf, id=6899, page=4, 614.295pt x 794.97pt>
+<images/images.pdf, id=7091, page=4, 614.295pt x 794.97pt>
 File: images/images.pdf Graphic file (type pdf)
 <use images/images.pdf, page 4>
 Package pdftex.def Info: images/images.pdf , page4 used on input line 510.
 (pdftex.def)             Requested size: 181.18439pt x 129.73839pt.
- [202 <./images/images.pdf> <./images/images.pdf>] [203]
-<images/images.pdf, id=7061, page=5, 614.295pt x 794.97pt>
+ [209 <./images/images.pdf> <./images/images.pdf>] [210]
+<images/images.pdf, id=7251, page=5, 614.295pt x 794.97pt>
 File: images/images.pdf Graphic file (type pdf)
 <use images/images.pdf, page 5>
 Package pdftex.def Info: images/images.pdf , page5 used on input line 577.
 (pdftex.def)             Requested size: 226.48395pt x 291.57722pt.
- [204 <./images/images.pdf>]
-<images/USER_7.png, id=7119, 520.94624pt x 584.1825pt>
+ [211 <./images/images.pdf>]
+<images/USER_7.png, id=7310, 520.94624pt x 584.1825pt>
 File: images/USER_7.png Graphic file (type png)
 <use images/USER_7.png>
 Package pdftex.def Info: images/USER_7.png  used on input line 603.
 (pdftex.def)             Requested size: 221.95676pt x 248.9027pt.
-<images/USER_7a.png, id=7120, 385.44pt x 375.4025pt>
+<images/USER_7a.png, id=7311, 385.44pt x 375.4025pt>
 File: images/USER_7a.png Graphic file (type png)
 <use images/USER_7a.png>
 Package pdftex.def Info: images/USER_7a.png  used on input line 607.
 (pdftex.def)             Requested size: 221.95676pt x 216.17554pt.
- [205]
-<images/USER_8.png, id=7131, 744.7825pt x 555.07375pt>
+ [212]
+<images/USER_8.png, id=7321, 744.7825pt x 555.07375pt>
 File: images/USER_8.png Graphic file (type png)
 <use images/USER_8.png>
 Package pdftex.def Info: images/USER_8.png  used on input line 621.
 (pdftex.def)             Requested size: 221.95676pt x 165.42233pt.
-<images/USER_8a.png, id=7132, 751.80875pt x 552.0625pt>
+<images/USER_8a.png, id=7322, 751.80875pt x 552.0625pt>
 File: images/USER_8a.png Graphic file (type png)
 <use images/USER_8a.png>
 Package pdftex.def Info: images/USER_8a.png  used on input line 625.
 (pdftex.def)             Requested size: 221.95676pt x 162.98337pt.
-<images/USER_9.png, id=7133, 778.91pt x 622.325pt>
+<images/USER_9.png, id=7323, 778.91pt x 622.325pt>
 File: images/USER_9.png Graphic file (type png)
 <use images/USER_9.png>
 Package pdftex.def Info: images/USER_9.png  used on input line 634.
 (pdftex.def)             Requested size: 271.7835pt x 217.14279pt.
- [206 <./images/USER_7.png> <./images/USER_7a.png>] [207 <./images/USER_8.png> 
+ [213 <./images/USER_7.png> <./images/USER_7a.png>] [214 <./images/USER_8.png> 
 <./images/USER_8a.png> <./images/USER_9.png>]
-<images/USER_10.png, id=7149, 736.7525pt x 541.02126pt>
+<images/USER_10.png, id=7339, 736.7525pt x 541.02126pt>
 File: images/USER_10.png Graphic file (type png)
 <use images/USER_10.png>
 Package pdftex.def Info: images/USER_10.png  used on input line 662.
 (pdftex.def)             Requested size: 221.95676pt x 162.98456pt.
-<images/USER_11.png, id=7150, 768.8725pt x 564.1075pt>
+<images/USER_11.png, id=7340, 768.8725pt x 564.1075pt>
 File: images/USER_11.png Graphic file (type png)
 <use images/USER_11.png>
 Package pdftex.def Info: images/USER_11.png  used on input line 666.
 (pdftex.def)             Requested size: 221.95676pt x 162.84673pt.
- [208 <./images/USER_10.png> <./images/USER_11.png>]
-<images/USER_12.png, id=7160, 608.2725pt x 294.09875pt>
+ [215 <./images/USER_10.png> <./images/USER_11.png>]
+<images/USER_12.png, id=7350, 608.2725pt x 294.09875pt>
 File: images/USER_12.png Graphic file (type png)
 <use images/USER_12.png>
 Package pdftex.def Info: images/USER_12.png  used on input line 708.
 (pdftex.def)             Requested size: 262.7222pt x 127.0299pt.
- [209] [210 <./images/USER_12.png>] [211]
-<images/Marouf81_1.png, id=7189, 470.75874pt x 447.6725pt>
+ [216] [217 <./images/USER_12.png>] [218]
+<images/Marouf81_1.png, id=7380, 470.75874pt x 447.6725pt>
 File: images/Marouf81_1.png Graphic file (type png)
 <use images/Marouf81_1.png>
 Package pdftex.def Info: images/Marouf81_1.png  used on input line 749.
@@ -2360,14 +2375,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 746--750
 \T1/cmr/m/n/10 waves.
  []
 
-[212 <./images/Marouf81_1.png>] [213]
-<images/CDSW_1.png, id=7208, 569.12625pt x 262.9825pt>
+[219 <./images/Marouf81_1.png>] [220]
+<images/CDSW_1.png, id=7399, 569.12625pt x 262.9825pt>
 File: images/CDSW_1.png Graphic file (type png)
 <use images/CDSW_1.png>
 Package pdftex.def Info: images/CDSW_1.png  used on input line 817.
 (pdftex.def)             Requested size: 181.18439pt x 83.72273pt.
- [214] [215] [216]
-<images/CDSW_2.png, id=7251, 726.715pt x 209.78375pt>
+ [221] [222] [223]
+<images/CDSW_2.png, id=7442, 726.715pt x 209.78375pt>
 File: images/CDSW_2.png Graphic file (type png)
 <use images/CDSW_2.png>
 Package pdftex.def Info: images/CDSW_2.png  used on input line 908.
@@ -2377,8 +2392,8 @@ Overfull \hbox (19.39125pt too wide) in paragraph at lines 908--909
  [][] 
  []
 
-[217 <./images/CDSW_2.png>]
-<images/CDSW_3.png, id=7271, 786.94pt x 223.83624pt>
+[224 <./images/CDSW_2.png>]
+<images/CDSW_3.png, id=7461, 786.94pt x 223.83624pt>
 File: images/CDSW_3.png Graphic file (type png)
 <use images/CDSW_3.png>
 Package pdftex.def Info: images/CDSW_3.png  used on input line 933.
@@ -2395,110 +2410,116 @@ eight of the main lobe to the side lobe in dB, $\OML/cmm/m/it/10 C[]\OT1/cmr/m/
 n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = []$\T1/cmr/m/n/10 ,
  []
 
-<images/CHYLEK_1.png, id=7272, 505.89pt x 539.01375pt>
+<images/CHYLEK_1.png, id=7462, 505.89pt x 539.01375pt>
 File: images/CHYLEK_1.png Graphic file (type png)
 <use images/CHYLEK_1.png>
 Package pdftex.def Info: images/CHYLEK_1.png  used on input line 947.
 (pdftex.def)             Requested size: 158.54152pt x 168.92664pt.
-[218 <./images/CDSW_3.png>] [219 <./images/CHYLEK_1.png>] [220] [221])
+[225 <./images/CDSW_3.png>] [226 <./images/CHYLEK_1.png>] [227] [228])
 (./Undergraduate_Research/Research_Whitin_Observatory/204_cassini_mathematics.t
-ex [222]
-Chapter 30.
-[223
-
-] [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234]
-[235])
-(./Undergraduate_Research/Research_Whitin_Observatory/206_easydata_example.tex
-[236]
+ex [229]
 Chapter 31.
-<images/occultation.png, id=7451, 589.20125pt x 581.17125pt>
+[230
+
+] [231] [232] [233] [234] [235] [236] [237] [238] [239] [240] [241]
+[242])
+(./Undergraduate_Research/Research_Whitin_Observatory/206_easydata_example.tex
+[243]
+Chapter 32.
+<images/occultation.png, id=7641, 589.20125pt x 581.17125pt>
 File: images/occultation.png Graphic file (type png)
 <use images/occultation.png>
 Package pdftex.def Info: images/occultation.png  used on input line 19.
 (pdftex.def)             Requested size: 317.07614pt x 312.75478pt.
-[237
+[244
 
  <./images/occultation.png>]
-Underfull \hbox (badness 3579) in paragraph at lines 85--85
-[]\T1/cmr/m/it/7 Table 31.3 ^^U |Glos-sary of op-ti-cal depth, phase shift, and
- se-lected ge-om-e-try pa-ram-e-ters con-tained in the files
+Underfull \hbox (badness 5460) in paragraph at lines 85--85
+[]\T1/cmr/m/n/7 Table 32.3: |Glos-sary of op-ti-cal depth, phase shift, and se-
+lected ge-om-e-try pa-ram-e-ters con-tained in the files
  []
 
-<images/geometry_1.png, id=7458, 545.03625pt x 718.685pt>
+<images/geometry_1.png, id=7648, 545.03625pt x 718.685pt>
 File: images/geometry_1.png Graphic file (type png)
 <use images/geometry_1.png>
 Package pdftex.def Info: images/geometry_1.png  used on input line 89.
 (pdftex.def)             Requested size: 452.9679pt x 597.287pt.
-<images/geometry_2.png, id=7459, 509.905pt x 687.56876pt>
+<images/geometry_2.png, id=7649, 509.905pt x 687.56876pt>
 File: images/geometry_2.png Graphic file (type png)
 <use images/geometry_2.png>
 Package pdftex.def Info: images/geometry_2.png  used on input line 94.
 (pdftex.def)             Requested size: 452.9679pt x 610.82217pt.
-[238]
-<images/calibration.png, id=7466, 518.93875pt x 709.65125pt>
+[245]
+<images/calibration.png, id=7656, 518.93875pt x 709.65125pt>
 File: images/calibration.png Graphic file (type png)
 <use images/calibration.png>
 Package pdftex.def Info: images/calibration.png  used on input line 99.
 (pdftex.def)             Requested size: 407.66833pt x 557.52142pt.
- [239 <./images/geometry_1.png>]
-<images/tau_1.png, id=7472, 575.14874pt x 713.66624pt>
+ [246 <./images/geometry_1.png>]
+<images/tau_1.png, id=7662, 575.14874pt x 713.66624pt>
 File: images/tau_1.png Graphic file (type png)
 <use images/tau_1.png>
 Package pdftex.def Info: images/tau_1.png  used on input line 104.
 (pdftex.def)             Requested size: 452.9679pt x 562.08047pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 105--105
-[]\T1/cmr/m/it/7 Figure 31.4 ^^U |Ring ra-dius cor-rec-tion and se-lected oc-cu
-l-ta-tion ge-om-e-try pa-ram-e-ters con-tained in the files
+[]\T1/cmr/m/n/7 Fig. 32.4: |Ring ra-dius cor-rec-tion and se-lected oc-cul-ta-t
+ion ge-om-e-try pa-ram-e-ters con-tained in the files
  []
 
-[240 <./images/geometry_2.png>] [241 <./images/calibration.png>] [242 <./images
+[247 <./images/geometry_2.png>] [248 <./images/calibration.png>] [249 <./images
 /tau_1.png>]
-<images/tau_2.png, id=7489, 529.98pt x 705.63625pt>
+<images/tau_2.png, id=7679, 529.98pt x 705.63625pt>
 File: images/tau_2.png Graphic file (type png)
 <use images/tau_2.png>
 Package pdftex.def Info: images/tau_2.png  used on input line 110.
 (pdftex.def)             Requested size: 452.9679pt x 603.10992pt.
- [243
+ [250
 
  <./images/tau_2.png>]
-<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=7495, page=1, 614.295pt x 794
+<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=7685, page=1, 614.295pt x 794
 .97pt>
 File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 1>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page1 u
 sed on input line 121.
 (pdftex.def)             Requested size: 452.9679pt x 457.30566pt.
- [244 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
-Underfull \hbox (badness 7576) in paragraph at lines 187--187
-[]\T1/cmr/m/it/7 Table 31.6 ^^U |Glos-sary of op-ti-cal depth, phase shift, and
- se-lected ge-om-e-try pa-ram-e-ters con-tained in files
+ [251 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[]\T1/cmr/m/n/7 Table 32.6: |Glos-sary of op-ti-cal depth, phase shift, and se-
+lected ge-om-e-try pa-ram-e-ters con-tained in files
  []
 
-<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=7514, page=2, 614.295pt x 794
+
+Underfull \hbox (badness 2057) in paragraph at lines 187--187
+\T1/cmr/m/n/7 RSS_2005_123_X43_E_TAU_01KM.TAB and RSS_2005_123_X43_E_TAU_10KM.T
+AB. See com-pan-ion la-bel (.LBL)
+ []
+
+<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=7705, page=2, 614.295pt x 794
 .97pt>
 File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 2>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page2 u
 sed on input line 192.
 (pdftex.def)             Requested size: 452.9679pt x 607.80528pt.
-<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=7516, page=3, 614.295pt x 794
+<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=7707, page=3, 614.295pt x 794
 .97pt>
 File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 3>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page3 u
 sed on input line 197.
 (pdftex.def)             Requested size: 452.9679pt x 607.80528pt.
-[245]
-<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=7522, page=4, 614.295pt x 794
+[252]
+<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=7713, page=4, 614.295pt x 794
 .97pt>
 File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 4>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page4 u
 sed on input line 202.
 (pdftex.def)             Requested size: 452.9679pt x 613.77966pt.
- [246 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
-<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=7541, page=5, 614.295pt x 794
+ [253 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
+<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=7733, page=5, 614.295pt x 794
 .97pt>
 File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 5>
@@ -2507,130 +2528,136 @@ sed on input line 207.
 (pdftex.def)             Requested size: 452.9679pt x 607.80528pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 209--209
-[]\T1/cmr/m/it/7 Figure 31.10 ^^U |Ring ra-dius cor-rec-tion and se-lected oc-c
-ul-ta-tion ge-om-e-try pa-ram-e-ters con-tained in the file
+[]\T1/cmr/m/n/7 Fig. 32.10: |Ring ra-dius cor-rec-tion and se-lected oc-cul-ta-
+tion ge-om-e-try pa-ram-e-ters con-tained in the file
  []
 
-[247 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
-<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=7549, page=1, 794.97pt x 614.
+[254 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
+<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=7740, page=1, 794.97pt x 614.
 295pt>
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 1>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page1 u
 sed on input line 214.
 (pdftex.def)             Requested size: 452.9679pt x 380.80243pt.
- [248 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
-<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=7562, page=2, 794.97pt x 614.
+ [255 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
+<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=7753, page=2, 794.97pt x 614.
 295pt>
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 2>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page2 u
 sed on input line 220.
 (pdftex.def)             Requested size: 452.9679pt x 380.80243pt.
- [249 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
-<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=7569, page=3, 794.97pt x 614.
+ [256 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
+<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=7760, page=3, 794.97pt x 614.
 295pt>
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 3>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page3 u
 sed on input line 226.
 (pdftex.def)             Requested size: 452.9679pt x 380.80243pt.
-<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=7571, page=4, 794.97pt x 614.
+<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=7762, page=4, 794.97pt x 614.
 295pt>
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 4>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page4 u
 sed on input line 232.
 (pdftex.def)             Requested size: 452.9679pt x 380.80243pt.
- [250 <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degr
-ees> <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degre
-es>]
-<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=7592, page=5, 794.97pt x 614.
+
+Underfull \hbox (badness 1205) in paragraph at lines 233--233
+[]\T1/cmr/m/n/7 Fig. 32.14: |Rev7-E nor-mal op-ti-cal depth pro-files re-con-st
+ructed to re-move diffrac-tion ef-fects at 1 km res-o-lu-tion (file
+ []
+
+[257 <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degre
+es> <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degree
+s>]
+<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=7782, page=5, 794.97pt x 614.
 295pt>
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 5>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page5 u
 sed on input line 238.
 (pdftex.def)             Requested size: 452.9679pt x 380.80243pt.
-<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=7594, page=6, 794.97pt x 614.
+<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=7784, page=6, 794.97pt x 614.
 295pt>
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 6>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page6 u
 sed on input line 244.
 (pdftex.def)             Requested size: 452.9679pt x 380.80243pt.
- [251 <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degr
+ [258 <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degr
 ees> <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degre
 es>])
 (./Undergraduate_Research/Research_Whitin_Observatory/207_interim_report.tex
-[252 <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degre
+[259 <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degre
 es> <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degree
 s>]
-Chapter 32.
-[253
+Chapter 33.
+[260
 
 ]
 
-Package natbib Warning: Citation `Marouf1986' on page 254 undefined on input li
+Package natbib Warning: Citation `Marouf1986' on page 261 undefined on input li
 ne 20.
 
-[254
+[261
 
 ]
 
-Package natbib Warning: Citation `Acton1996' on page 255 undefined on input lin
+Package natbib Warning: Citation `Acton1996' on page 262 undefined on input lin
 e 27.
 
 
-Package natbib Warning: Citation `French1993' on page 255 undefined on input li
+Package natbib Warning: Citation `French1993' on page 262 undefined on input li
 ne 27.
 
-[255]
-<images/user_guide_fig_3-9.pdf, id=7712, page=1, 614.295pt x 794.97pt>
+[262]
+<images/user_guide_fig_3-9.pdf, id=7902, page=1, 614.295pt x 794.97pt>
 File: images/user_guide_fig_3-9.pdf Graphic file (type pdf)
 <use images/user_guide_fig_3-9.pdf, page 1>
 Package pdftex.def Info: images/user_guide_fig_3-9.pdf , page1 used on input li
 ne 47.
 (pdftex.def)             Requested size: 221.95676pt x 206.28517pt.
-<images/rgf_plot_fig_3_9.pdf, id=7714, page=1, 614.295pt x 794.97pt>
+<images/rgf_plot_fig_3_9.pdf, id=7904, page=1, 614.295pt x 794.97pt>
 File: images/rgf_plot_fig_3_9.pdf Graphic file (type pdf)
 <use images/rgf_plot_fig_3_9.pdf, page 1>
 Package pdftex.def Info: images/rgf_plot_fig_3_9.pdf , page1 used on input line
  52.
 (pdftex.def)             Requested size: 195.67905pt x 211.38202pt.
- [256 <./images/user_guide_fig_3-9.pdf> <./images/rgf_plot_fig_3_9.pdf>]
-<images/user_guide_fig_3-10_a_rotated.pdf, id=7754, page=1, 794.97pt x 614.295p
+ [263 <./images/user_guide_fig_3-9.pdf> <./images/rgf_plot_fig_3_9.pdf>]
+<images/user_guide_fig_3-10_a_rotated.pdf, id=7945, page=1, 794.97pt x 614.295p
 t>
 File: images/user_guide_fig_3-10_a_rotated.pdf Graphic file (type pdf)
 <use images/user_guide_fig_3-10_a_rotated.pdf, page 1>
 Package pdftex.def Info: images/user_guide_fig_3-10_a_rotated.pdf , page1 used 
 on input line 68.
 (pdftex.def)             Requested size: 194.77287pt x 139.78183pt.
-<images/fig_3-10_top.pdf, id=7756, 614.295pt x 794.97pt>
+<images/fig_3-10_top.pdf, id=7947, 614.295pt x 794.97pt>
 File: images/fig_3-10_top.pdf Graphic file (type pdf)
 <use images/fig_3-10_top.pdf>
 Package pdftex.def Info: images/fig_3-10_top.pdf  used on input line 73.
 (pdftex.def)             Requested size: 212.89546pt x 138.7752pt.
-<images/user_guide_fig_3-10_b_rotated.pdf, id=7758, page=1, 794.97pt x 614.295p
+<images/user_guide_fig_3-10_b_rotated.pdf, id=7949, page=1, 794.97pt x 614.295p
 t>
 File: images/user_guide_fig_3-10_b_rotated.pdf Graphic file (type pdf)
 <use images/user_guide_fig_3-10_b_rotated.pdf, page 1>
 Package pdftex.def Info: images/user_guide_fig_3-10_b_rotated.pdf , page1 used 
 on input line 83.
 (pdftex.def)             Requested size: 210.6284pt x 149.07333pt.
-<images/fig_3-10_bottom.pdf, id=7760, 614.295pt x 794.97pt>
+<images/fig_3-10_bottom.pdf, id=7951, 614.295pt x 794.97pt>
 File: images/fig_3-10_bottom.pdf Graphic file (type pdf)
 <use images/fig_3-10_bottom.pdf>
 Package pdftex.def Info: images/fig_3-10_bottom.pdf  used on input line 88.
 (pdftex.def)             Requested size: 221.95676pt x 154.54955pt.
-<images/user_guide_fig_3-11rotated2.pdf, id=7771, page=1, 794.97pt x 614.295pt>
+<images/user_guide_fig_3-11rotated2.pdf, id=7962, page=1, 794.97pt x 614.295pt>
 
 File: images/user_guide_fig_3-11rotated2.pdf Graphic file (type pdf)
 <use images/user_guide_fig_3-11rotated2.pdf, page 1>
 Package pdftex.def Info: images/user_guide_fig_3-11rotated2.pdf , page1 used on
  input line 102.
 (pdftex.def)             Requested size: 208.36827pt x 153.18394pt.
-<images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf, id=7773, page=1, 794.97pt x 614.
+<images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf, id=7964, page=1, 794.97pt x 614.
 295pt>
 File: images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf Graphic file (type pdf)
 <use images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf, page 1>
@@ -2638,35 +2665,35 @@ Package pdftex.def Info: images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf , page1 u
 sed on input line 107.
 (pdftex.def)             Requested size: 221.95676pt x 174.23126pt.
 
-[257 <./images/user_guide_fig_3-10_a_rotated.pdf, page is rotated 90 degrees> <
+[264 <./images/user_guide_fig_3-10_a_rotated.pdf, page is rotated 90 degrees> <
 ./images/fig_3-10_top.pdf> <./images/user_guide_fig_3-10_b_rotated.pdf, page is
  rotated 90 degrees> <./images/fig_3-10_bottom.pdf>]
-<images/user_guide_fig_3-12.pdf, id=7850, page=1, 614.295pt x 794.97pt>
+<images/user_guide_fig_3-12.pdf, id=8040, page=1, 614.295pt x 794.97pt>
 File: images/user_guide_fig_3-12.pdf Graphic file (type pdf)
 <use images/user_guide_fig_3-12.pdf, page 1>
 Package pdftex.def Info: images/user_guide_fig_3-12.pdf , page1 used on input l
 ine 120.
 (pdftex.def)             Requested size: 527.56886pt x 708.24454pt.
-<images/rjm_gjs_fig_3-12.pdf, id=7852, page=1, 794.97pt x 614.295pt>
+<images/rjm_gjs_fig_3-12.pdf, id=8042, page=1, 794.97pt x 614.295pt>
 File: images/rjm_gjs_fig_3-12.pdf Graphic file (type pdf)
 <use images/rjm_gjs_fig_3-12.pdf, page 1>
 Package pdftex.def Info: images/rjm_gjs_fig_3-12.pdf , page1 used on input line
  126.
 (pdftex.def)             Requested size: 217.42265pt x 174.66183pt.
-<images/user_guide_fig_3-13.pdf, id=7863, page=1, 614.295pt x 794.97pt>
+<images/user_guide_fig_3-13.pdf, id=8053, page=1, 614.295pt x 794.97pt>
 File: images/user_guide_fig_3-13.pdf Graphic file (type pdf)
 <use images/user_guide_fig_3-13.pdf, page 1>
 Package pdftex.def Info: images/user_guide_fig_3-13.pdf , page1 used on input l
 ine 139.
 (pdftex.def)             Requested size: 513.11511pt x 701.01822pt.
-<images/gjs_plot_fig_3_13_progress_report.pdf, id=7865, page=1, 794.97pt x 614.
+<images/gjs_plot_fig_3_13_progress_report.pdf, id=8055, page=1, 794.97pt x 614.
 295pt>
 File: images/gjs_plot_fig_3_13_progress_report.pdf Graphic file (type pdf)
 <use images/gjs_plot_fig_3_13_progress_report.pdf, page 1>
 Package pdftex.def Info: images/gjs_plot_fig_3_13_progress_report.pdf , page1 u
 sed on input line 145.
 (pdftex.def)             Requested size: 210.85823pt x 158.13849pt.
- [258 <./images/user_guide_fig_3-11rotated2.pdf, page is rotated 90 degrees> <.
+ [265 <./images/user_guide_fig_3-11rotated2.pdf, page is rotated 90 degrees> <.
 /images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf> <./images/user_guide_fig_3-12.pd
 f> <./images/rjm_gjs_fig_3-12.pdf>]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 158.
@@ -2674,110 +2701,110 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 158.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-<images/Rev007_E_comparison_geo.pdf, id=7961, page=2, 614.295pt x 794.97pt>
+<images/Rev007_E_comparison_geo.pdf, id=8152, page=2, 614.295pt x 794.97pt>
 File: images/Rev007_E_comparison_geo.pdf Graphic file (type pdf)
 <use images/Rev007_E_comparison_geo.pdf, page 2>
 Package pdftex.def Info: images/Rev007_E_comparison_geo.pdf , page2 used on inp
 ut line 165.
 (pdftex.def)             Requested size: 221.95676pt x 293.98213pt.
-<images/Rev007_E_comparison_geo.pdf, id=7963, page=3, 614.295pt x 794.97pt>
+<images/Rev007_E_comparison_geo.pdf, id=8154, page=3, 614.295pt x 794.97pt>
 File: images/Rev007_E_comparison_geo.pdf Graphic file (type pdf)
 <use images/Rev007_E_comparison_geo.pdf, page 3>
 Package pdftex.def Info: images/Rev007_E_comparison_geo.pdf , page3 used on inp
 ut line 169.
 (pdftex.def)             Requested size: 221.95676pt x 293.98213pt.
- [259 <./images/user_guide_fig_3-13.pdf> <./images/gjs_plot_fig_3_13_progress_r
+ [266 <./images/user_guide_fig_3-13.pdf> <./images/gjs_plot_fig_3_13_progress_r
 eport.pdf>]
-<images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf, id=8032, page=1, 794.97pt x 6
+<images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf, id=8223, page=1, 794.97pt x 6
 14.295pt>
 File: images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf, page 1>
 Package pdftex.def Info: images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf , page
 1 used on input line 183.
 (pdftex.def)             Requested size: 362.37569pt x 276.47873pt.
- [260 <./images/Rev007_E_comparison_geo.pdf> <./images/Rev007_E_comparison_geo.
+ [267 <./images/Rev007_E_comparison_geo.pdf> <./images/Rev007_E_comparison_geo.
 pdf>]
 
-Package natbib Warning: Citation `Marouf2011' on page 261 undefined on input li
+Package natbib Warning: Citation `Marouf2011' on page 268 undefined on input li
 ne 195.
 
-<images/CringRipples.pdf, id=8077, page=1, 794.97pt x 614.295pt>
+<images/CringRipples.pdf, id=8267, page=1, 794.97pt x 614.295pt>
 File: images/CringRipples.pdf Graphic file (type pdf)
 <use images/CringRipples.pdf, page 1>
 Package pdftex.def Info: images/CringRipples.pdf , page1 used on input line 198
 .
 (pdftex.def)             Requested size: 317.07614pt x 206.78548pt.
-[261 <./images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf, page is rotated 270 de
+[268 <./images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf, page is rotated 270 de
 grees>]
-<images/CringRipplesDiffraction.pdf, id=8102, 794.97pt x 614.295pt>
+<images/CringRipplesDiffraction.pdf, id=8292, 794.97pt x 614.295pt>
 File: images/CringRipplesDiffraction.pdf Graphic file (type pdf)
 <use images/CringRipplesDiffraction.pdf>
 Package pdftex.def Info: images/CringRipplesDiffraction.pdf  used on input line
  206.
 (pdftex.def)             Requested size: 317.07614pt x 255.43025pt.
-<images/CringRipplesTau2.pdf, id=8104, 794.97pt x 614.295pt>
+<images/CringRipplesTau2.pdf, id=8294, 794.97pt x 614.295pt>
 File: images/CringRipplesTau2.pdf Graphic file (type pdf)
 <use images/CringRipplesTau2.pdf>
 Package pdftex.def Info: images/CringRipplesTau2.pdf  used on input line 212.
 (pdftex.def)             Requested size: 317.07614pt x 255.43025pt.
-<images/CringRipplesTau.pdf, id=8106, page=1, 794.97pt x 614.295pt>
+<images/CringRipplesTau.pdf, id=8296, page=1, 794.97pt x 614.295pt>
 File: images/CringRipplesTau.pdf Graphic file (type pdf)
 <use images/CringRipplesTau.pdf, page 1>
 Package pdftex.def Info: images/CringRipplesTau.pdf , page1 used on input line 
 219.
 (pdftex.def)             Requested size: 317.07614pt x 255.43025pt.
- [262 <./images/CringRipples.pdf>] [263 <./images/CringRipplesDiffraction.pdf> 
+ [269 <./images/CringRipples.pdf>] [270 <./images/CringRipplesDiffraction.pdf> 
 <./images/CringRipplesTau2.pdf>]
-<images/gjs_rev123E_X63_Fring_fig.pdf, id=8204, 794.97pt x 614.295pt>
+<images/gjs_rev123E_X63_Fring_fig.pdf, id=8394, 794.97pt x 614.295pt>
 File: images/gjs_rev123E_X63_Fring_fig.pdf Graphic file (type pdf)
 <use images/gjs_rev123E_X63_Fring_fig.pdf>
 Package pdftex.def Info: images/gjs_rev123E_X63_Fring_fig.pdf  used on input li
 ne 231.
 (pdftex.def)             Requested size: 407.66833pt x 257.57538pt.
-<images/gjs_rev123E_K55_Fring_fig.pdf, id=8209, 794.97pt x 614.295pt>
+<images/gjs_rev123E_K55_Fring_fig.pdf, id=8399, 794.97pt x 614.295pt>
 File: images/gjs_rev123E_K55_Fring_fig.pdf Graphic file (type pdf)
 <use images/gjs_rev123E_K55_Fring_fig.pdf>
 Package pdftex.def Info: images/gjs_rev123E_K55_Fring_fig.pdf  used on input li
 ne 238.
 (pdftex.def)             Requested size: 407.66833pt x 257.57538pt.
-<images/gjs_rev123E_S63_Fring_fig.pdf, id=8212, 794.97pt x 614.295pt>
+<images/gjs_rev123E_S63_Fring_fig.pdf, id=8402, 794.97pt x 614.295pt>
 File: images/gjs_rev123E_S63_Fring_fig.pdf Graphic file (type pdf)
 <use images/gjs_rev123E_S63_Fring_fig.pdf>
 Package pdftex.def Info: images/gjs_rev123E_S63_Fring_fig.pdf  used on input li
 ne 245.
 (pdftex.def)             Requested size: 407.66833pt x 257.57538pt.
- [264 <./images/CringRipplesTau.pdf>]
-[265 <./images/gjs_rev123E_X63_Fring_fig.pdf> <./images/gjs_rev123E_K55_Fring_f
-ig.pdf>] [266 <./images/gjs_rev123E_S63_Fring_fig.pdf>] [267]
-<images/b_year_dss43.pdf, id=8398, 794.97pt x 614.295pt>
+ [271 <./images/CringRipplesTau.pdf>]
+[272 <./images/gjs_rev123E_X63_Fring_fig.pdf> <./images/gjs_rev123E_K55_Fring_f
+ig.pdf>] [273 <./images/gjs_rev123E_S63_Fring_fig.pdf>] [274]
+<images/b_year_dss43.pdf, id=8588, 794.97pt x 614.295pt>
 File: images/b_year_dss43.pdf Graphic file (type pdf)
 <use images/b_year_dss43.pdf>
 Package pdftex.def Info: images/b_year_dss43.pdf  used on input line 375.
 (pdftex.def)             Requested size: 221.95676pt x 159.80429pt.
-<images/jwf_rev7E_elev_example_08feb2018.pdf, id=8400, 794.97pt x 614.295pt>
+<images/jwf_rev7E_elev_example_08feb2018.pdf, id=8590, 794.97pt x 614.295pt>
 File: images/jwf_rev7E_elev_example_08feb2018.pdf Graphic file (type pdf)
 <use images/jwf_rev7E_elev_example_08feb2018.pdf>
 Package pdftex.def Info: images/jwf_rev7E_elev_example_08feb2018.pdf  used on i
 nput line 380.
 (pdftex.def)             Requested size: 221.95676pt x 154.90565pt.
-<images/jwf_RSS_occs_v1_page1.pdf, id=8402, 794.97pt x 614.295pt>
+<images/jwf_RSS_occs_v1_page1.pdf, id=8592, 794.97pt x 614.295pt>
 File: images/jwf_RSS_occs_v1_page1.pdf Graphic file (type pdf)
 <use images/jwf_RSS_occs_v1_page1.pdf>
 Package pdftex.def Info: images/jwf_RSS_occs_v1_page1.pdf  used on input line 3
 86.
 (pdftex.def)             Requested size: 452.9679pt x 290.31908pt.
- [268] [269 <./images/b_year_dss43.pdf> <./images/jwf_rev7E_elev_example_08feb2
+ [275] [276 <./images/b_year_dss43.pdf> <./images/jwf_rev7E_elev_example_08feb2
 018.pdf, page is rotated 270 degrees> <./images/jwf_RSS_occs_v1_page1.pdf>] [27
-0] [271]
-<images/gjs_rev7E_X43_make_P_norm_vals.png, id=8519, 1375.63937pt x 1093.08376p
+7] [278]
+<images/gjs_rev7E_X43_make_P_norm_vals.png, id=8710, 1375.63937pt x 1093.08376p
 t>
 File: images/gjs_rev7E_X43_make_P_norm_vals.png Graphic file (type png)
 <use images/gjs_rev7E_X43_make_P_norm_vals.png>
 Package pdftex.def Info: images/gjs_rev7E_X43_make_P_norm_vals.png  used on inp
 ut line 494.
 (pdftex.def)             Requested size: 398.61395pt x 290.55946pt.
- [272 <./images/gjs_rev7E_X43_make_P_norm_vals.png>]
-<images/gjs_compare_python_power_inversion_with_essam.pdf, id=8537, page=1, 794
+ [279 <./images/gjs_rev7E_X43_make_P_norm_vals.png>]
+<images/gjs_compare_python_power_inversion_with_essam.pdf, id=8727, page=1, 794
 .97pt x 614.295pt>
 File: images/gjs_compare_python_power_inversion_with_essam.pdf Graphic file (ty
 pe pdf)
@@ -2785,7 +2812,7 @@ pe pdf)
 Package pdftex.def Info: images/gjs_compare_python_power_inversion_with_essam.p
 df , page1 used on input line 502.
 (pdftex.def)             Requested size: 407.66833pt x 256.834pt.
-<images/gjs_compare_python_power_inversion_with_essam.pdf, id=8539, page=2, 794
+<images/gjs_compare_python_power_inversion_with_essam.pdf, id=8729, page=2, 794
 .97pt x 614.295pt>
 File: images/gjs_compare_python_power_inversion_with_essam.pdf Graphic file (ty
 pe pdf)
@@ -2793,7 +2820,7 @@ pe pdf)
 Package pdftex.def Info: images/gjs_compare_python_power_inversion_with_essam.p
 df , page2 used on input line 508.
 (pdftex.def)             Requested size: 407.66833pt x 256.834pt.
-<images/gjs_compare_python_power_inversion_with_essam.pdf, id=8543, page=3, 794
+<images/gjs_compare_python_power_inversion_with_essam.pdf, id=8733, page=3, 794
 .97pt x 614.295pt>
 File: images/gjs_compare_python_power_inversion_with_essam.pdf Graphic file (ty
 pe pdf)
@@ -2801,7 +2828,7 @@ pe pdf)
 Package pdftex.def Info: images/gjs_compare_python_power_inversion_with_essam.p
 df , page3 used on input line 514.
 (pdftex.def)             Requested size: 407.66833pt x 256.834pt.
- [273 <./images/gjs_compare_python_power_inversion_with_essam.pdf>] [274 <./ima
+ [280 <./images/gjs_compare_python_power_inversion_with_essam.pdf>] [281 <./ima
 ges/gjs_compare_python_power_inversion_with_essam.pdf> <./images/gjs_compare_py
 thon_power_inversion_with_essam.pdf>]
 Overfull \hbox (238.07169pt too wide) in paragraph at lines 521--521
@@ -2810,23 +2837,23 @@ to the ex-ist-ing GitHub repos-i-tory \T1/cmtt/m/n/10 https://github.com/NASA-P
 lanetary-Science/rss_ringoccs\T1/cmr/m/n/10 .
  []
 
-[275])) [276] [277
+[282])) [283] [284
 
-] (./Undergraduate_Work/Undergraduate_Work_Main.tex [278
+] (./Undergraduate_Work/Undergraduate_Work_Main.tex [285
 
 ]
 (./Undergraduate_Work/Undergraduate_Work_Mathematics/401_masters_work.tex
-Chapter 33.
-[279
+Chapter 34.
+[286
 
-] [280] [281] [282] [283] [284] [285] [286] [287] [288] [289] [290pdfTeX warnin
-g (ext4): destination with the same identifier (name{Item.1288}) has been alrea
+] [287] [288] [289] [290] [291] [292] [293] [294] [295] [296] [297pdfTeX warnin
+g (ext4): destination with the same identifier (name{Item.1340}) has been alrea
 dy used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
 l.865 \end{definition}
-                      ] [291]
+                      ] [298]
 Overfull \hbox (3.89647pt too wide) in paragraph at lines 942--943
 []\T1/cmr/m/n/10 It suf-fices to show that $\OML/cmm/m/it/10 R \OMS/cmsy/m/n/10
  ^^X \U/msb/m/n/10 R$\T1/cmr/m/n/10 , where $\OML/cmm/m/it/10 R$ \T1/cmr/m/n/10
@@ -2834,31 +2861,31 @@ Overfull \hbox (3.89647pt too wide) in paragraph at lines 942--943
 /cmm/m/it/10 x\OT1/cmr/m/n/10 ) = []$\T1/cmr/m/n/10 .
  []
 
-[292] [293] [294] [295] [296] [297] [298] [299] [300] [301] [302] [303]
-[304] [305]
+[299] [300] [301] [302] [303] [304] [305] [306] [307] [308] [309] [310]
+[311] [312]
 Overfull \hbox (2.74803pt too wide) in paragraph at lines 1842--1843
 []\T1/cmr/m/n/10 As $\OML/cmm/m/it/10 S$ \T1/cmr/m/n/10 is affinely de-pen-dent
 , there are dis-tinct points $\OML/cmm/m/it/10 x[]; [] ; x[]$ \T1/cmr/m/n/10 an
 d non-zero real num-bers $\OML/cmm/m/it/10 ^^U[]; [] ; ^^U[]$
  []
 
-[306]
-<images/Circle-1.png, id=9217, 480.79625pt x 551.05875pt>
+[313]
+<images/Circle-1.png, id=9409, 480.79625pt x 551.05875pt>
 File: images/Circle-1.png Graphic file (type png)
 <use images/Circle-1.png>
 Package pdftex.def Info: images/Circle-1.png  used on input line 1899.
 (pdftex.def)             Requested size: 144.95303pt x 166.1345pt.
-<images/convex-1.png, id=9218, 527.9725pt x 625.33624pt>
+<images/convex-1.png, id=9410, 527.9725pt x 625.33624pt>
 File: images/convex-1.png Graphic file (type png)
 <use images/convex-1.png>
 Package pdftex.def Info: images/convex-1.png  used on input line 1904.
 (pdftex.def)             Requested size: 144.95303pt x 171.67697pt.
-<images/line-1.png, id=9219, 590.205pt x 502.87875pt>
+<images/line-1.png, id=9411, 590.205pt x 502.87875pt>
 File: images/line-1.png Graphic file (type png)
 <use images/line-1.png>
 Package pdftex.def Info: images/line-1.png  used on input line 1909.
 (pdftex.def)             Requested size: 144.95303pt x 123.50179pt.
- [307 <./images/Circle-1.png> <./images/convex-1.png> <./images/line-1.png>]
+ [314 <./images/Circle-1.png> <./images/convex-1.png> <./images/line-1.png>]
 Overfull \hbox (6.31473pt too wide) in paragraph at lines 1950--1951
 \OML/cmm/m/it/10 e[]$ \T1/cmr/m/n/10 and the hor-i-zon-tal axis of $\U/msb/m/n/
 10 R[]$\T1/cmr/m/n/10 . The mean width is $\OML/cmm/m/it/10 W\OT1/cmr/m/n/10 (\
@@ -2868,36 +2895,36 @@ OML/cmm/m/it/10 Q\OT1/cmr/m/n/10 ) = [] [][] \OML/cmm/m/it/10 W[]\OT1/cmr/m/n/1
 /cmr/m/n/10 (\OML/cmm/m/it/10 ^^R \OMS/cmsy/m/n/10 ^^@
  []
 
-<images/semicircle-1.png, id=9243, 644.4075pt x 449.68pt>
+<images/semicircle-1.png, id=9434, 644.4075pt x 449.68pt>
 File: images/semicircle-1.png Graphic file (type png)
 <use images/semicircle-1.png>
 Package pdftex.def Info: images/semicircle-1.png  used on input line 1957.
 (pdftex.def)             Requested size: 193.32373pt x 134.90503pt.
-[308]
-<images/Circles-3.png, id=9256, 603.25375pt x 516.93124pt>
+[315]
+<images/Circles-3.png, id=9447, 603.25375pt x 516.93124pt>
 File: images/Circles-3.png Graphic file (type png)
 <use images/Circles-3.png>
 Package pdftex.def Info: images/Circles-3.png  used on input line 2013.
 (pdftex.def)             Requested size: 221.95676pt x 190.18883pt.
-<images/Circle-4.png, id=9257, 531.9875pt x 501.875pt>
+<images/Circle-4.png, id=9448, 531.9875pt x 501.875pt>
 File: images/Circle-4.png Graphic file (type png)
 <use images/Circle-4.png>
 Package pdftex.def Info: images/Circle-4.png  used on input line 2018.
 (pdftex.def)             Requested size: 221.95676pt x 209.3923pt.
- [309 <./images/semicircle-1.png>] [310 <./images/Circles-3.png> <./images/Circ
+ [316 <./images/semicircle-1.png>] [317 <./images/Circles-3.png> <./images/Circ
 le-4.png>]
-<images/triangle-1.png, id=9288, 477.785pt x 426.59375pt>
+<images/triangle-1.png, id=9478, 477.785pt x 426.59375pt>
 File: images/triangle-1.png Graphic file (type png)
 <use images/triangle-1.png>
 Package pdftex.def Info: images/triangle-1.png  used on input line 2112.
 (pdftex.def)             Requested size: 143.3366pt x 127.97911pt.
- [311 <./images/triangle-1.png>])
+ [318 <./images/triangle-1.png>])
 (./Undergraduate_Work/Undergraduate_Work_Mathematics/402_some_more_stuff.tex
-[312]
-Chapter 34.
-[313
+[319]
+Chapter 35.
+[320
 
-] [314] [315]
+] [321] [322]
 Overfull \hbox (60.64005pt too wide) in paragraph at lines 200--201
 \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )[] = []
 [] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )[]\O
@@ -2920,7 +2947,7 @@ it/10 dt$
 
 
 Overfull \hbox (22.19934pt too wide) in paragraph at lines 203--204
-[][]\T1/cmr/bx/n/10 Lemma 34.3.1 []\T1/cmr/m/it/10 If $\OML/cmm/m/it/10 f \OMS/
+[][]\T1/cmr/bx/n/10 Lemma 35.3.1 []\T1/cmr/m/it/10 If $\OML/cmm/m/it/10 f \OMS/
 cmsy/m/n/10 2 \OML/cmm/m/it/10 C[]$ \T1/cmr/m/it/10 and $\OML/cmm/m/it/10 f[]\O
 T1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ! \OT1/cmr/
 m/n/10 0$ \T1/cmr/m/it/10 (Point-wise) on $\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 a;
@@ -2931,9 +2958,9 @@ ML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 )[]$\T1/
 cmr/m/it/10 ,
  []
 
-[316]
+[323]
 Overfull \hbox (47.5063pt too wide) in paragraph at lines 245--246
-[][]\T1/cmr/bx/n/10 Theorem 34.3.3 \T1/cmr/m/n/10 (La-grange's Re-main-der The-
+[][]\T1/cmr/bx/n/10 Theorem 35.3.3 \T1/cmr/m/n/10 (La-grange's Re-main-der The-
 o-rem) []\T1/cmr/m/it/10 A func-tion $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/c
 mm/m/it/10 x\OT1/cmr/m/n/10 )$ \T1/cmr/m/it/10 is an-a-lytic if and only if $[]
 [] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )[]\O
@@ -2952,7 +2979,7 @@ L/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )[]\OML/cmm
 /m/it/10 dt \OMS/cmsy/m/n/10 !
  []
 
-[317] [318] [319] [320]
+[324] [325] [326] [327]
 Overfull \hbox (48.14125pt too wide) in paragraph at lines 440--443
 []\T1/cmr/m/n/10 In a patho-log-i-cal con-struc-tion, let $\OML/cmm/m/it/10 G \
 OT1/cmr/m/n/10 = \U/msb/m/n/10 R$\T1/cmr/m/n/10 . Con-sider the fol-low-ing op-
@@ -2960,14 +2987,14 @@ er-a-tion: $\OML/cmm/m/it/10 x \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 y \OT1/cmr
 /m/n/10 = []$\T1/cmr/m/n/10 .
  []
 
-[321] [322] [323])
+[328] [329] [330])
 (./Undergraduate_Work/Undergraduate_Work_Mathematics/403_mathematics_gre_subjec
-t_test.tex [324]
-Chapter 35.
-[325
+t_test.tex [331]
+Chapter 36.
+[332
 
-] [326] [327] [328] [329] [330] [331]
-Overfull \hbox (13.19188pt too wide) in paragraph at lines 438--439
+] [333] [334] [335] [336] [337]
+Overfull \hbox (13.19188pt too wide) in paragraph at lines 540--541
 []\T1/cmr/bx/n/10 Theorem []\T1/cmr/m/it/10 If $\OML/cmm/m/it/10 $ \T1/cmr/m/i
 t/10 and $\OML/cmm/m/it/10 ^^L$ \T1/cmr/m/it/10 are dif-fer-en-tiable, $\OML/cm
 m/m/it/10 f$ \T1/cmr/m/it/10 is con-tin-u-ous, and if $\OML/cmm/m/it/10 F\OT1/c
@@ -2978,7 +3005,7 @@ r/m/n/10 )[]\OML/cmm/m/it/10 ^^L[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m
 /n/10 ) \OMS/cmsy/m/n/10 ^^@
  []
 
-) [332] [333
+[338]) [339] [340
 
 ]
 (./Undergraduate_Work/Undergraduate_Work_Mathematics/404_Translation_of_Volterr
@@ -2987,18 +3014,18 @@ Underfull \hbox (badness 5681) in paragraph at lines 59--59
 []\T1/cmr/m/n/10 Cette étude re-pose sur celle des in-té-grales
  []
 
-[334
+[341
 
 ]
 Underfull \hbox (badness 1107) in paragraph at lines 88--88
 []\T1/cmr/m/n/10 Je dois dire un mot sur les Notes ma-thé-ma-
  []
 
-[335]
-Chapter 36.
-) [336
+[342]
+Chapter 37.
+) [343
 
-pdfTeX warning (ext4): destination with the same identifier (name{section.36.1}
+pdfTeX warning (ext4): destination with the same identifier (name{section.37.1}
 ) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
@@ -3009,10 +3036,10 @@ Overfull \hbox (4.30951pt too wide) in paragraph at lines 20--20
 |\T1/cmr/bx/n/24.88 Undergraduate Work: Pro-gram-ming Tu-
  []
 
-[337
+[344
 
 ] (./Undergraduate_Work/Undergraduate_Programming_Tutorials/601_python.tex
-Chapter 37.
+Chapter 38.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
@@ -3021,21 +3048,21 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <9> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 29.
- [338
+ [345
 
 ]
-[339] (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+[346] (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-[340]
+[347]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 448.
- [341] [342] [343] [344] [345] [346]
+ [348] [349] [350] [351] [352] [353]
 Underfull \hbox (badness 10000) in paragraph at lines 1306--1360
 
  []
 
-[347] (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+[354] (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
@@ -3050,65 +3077,70 @@ Overfull \hbox (12.02338pt too wide) in paragraph at lines 1454--1455
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[348]) (./Undergraduate_Work/Undergraduate_Programming_Tutorials/602_bash.tex
-[349]
-Chapter 38.
-[350
+[355]) (./Undergraduate_Work/Undergraduate_Programming_Tutorials/602_bash.tex
+[356]
+Chapter 39.
+[357
 
 ]) (./Undergraduate_Work/Undergraduate_Programming_Tutorials/603_idl.tex
-[351
+[358
 
 ]
-Chapter 39.
+Chapter 40.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang2.sty
 File: lstlang2.sty 2015/06/04 1.6 listings language file
-))) [352
+))
+(./Undergraduate_Work/Undergraduate_Programming_Tutorials/604_C.tex [359
 
 ]
-[353
+Chapter 41.
+[360
 
-] (./Encyclopedia_Mathematica/Encyclopedia_Mathematica_Main.tex [354
+] [361])) [362] [363
+
+]
+(./Encyclopedia_Mathematica/Encyclopedia_Mathematica_Main.tex [364
 
 ]
 (./Encyclopedia_Mathematica/Analysis/Analysis_Summary.tex
-Chapter 40.
-[355
+Chapter 42.
+[365
 
-] [356] [357])) [358
+] [366] [367])) [368
 
-] (./main.acr [359
+] (./main.acr [369
 
 
 
-] [360]) [361] (./main.gls [362
+] [370]) [371] (./main.gls [372
 
 
 
 ]
-[363] [364] [365] [366]) [367]
+[373] [374] [375] [376]) [377]
 No file main.bbl.
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
 (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4B00CCE860C35EEE464F5A30EABDC761;20502.
+(rerunfilecheck)             Checksum: A870A977D4383D58224FABB336B0AC17;21757.
  ) 
 Here is how much of TeX's memory you used:
- 72048 strings out of 492982
- 1527278 string characters out of 6132527
- 1950299 words of memory out of 5000000
- 68808 multiletter control sequences out of 15000+600000
+ 72323 strings out of 492982
+ 1531837 string characters out of 6132527
+ 1951311 words of memory out of 5000000
+ 68871 multiletter control sequences out of 15000+600000
  566184 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,19n,148p,10470b,3093s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,19n,148p,10470b,3096s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{glo:rmsglos} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -3176,10 +3208,10 @@ sl1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti
 .pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt0800.p
 fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on main.pdf (379 pages, 20214900 bytes).
+Output written on main.pdf (389 pages, 20223813 bytes).
 PDF statistics:
- 12516 PDF objects out of 12825 (max. 8388607)
- 11491 compressed objects within 115 object streams
- 5694 named destinations out of 6186 (max. 500000)
- 3198 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 12845 PDF objects out of 15390 (max. 8388607)
+ 11803 compressed objects within 119 object streams
+ 5881 named destinations out of 6186 (max. 500000)
+ 3334 words of extra memory for PDF output out of 10000 (max. 10000000)
 

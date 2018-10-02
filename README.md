@@ -51,7 +51,7 @@ Courses from Calculus to Topology, Applied Mathematics to Number Theory.
 Various courses from standard undergraduate physics. Introductory level to first year graduate school.
 
 ## Book Two: Undergraduate Research
-Notes from all research that has been conducted between 2012 and 2018.
+Notes on all of the research I've been involded in between 2012 and 2018.
 
 ### Part Three: LoCSST
 Notes and miscellaneous work conducted at the Lowell Center for Science and Space Technology.
@@ -63,15 +63,15 @@ Research conducted at the Whitin Observatory at Wellesley College.
 Miscellanous work on a variety of problems outside of other research duties.
 
 ### Part Five: Mathematics
-Notes pertaining to work in convex geometry, analysis, series and sequences, and a translation of Vito Volerra's mathematical
-biology book into English.
+Notes pertaining to work in convex geometry, analysis, series and sequences,
+and a translation of Vito Volerra's mathematical biology book into English.
 
 ### Part Six: Programming Tutorials
 A collection of tutorials in various languages, mostly IDL, C, Python, and Unix/Bash.
 
 ## Book Four: Encylopedia Mathematica
-An attempt to organize many of the definitions and theorems of mathematics in as consistent a form as possible.
-This is very much in it's infancy.
+An attempt to organize many of the definitions and theorems of mathematics in as
+consistent a form as possible. This is very much in it's infancy.
 
 ### Part Seven: Analysis
 Definitions and theorem from introductory and advanced real analysis.

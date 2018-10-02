@@ -51,7 +51,7 @@ Courses from Calculus to Topology, Applied Mathematics to Number Theory.
 Various courses from standard undergraduate physics. Introductory level to first year graduate school.
 
 ## Book Two: Undergraduate Research
-Notes on all of the research I've been involded in between 2012 and 2018.
+Notes on all of the research I've been involved in between 2012 and 2018.
 
 ### Part Three: LoCSST
 Notes and miscellaneous work conducted at the Lowell Center for Science and Space Technology.

@@ -191,88 +191,80 @@
 \BOOKMARK [2][-]{subsection.31.1.6}{Vector Spaces and Euclidean Spaces}{section.31.1}% 191
 \BOOKMARK [2][-]{subsection.31.1.7}{Topology}{section.31.1}% 192
 \BOOKMARK [2][-]{subsection.31.1.8}{Metric Spaces}{section.31.1}% 193
-\BOOKMARK [1][-]{section.31.2}{Calculus on Normed Spaces}{chapter.31}% 194
-\BOOKMARK [2][-]{subsection.31.2.1}{Linear Transformations}{section.31.2}% 195
-\BOOKMARK [2][-]{subsection.31.2.2}{Integration}{section.31.2}% 196
-\BOOKMARK [2][-]{subsection.31.2.3}{Differentiation}{section.31.2}% 197
-\BOOKMARK [2][-]{subsection.31.2.4}{Real Analysis}{section.31.2}% 198
-\BOOKMARK [1][-]{section.31.3}{Convexity: Part I}{chapter.31}% 199
-\BOOKMARK [2][-]{subsection.31.3.1}{Convex Sets}{section.31.3}% 200
-\BOOKMARK [2][-]{subsection.31.3.2}{Convexity in the Euclidean Plane}{section.31.3}% 201
-\BOOKMARK [1][-]{section.31.4}{On Uniform Convergence}{chapter.31}% 202
-\BOOKMARK [1][-]{section.31.5}{On Analyticity}{chapter.31}% 203
-\BOOKMARK [1][-]{section.31.6}{On Infinite Order O.D.E.'s}{chapter.31}% 204
-\BOOKMARK [1][-]{section.31.7}{Other Results}{chapter.31}% 205
-\BOOKMARK [1][-]{section.31.8}{An Uninteresting Algebraic Structure}{chapter.31}% 206
-\BOOKMARK [1][-]{section.31.9}{An Almost Group}{chapter.31}% 207
-\BOOKMARK [1][-]{section.31.10}{On Sequences}{chapter.31}% 208
-\BOOKMARK [1][-]{section.31.11}{A Class of Differentiability}{chapter.31}% 209
-\BOOKMARK [1][-]{section.31.12}{Degenerate Fredholm Equations of the First Kind}{chapter.31}% 210
-\BOOKMARK [-1][-]{part.5}{Translation of Vito Volterra's Mathematical Biology}{book.2}% 211
-\BOOKMARK [0][-]{chapter*.748}{Preface}{part.5}% 212
-\BOOKMARK [0][-]{chapter.32}{Introduction}{part.5}% 213
-\BOOKMARK [1][-]{section.32.1}{Purpose of the Book}{chapter.32}% 214
-\BOOKMARK [-1][-]{part.6}{Research: LoCSST}{book.2}% 215
-\BOOKMARK [-1][-]{part.7}{Research: Whitin Observatory}{book.2}% 216
-\BOOKMARK [0][-]{chapter.33}{Notes on Miscellaneous Papers}{part.7}% 217
-\BOOKMARK [1][-]{section.33.1}{Cassini Radio Science User's Guide}{chapter.33}% 218
-\BOOKMARK [1][-]{section.33.2}{Theory of Radio Occultation by Saturn's Rings}{chapter.33}% 219
-\BOOKMARK [1][-]{section.33.3}{Profiling Saturn's Rings by Radio Occultation}{chapter.33}% 220
-\BOOKMARK [1][-]{section.33.4}{Geometry of the Saturn System}{chapter.33}% 221
-\BOOKMARK [1][-]{section.33.5}{Characteristics of Different Smoothing Windows}{chapter.33}% 222
-\BOOKMARK [1][-]{section.33.6}{Partial-Wave Resonances}{chapter.33}% 223
-\BOOKMARK [1][-]{section.33.7}{Hanning Function - Wolfram Article}{chapter.33}% 224
-\BOOKMARK [1][-]{section.33.8}{Hamming Function - Wolfram Article}{chapter.33}% 225
-\BOOKMARK [1][-]{section.33.9}{Understanding FFTs and Windowing}{chapter.33}% 226
-\BOOKMARK [1][-]{section.33.10}{Low-Complexity Real-Time Single-Tone Phase and Frequency Estimation}{chapter.33}% 227
-\BOOKMARK [1][-]{section.33.11}{One-Dimensional Phase Unwrapping Problem}{chapter.33}% 228
-\BOOKMARK [1][-]{section.33.12}{Rev 280 Occultation}{chapter.33}% 229
-\BOOKMARK [1][-]{section.33.13}{Rev 282 Occultation}{chapter.33}% 230
-\BOOKMARK [0][-]{chapter.34}{Notes on the Mathematics of Cassini}{part.7}% 231
-\BOOKMARK [1][-]{section.34.1}{Atmospheric Occultations}{chapter.34}% 232
-\BOOKMARK [2][-]{subsection.34.1.1}{Titan Geometry}{section.34.1}% 233
-\BOOKMARK [1][-]{section.34.2}{Ring Occultation}{chapter.34}% 234
-\BOOKMARK [2][-]{subsection.34.2.1}{Ring Geometry}{section.34.2}% 235
-\BOOKMARK [2][-]{subsection.34.2.2}{Derivations of Equations in MTR86}{section.34.2}% 236
-\BOOKMARK [2][-]{subsection.34.2.3}{Shannon's Sampling Theorem}{section.34.2}% 237
-\BOOKMARK [2][-]{subsection.34.2.4}{Diffraction Through a Square Well}{section.34.2}% 238
-\BOOKMARK [2][-]{subsection.34.2.5}{Diffraction Through an Inverted Square Well}{section.34.2}% 239
-\BOOKMARK [2][-]{subsection.34.2.6}{Radial Shift from a Linear Phase Offset}{section.34.2}% 240
-\BOOKMARK [2][-]{subsection.34.2.7}{Some Useful Results}{section.34.2}% 241
-\BOOKMARK [2][-]{subsection.34.2.8}{Some Notes on Fresnel Inversion}{section.34.2}% 242
-\BOOKMARK [2][-]{subsection.34.2.9}{Window Width as a Function of Resolution}{section.34.2}% 243
-\BOOKMARK [2][-]{subsection.34.2.10}{The Forward Model}{section.34.2}% 244
-\BOOKMARK [2][-]{subsection.34.2.11}{Stationary Phase Approximation}{section.34.2}% 245
-\BOOKMARK [2][-]{subsection.34.2.12}{Notes on the Fresnel Approximation}{section.34.2}% 246
-\BOOKMARK [0][-]{chapter.35}{Cassini Interim January 2018 Report}{part.7}% 247
-\BOOKMARK [1][-]{section.35.1}{Introduction}{chapter.35}% 248
-\BOOKMARK [1][-]{section.35.2}{General Approach and Analysis Methods}{chapter.35}% 249
-\BOOKMARK [2][-]{subsection.35.2.1}{Occultation Geometry}{section.35.2}% 250
-\BOOKMARK [2][-]{subsection.35.2.2}{Calibrated Observed Diffraction Pattern of Direct Signal}{section.35.2}% 251
-\BOOKMARK [2][-]{subsection.35.2.3}{Diffraction-Corrected Optical Depth Profiles}{section.35.2}% 252
-\BOOKMARK [2][-]{subsection.35.2.4}{Additional Useful Information}{section.35.2}% 253
-\BOOKMARK [1][-]{section.35.3}{Critical Tests of Processing Methods and Codes}{chapter.35}% 254
-\BOOKMARK [2][-]{subsection.35.3.1}{Comparison with Cassini Radio Science User's Guide}{section.35.3}% 255
-\BOOKMARK [2][-]{subsection.35.3.2}{Comparison with Existing Results on the PDS}{section.35.3}% 256
-\BOOKMARK [2][-]{subsection.35.3.3}{Additional Tests}{section.35.3}% 257
-\BOOKMARK [2][-]{subsection.35.3.4}{High Resolution F Ring Profiles}{section.35.3}% 258
-\BOOKMARK [1][-]{section.35.4}{Proposed PDS Organization and Contents}{chapter.35}% 259
-\BOOKMARK [2][-]{subsection.35.4.1}{Directory Structure}{section.35.4}% 260
-\BOOKMARK [2][-]{subsection.35.4.2}{Sample Auxiliary Information}{section.35.4}% 261
-\BOOKMARK [1][-]{section.35.5}{Data Pipeline}{chapter.35}% 262
-\BOOKMARK [2][-]{subsection.35.5.1}{Conversion of Software to Python 3}{section.35.5}% 263
-\BOOKMARK [2][-]{subsection.35.5.2}{Documentation}{section.35.5}% 264
-\BOOKMARK [1][-]{section.35.6}{Future Milestones and Delivery Schedule}{chapter.35}% 265
-\BOOKMARK [0][-]{chapter.36}{Easy Data Example}{part.7}% 266
-\BOOKMARK [1][-]{section.36.1}{Example 1}{chapter.36}% 267
-\BOOKMARK [1][-]{section.36.2}{Example 2}{chapter.36}% 268
-\BOOKMARK [-2][-]{book.3}{ Book \040book : Encyclopedia Mathematica }{}% 269
-\BOOKMARK [-1][-]{part.8}{Analysis}{book.3}% 270
-\BOOKMARK [0][-]{chapter.37}{Analysis Summary}{part.8}% 271
-\BOOKMARK [1][-]{section.37.1}{Definitions and Theorems}{chapter.37}% 272
-\BOOKMARK [2][-]{subsection.37.1.1}{Definitions}{section.37.1}% 273
-\BOOKMARK [2][-]{subsection.37.1.2}{Theorems}{section.37.1}% 274
-\BOOKMARK [1][-]{section.37.2}{Notes}{chapter.37}% 275
-\BOOKMARK [0][-]{section*.805}{Acronyms}{part.8}% 276
-\BOOKMARK [0][-]{section*.807}{Glossary}{part.8}% 277
-\BOOKMARK [0][-]{chapter*.809}{Bibliography}{part.8}% 278
+\BOOKMARK [2][-]{subsection.31.1.9}{Measure Theory}{section.31.1}% 194
+\BOOKMARK [1][-]{section.31.2}{Calculus on Normed Spaces}{chapter.31}% 195
+\BOOKMARK [2][-]{subsection.31.2.1}{Linear Transformations}{section.31.2}% 196
+\BOOKMARK [2][-]{subsection.31.2.2}{Integration}{section.31.2}% 197
+\BOOKMARK [2][-]{subsection.31.2.3}{Differentiation}{section.31.2}% 198
+\BOOKMARK [2][-]{subsection.31.2.4}{Real Analysis}{section.31.2}% 199
+\BOOKMARK [1][-]{section.31.3}{Convexity: Part I}{chapter.31}% 200
+\BOOKMARK [2][-]{subsection.31.3.1}{Convex Sets}{section.31.3}% 201
+\BOOKMARK [2][-]{subsection.31.3.2}{Convexity in the Euclidean Plane}{section.31.3}% 202
+\BOOKMARK [-1][-]{part.5}{Translation of Vito Volterra's Mathematical Biology}{book.2}% 203
+\BOOKMARK [0][-]{chapter*.745}{Preface}{part.5}% 204
+\BOOKMARK [0][-]{chapter.32}{Introduction}{part.5}% 205
+\BOOKMARK [1][-]{section.32.1}{Purpose of the Book}{chapter.32}% 206
+\BOOKMARK [-1][-]{part.6}{Research: LoCSST}{book.2}% 207
+\BOOKMARK [-1][-]{part.7}{Research: Whitin Observatory}{book.2}% 208
+\BOOKMARK [0][-]{chapter.33}{Notes on Miscellaneous Papers}{part.7}% 209
+\BOOKMARK [1][-]{section.33.1}{Cassini Radio Science User's Guide}{chapter.33}% 210
+\BOOKMARK [1][-]{section.33.2}{Theory of Radio Occultation by Saturn's Rings}{chapter.33}% 211
+\BOOKMARK [1][-]{section.33.3}{Profiling Saturn's Rings by Radio Occultation}{chapter.33}% 212
+\BOOKMARK [1][-]{section.33.4}{Geometry of the Saturn System}{chapter.33}% 213
+\BOOKMARK [1][-]{section.33.5}{Characteristics of Different Smoothing Windows}{chapter.33}% 214
+\BOOKMARK [1][-]{section.33.6}{Partial-Wave Resonances}{chapter.33}% 215
+\BOOKMARK [1][-]{section.33.7}{Hanning Function - Wolfram Article}{chapter.33}% 216
+\BOOKMARK [1][-]{section.33.8}{Hamming Function - Wolfram Article}{chapter.33}% 217
+\BOOKMARK [1][-]{section.33.9}{Understanding FFTs and Windowing}{chapter.33}% 218
+\BOOKMARK [1][-]{section.33.10}{Low-Complexity Real-Time Single-Tone Phase and Frequency Estimation}{chapter.33}% 219
+\BOOKMARK [1][-]{section.33.11}{One-Dimensional Phase Unwrapping Problem}{chapter.33}% 220
+\BOOKMARK [1][-]{section.33.12}{Rev 280 Occultation}{chapter.33}% 221
+\BOOKMARK [1][-]{section.33.13}{Rev 282 Occultation}{chapter.33}% 222
+\BOOKMARK [0][-]{chapter.34}{Notes on the Mathematics of Cassini}{part.7}% 223
+\BOOKMARK [1][-]{section.34.1}{Atmospheric Occultations}{chapter.34}% 224
+\BOOKMARK [2][-]{subsection.34.1.1}{Titan Geometry}{section.34.1}% 225
+\BOOKMARK [1][-]{section.34.2}{Ring Occultation}{chapter.34}% 226
+\BOOKMARK [2][-]{subsection.34.2.1}{Ring Geometry}{section.34.2}% 227
+\BOOKMARK [2][-]{subsection.34.2.2}{Derivations of Equations in MTR86}{section.34.2}% 228
+\BOOKMARK [2][-]{subsection.34.2.3}{Shannon's Sampling Theorem}{section.34.2}% 229
+\BOOKMARK [2][-]{subsection.34.2.4}{Diffraction Through a Square Well}{section.34.2}% 230
+\BOOKMARK [2][-]{subsection.34.2.5}{Diffraction Through an Inverted Square Well}{section.34.2}% 231
+\BOOKMARK [2][-]{subsection.34.2.6}{Radial Shift from a Linear Phase Offset}{section.34.2}% 232
+\BOOKMARK [2][-]{subsection.34.2.7}{Some Useful Results}{section.34.2}% 233
+\BOOKMARK [2][-]{subsection.34.2.8}{Some Notes on Fresnel Inversion}{section.34.2}% 234
+\BOOKMARK [2][-]{subsection.34.2.9}{Window Width as a Function of Resolution}{section.34.2}% 235
+\BOOKMARK [2][-]{subsection.34.2.10}{The Forward Model}{section.34.2}% 236
+\BOOKMARK [2][-]{subsection.34.2.11}{Stationary Phase Approximation}{section.34.2}% 237
+\BOOKMARK [2][-]{subsection.34.2.12}{Notes on the Fresnel Approximation}{section.34.2}% 238
+\BOOKMARK [0][-]{chapter.35}{Cassini Interim January 2018 Report}{part.7}% 239
+\BOOKMARK [1][-]{section.35.1}{Introduction}{chapter.35}% 240
+\BOOKMARK [1][-]{section.35.2}{General Approach and Analysis Methods}{chapter.35}% 241
+\BOOKMARK [2][-]{subsection.35.2.1}{Occultation Geometry}{section.35.2}% 242
+\BOOKMARK [2][-]{subsection.35.2.2}{Calibrated Observed Diffraction Pattern of Direct Signal}{section.35.2}% 243
+\BOOKMARK [2][-]{subsection.35.2.3}{Diffraction-Corrected Optical Depth Profiles}{section.35.2}% 244
+\BOOKMARK [2][-]{subsection.35.2.4}{Additional Useful Information}{section.35.2}% 245
+\BOOKMARK [1][-]{section.35.3}{Critical Tests of Processing Methods and Codes}{chapter.35}% 246
+\BOOKMARK [2][-]{subsection.35.3.1}{Comparison with Cassini Radio Science User's Guide}{section.35.3}% 247
+\BOOKMARK [2][-]{subsection.35.3.2}{Comparison with Existing Results on the PDS}{section.35.3}% 248
+\BOOKMARK [2][-]{subsection.35.3.3}{Additional Tests}{section.35.3}% 249
+\BOOKMARK [2][-]{subsection.35.3.4}{High Resolution F Ring Profiles}{section.35.3}% 250
+\BOOKMARK [1][-]{section.35.4}{Proposed PDS Organization and Contents}{chapter.35}% 251
+\BOOKMARK [2][-]{subsection.35.4.1}{Directory Structure}{section.35.4}% 252
+\BOOKMARK [2][-]{subsection.35.4.2}{Sample Auxiliary Information}{section.35.4}% 253
+\BOOKMARK [1][-]{section.35.5}{Data Pipeline}{chapter.35}% 254
+\BOOKMARK [2][-]{subsection.35.5.1}{Conversion of Software to Python 3}{section.35.5}% 255
+\BOOKMARK [2][-]{subsection.35.5.2}{Documentation}{section.35.5}% 256
+\BOOKMARK [1][-]{section.35.6}{Future Milestones and Delivery Schedule}{chapter.35}% 257
+\BOOKMARK [0][-]{chapter.36}{Easy Data Example}{part.7}% 258
+\BOOKMARK [1][-]{section.36.1}{Example 1}{chapter.36}% 259
+\BOOKMARK [1][-]{section.36.2}{Example 2}{chapter.36}% 260
+\BOOKMARK [-2][-]{book.3}{ Book \040book : Encyclopedia Mathematica }{}% 261
+\BOOKMARK [-1][-]{part.8}{Analysis}{book.3}% 262
+\BOOKMARK [0][-]{chapter.37}{Analysis Summary}{part.8}% 263
+\BOOKMARK [1][-]{section.37.1}{Definitions and Theorems}{chapter.37}% 264
+\BOOKMARK [2][-]{subsection.37.1.1}{Definitions}{section.37.1}% 265
+\BOOKMARK [2][-]{subsection.37.1.2}{Theorems}{section.37.1}% 266
+\BOOKMARK [1][-]{section.37.2}{Notes}{chapter.37}% 267
+\BOOKMARK [0][-]{section*.802}{Acronyms}{part.8}% 268
+\BOOKMARK [0][-]{section*.804}{Glossary}{part.8}% 269
+\BOOKMARK [0][-]{chapter*.806}{Bibliography}{part.8}% 270

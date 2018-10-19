@@ -74,44 +74,44 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {35.1}{\ignorespaces Frequency estimation}}{317}{figure.caption.752}
-\contentsline {figure}{\numberline {35.2}{\ignorespaces Frequency offset}}{318}{figure.caption.754}
-\contentsline {figure}{\numberline {35.3}{\ignorespaces Frequency offset}}{318}{figure.caption.755}
-\contentsline {figure}{\numberline {35.4}{\ignorespaces Free space power}}{319}{figure.caption.757}
-\contentsline {figure}{\numberline {35.5}{\ignorespaces Reconstruction of Huygens Ringlet}}{319}{figure.caption.759}
-\contentsline {figure}{\numberline {35.6}{\ignorespaces Titan Ringlet - CRSUG Fig.~3.13}}{320}{figure.caption.760}
-\contentsline {figure}{\numberline {35.7}{\ignorespaces Geometry comparison}}{321}{figure.caption.763}
-\contentsline {figure}{\numberline {35.8}{\ignorespaces Maxwell Ringlet reconstruction}}{322}{figure.caption.766}
-\contentsline {figure}{\numberline {35.9}{\ignorespaces C ring ripples}}{323}{figure.caption.769}
-\contentsline {figure}{\numberline {35.10}{\ignorespaces Comparison of C ring diffraction patterns}}{324}{figure.caption.770}
-\contentsline {figure}{\numberline {35.11}{\ignorespaces Comparison of C ring optical depth profiles}}{324}{figure.caption.771}
-\contentsline {figure}{\numberline {35.12}{\ignorespaces Comparison of independently-derived C ring optical depth profiles}}{325}{figure.caption.772}
-\contentsline {figure}{\numberline {35.13}{\ignorespaces F ring profile - X band}}{326}{figure.caption.773}
-\contentsline {figure}{\numberline {35.14}{\ignorespaces F ring profile - Ka band}}{326}{figure.caption.774}
-\contentsline {figure}{\numberline {35.15}{\ignorespaces F ring profile - S band}}{327}{figure.caption.775}
-\contentsline {figure}{\numberline {35.16}{\ignorespaces Auxiliary geometry plots}}{330}{figure.caption.776}
-\contentsline {figure}{\numberline {35.17}{\ignorespaces Data processing pipeline}}{331}{figure.caption.777}
-\contentsline {figure}{\numberline {35.18}{\ignorespaces Power normalization in Python}}{333}{figure.caption.778}
-\contentsline {figure}{\numberline {35.19}{\ignorespaces Maxwell Ringlet profiles using Python normalization and resampling}}{334}{figure.caption.779}
-\contentsline {figure}{\numberline {35.20}{\ignorespaces Maxwell Ringlet phase using Python normalization and resampling}}{335}{figure.caption.780}
-\contentsline {figure}{\numberline {35.21}{\ignorespaces Comparison of Marouf's inversion and our independent analysis}}{335}{figure.caption.781}
+\contentsline {figure}{\numberline {35.1}{\ignorespaces Frequency estimation}}{305}{figure.caption.749}
+\contentsline {figure}{\numberline {35.2}{\ignorespaces Frequency offset}}{306}{figure.caption.751}
+\contentsline {figure}{\numberline {35.3}{\ignorespaces Frequency offset}}{306}{figure.caption.752}
+\contentsline {figure}{\numberline {35.4}{\ignorespaces Free space power}}{307}{figure.caption.754}
+\contentsline {figure}{\numberline {35.5}{\ignorespaces Reconstruction of Huygens Ringlet}}{307}{figure.caption.756}
+\contentsline {figure}{\numberline {35.6}{\ignorespaces Titan Ringlet - CRSUG Fig.~3.13}}{308}{figure.caption.757}
+\contentsline {figure}{\numberline {35.7}{\ignorespaces Geometry comparison}}{309}{figure.caption.760}
+\contentsline {figure}{\numberline {35.8}{\ignorespaces Maxwell Ringlet reconstruction}}{310}{figure.caption.763}
+\contentsline {figure}{\numberline {35.9}{\ignorespaces C ring ripples}}{311}{figure.caption.766}
+\contentsline {figure}{\numberline {35.10}{\ignorespaces Comparison of C ring diffraction patterns}}{312}{figure.caption.767}
+\contentsline {figure}{\numberline {35.11}{\ignorespaces Comparison of C ring optical depth profiles}}{312}{figure.caption.768}
+\contentsline {figure}{\numberline {35.12}{\ignorespaces Comparison of independently-derived C ring optical depth profiles}}{313}{figure.caption.769}
+\contentsline {figure}{\numberline {35.13}{\ignorespaces F ring profile - X band}}{314}{figure.caption.770}
+\contentsline {figure}{\numberline {35.14}{\ignorespaces F ring profile - Ka band}}{314}{figure.caption.771}
+\contentsline {figure}{\numberline {35.15}{\ignorespaces F ring profile - S band}}{315}{figure.caption.772}
+\contentsline {figure}{\numberline {35.16}{\ignorespaces Auxiliary geometry plots}}{318}{figure.caption.773}
+\contentsline {figure}{\numberline {35.17}{\ignorespaces Data processing pipeline}}{319}{figure.caption.774}
+\contentsline {figure}{\numberline {35.18}{\ignorespaces Power normalization in Python}}{321}{figure.caption.775}
+\contentsline {figure}{\numberline {35.19}{\ignorespaces Maxwell Ringlet profiles using Python normalization and resampling}}{322}{figure.caption.776}
+\contentsline {figure}{\numberline {35.20}{\ignorespaces Maxwell Ringlet phase using Python normalization and resampling}}{323}{figure.caption.777}
+\contentsline {figure}{\numberline {35.21}{\ignorespaces Comparison of Marouf's inversion and our independent analysis}}{323}{figure.caption.778}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {36.1}{\ignorespaces Occultation Geometry}}{341}{figure.caption.786}
-\contentsline {figure}{\numberline {36.2}{\ignorespaces More Occultation Geometry}}{342}{figure.caption.787}
-\contentsline {figure}{\numberline {36.3}{\ignorespaces Calibration Data contained in the Easy Data}}{343}{figure.caption.788}
-\contentsline {figure}{\numberline {36.4}{\ignorespaces Even More Occultation Geometry}}{344}{figure.caption.789}
-\contentsline {figure}{\numberline {36.5}{\ignorespaces Normal Optical Depth Profiles from the Easy Data}}{345}{figure.caption.790}
-\contentsline {figure}{\numberline {36.6}{\ignorespaces Radio Occultation Track}}{346}{figure.caption.791}
-\contentsline {figure}{\numberline {36.7}{\ignorespaces Occultation geometry parameters in file RSS\_2005\_123\_X43\_E\_GEO.tab\relax }}{348}{figure.caption.795}
-\contentsline {figure}{\numberline {36.8}{\ignorespaces See caption of Figure 1a.\relax }}{349}{figure.caption.796}
-\contentsline {figure}{\numberline {36.9}{\ignorespaces Calibration Data from Cal File}}{350}{figure.caption.797}
-\contentsline {figure}{\numberline {36.10}{\ignorespaces Ring Radius Correction from Selected Occultation Geometry}}{351}{figure.caption.798}
-\contentsline {figure}{\numberline {36.11}{\ignorespaces Normal Optical Depth Profiles 70000-85000km}}{352}{figure.caption.799}
-\contentsline {figure}{\numberline {36.12}{\ignorespaces Normal Optical Depth Profiles 85000-100000km}}{352}{figure.caption.800}
-\contentsline {figure}{\numberline {36.13}{\ignorespaces Normal Optical Depth Profiles 100000-115000km}}{353}{figure.caption.801}
-\contentsline {figure}{\numberline {36.14}{\ignorespaces Normal Optical Depth Profiles 115000-130000km}}{353}{figure.caption.802}
-\contentsline {figure}{\numberline {36.15}{\ignorespaces Normal Optical Depth Profiles 130000-145000km}}{354}{figure.caption.803}
-\contentsline {figure}{\numberline {36.16}{\ignorespaces Phase Shift Profile}}{354}{figure.caption.804}
+\contentsline {figure}{\numberline {36.1}{\ignorespaces Occultation Geometry}}{329}{figure.caption.783}
+\contentsline {figure}{\numberline {36.2}{\ignorespaces More Occultation Geometry}}{330}{figure.caption.784}
+\contentsline {figure}{\numberline {36.3}{\ignorespaces Calibration Data contained in the Easy Data}}{331}{figure.caption.785}
+\contentsline {figure}{\numberline {36.4}{\ignorespaces Even More Occultation Geometry}}{332}{figure.caption.786}
+\contentsline {figure}{\numberline {36.5}{\ignorespaces Normal Optical Depth Profiles from the Easy Data}}{333}{figure.caption.787}
+\contentsline {figure}{\numberline {36.6}{\ignorespaces Radio Occultation Track}}{334}{figure.caption.788}
+\contentsline {figure}{\numberline {36.7}{\ignorespaces Occultation geometry parameters in file RSS\_2005\_123\_X43\_E\_GEO.tab\relax }}{336}{figure.caption.792}
+\contentsline {figure}{\numberline {36.8}{\ignorespaces See caption of Figure 1a.\relax }}{337}{figure.caption.793}
+\contentsline {figure}{\numberline {36.9}{\ignorespaces Calibration Data from Cal File}}{338}{figure.caption.794}
+\contentsline {figure}{\numberline {36.10}{\ignorespaces Ring Radius Correction from Selected Occultation Geometry}}{339}{figure.caption.795}
+\contentsline {figure}{\numberline {36.11}{\ignorespaces Normal Optical Depth Profiles 70000-85000km}}{340}{figure.caption.796}
+\contentsline {figure}{\numberline {36.12}{\ignorespaces Normal Optical Depth Profiles 85000-100000km}}{340}{figure.caption.797}
+\contentsline {figure}{\numberline {36.13}{\ignorespaces Normal Optical Depth Profiles 100000-115000km}}{341}{figure.caption.798}
+\contentsline {figure}{\numberline {36.14}{\ignorespaces Normal Optical Depth Profiles 115000-130000km}}{341}{figure.caption.799}
+\contentsline {figure}{\numberline {36.15}{\ignorespaces Normal Optical Depth Profiles 130000-145000km}}{342}{figure.caption.800}
+\contentsline {figure}{\numberline {36.16}{\ignorespaces Phase Shift Profile}}{342}{figure.caption.801}
 \addvspace {10\p@ }
 \contentsfinish 
 \contentsfinish 

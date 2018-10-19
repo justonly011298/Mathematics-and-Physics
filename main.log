@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.15)  19 OCT 2018 13:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.15)  19 OCT 2018 14:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1541,11 +1541,11 @@ l.2508             \item I
 l.2508             \item I
                           f $A=B$, then $A\cdot C = B\cdot C$ \hfill [Multip...] [32] [33] [34] [35] [36] [37]) (./Undergraduate_Courses/Mathematics/Calculus_I/Calculus_I.tex [38]
 Chapter 2.
-(./Undergraduate_Courses/Mathematics/Calculus_I/./Exams/CLEP_Exam.tex) (./Undergraduate_Courses/Mathematics/Calculus_I/./Exams/Exams_From_UML_Fall_2012.tex [39
+(./Undergraduate_Courses/Mathematics/Calculus_I/./Sections/CLEP_Exam.tex) (./Undergraduate_Courses/Mathematics/Calculus_I/./Sections/Exams_From_UML_Fall_2012.tex [39
 
 ] [40] [41] [42] [43])) (./Undergraduate_Courses/Mathematics/Calculus_II/Calculus_II.tex [44]
 Chapter 3.
-(./Undergraduate_Courses/Mathematics/Calculus_II/./Exams/Exams_From_UML_Spring_2013.tex [45
+(./Undergraduate_Courses/Mathematics/Calculus_II/./Sections/Exams_From_UML_Spring_2013.tex [45
 
 ] [46] [47] [48] [49] [50])) (./Undergraduate_Courses/Mathematics/Calculus_III/Calculus_III.tex [51]
 Chapter 4.
@@ -1654,9 +1654,14 @@ Chapter 22.
 
 ] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134]) (./Undergraduate_Courses/Mathematics/Algebraic_Geometry/Algebraic_Geometry.tex [135]
 Chapter 23.
-(./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Notes_On_Cox_Little_OShea/Preliminaries.tex [136
+(./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Sections/Notes_On_Cox_Little_OShea.tex [136
 
-]) (./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Notes_On_Cox_Little_OShea/Geometry_Algebra_and_Algorithms.tex [137] [138] [139] [140] [141] [142]) (./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Notes_On_Cox_Little_OShea/Elimination_Theory.tex [143] [144]) (./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Notes_On_Cox_Little_OShea/Groebner_Bases.tex [145] [146]) (./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Notes_On_Cox_Little_OShea/The_Algebra_Geometry_Dictionary.tex [147] [148]) (./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Notes_On_Cox_Little_OShea/Polynomials_and_Functions_on_a_Variety.tex [149]) (./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Miscellaneous_Notes/Groebner_Bases.tex [150] [151]) (./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Miscellaneous_Notes/Elimination_Theory.tex) (./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Miscellaneous_Notes/Etale_Cohomology.tex [152] [153]) (./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Miscellaneous_Notes/The_Zariski_Topology.tex [154] [155]) (./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Miscellaneous_Notes/Notes_on_Varieties.tex [156] [157])) (./Undergraduate_Courses/Mathematics/Surgery_Theory/Surgery_Theory.tex [158]
+] [137] [138] [139] [140] [141] [142] [143]
+Overfull \hbox (8.25821pt too wide) in paragraph at lines 1144--1152
+\T1/cmr/m/it/10 a func-tion de-ter-mined by some poly-no-mial parametriza-tion, and if $\OML/cmm/m/it/10 I$ \T1/cmr/m/it/10 is an ideal $\OML/cmm/m/it/10 I \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 h[]i ^^Z
+ []
+
+[144] [145] [146] [147] [148] [149]) (./Undergraduate_Courses/Mathematics/Algebraic_Geometry/./Sections/Miscellaneous_Notes.tex [150] [151] [152] [153] [154] [155] [156] [157])) (./Undergraduate_Courses/Mathematics/Surgery_Theory/Surgery_Theory.tex [158]
 Chapter 24.
 (./Undergraduate_Courses/Mathematics/Surgery_Theory/Lecture_Notes_Spring_2017/Lecture_01.tex (./Undergraduate_Courses/Mathematics/Surgery_Theory/Lecture_Notes_Spring_2017/../../../../tikz/Homotopy_Example.tex) (./Undergraduate_Courses/Mathematics/Surgery_Theory/Lecture_Notes_Spring_2017/../../../../tikz/Homotopy_on_Unit_Interval.tex) [159
 
@@ -1676,47 +1681,47 @@ Chapter 25.
 (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/Homework_01.tex [184
 
 ] [185]) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/Homework_02.tex [186] (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_1_11.tex) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_1_12.tex) [187] (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_1_13.tex) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_1_14.tex) [188] (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_1_15.tex)) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/Homework_03.tex [189] [190] [191] (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_1_22.tex) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_1_23.tex) [192]) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/Homework_04.tex [193] (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_2_3.tex) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_2_8.tex) [194] [195]) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/Homework_05.tex (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_4_3.tex) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_4_5.tex) [196]) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/Homework_06.tex [197] (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_5_3.tex) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_5_4.tex) [198] [199]) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/Homework_07.tex (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Simple_Parallel_Circuit.tex) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Simple_Series_Circuit.tex) [200] (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/../../../../tikz/Wangsness_6_10.tex)) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/Homework_08.tex [201] [202]) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/Homework_09.tex
-<images/8-5.png, id=7611, 512.91624pt x 480.79625pt>
+<images/8-5.png, id=7571, 512.91624pt x 480.79625pt>
 File: images/8-5.png Graphic file (type png)
 <use images/8-5.png>
 Package pdftex.def Info: images/8-5.png  used on input line 19.
 (pdftex.def)             Requested size: 205.16286pt x 192.31508pt.
  [203 <./images/8-5.png>]) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/Homework_10.tex
-<images/10-3.png, id=7623, 528.97626pt x 529.98pt>
+<images/10-3.png, id=7583, 528.97626pt x 529.98pt>
 File: images/10-3.png Graphic file (type png)
 <use images/10-3.png>
 Package pdftex.def Info: images/10-3.png  used on input line 18.
 (pdftex.def)             Requested size: 211.58675pt x 211.98824pt.
-<images/10-6.png, id=7624, 509.905pt x 508.90125pt>
+<images/10-6.png, id=7584, 509.905pt x 508.90125pt>
 File: images/10-6.png Graphic file (type png)
 <use images/10-6.png>
 Package pdftex.def Info: images/10-6.png  used on input line 25.
 (pdftex.def)             Requested size: 152.97267pt x 152.67155pt.
  [204 <./images/10-3.png>]
-<images/10-25.png, id=7634, 553.06625pt x 448.67625pt>
+<images/10-25.png, id=7594, 553.06625pt x 448.67625pt>
 File: images/10-25.png Graphic file (type png)
 <use images/10-25.png>
 Package pdftex.def Info: images/10-25.png  used on input line 37.
 (pdftex.def)             Requested size: 221.95676pt x 180.06294pt.
-<images/12-3.png, id=7635, 467.7475pt x 468.75125pt>
+<images/12-3.png, id=7595, 467.7475pt x 468.75125pt>
 File: images/12-3.png Graphic file (type png)
 <use images/12-3.png>
 Package pdftex.def Info: images/12-3.png  used on input line 42.
 (pdftex.def)             Requested size: 221.95676pt x 222.43742pt.
  [205 <./images/10-6.png>]) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/Homework_11.tex
-<images/13-4.png, id=7644, 530.98375pt x 504.88625pt>
+<images/13-4.png, id=7604, 530.98375pt x 504.88625pt>
 File: images/13-4.png Graphic file (type png)
 <use images/13-4.png>
 Package pdftex.def Info: images/13-4.png  used on input line 24.
 (pdftex.def)             Requested size: 212.38972pt x 201.95091pt.
  [206 <./images/10-25.png> <./images/12-3.png>]
-<images/14-15.png, id=7656, 746.79pt x 402.50375pt>
+<images/14-15.png, id=7616, 746.79pt x 402.50375pt>
 File: images/14-15.png Graphic file (type png)
 <use images/14-15.png>
 Package pdftex.def Info: images/14-15.png  used on input line 42.
 (pdftex.def)             Requested size: 298.7107pt x 160.99864pt.
 ) (./Undergraduate_Courses/Physics/Electromagnetism_I/./Homework/Homework_12.tex
-<images/15-7.png, id=7657, 767.86874pt x 595.22375pt>
+<images/15-7.png, id=7617, 767.86874pt x 595.22375pt>
 File: images/15-7.png Graphic file (type png)
 <use images/15-7.png>
 Package pdftex.def Info: images/15-7.png  used on input line 22.
@@ -1726,7 +1731,7 @@ Overfull \hbox (14.42595pt too wide) in paragraph at lines 35--17
 \OML/cmm/m/it/10 ad^^^[]\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@ []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^^[]\OT1/cmr/m/n/10 )[] + [](\OML/cmm/m/it/10 ^^^[]\OT1/cmr/m/n/10 )[])$\T1/cmr/m/n/10 . $\OT1/cmr/bx/n/10 A \OT1/cmr/m/n/10 = [] [] [] = [][] [][](\OMS/cmsy/m/n/10 ^^@ []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^^[]\OT1/cmr/m/n/10 )[] + [](\OML/cmm/m/it/10 ^^^[]\OT1/cmr/m/n/10 )[])\OML/cmm/m/it/10 d^^^[] \OT1/cmr/m/n/10 = [] [](\OML/cmm/m/it/10 \OT1/cmr/m/n/10 )[]$\T1/cmr/m/n/10 .
  []
 
-<images/17-4.png, id=7674, 759.83875pt x 524.96124pt>
+<images/17-4.png, id=7634, 759.83875pt x 524.96124pt>
 File: images/17-4.png Graphic file (type png)
 <use images/17-4.png>
 Package pdftex.def Info: images/17-4.png  used on input line 24.
@@ -1816,330 +1821,300 @@ Chapter 30.
 
 ] (./Undergraduate_Research/./Masters_Work/Masters_Work.tex
 Chapter 31.
-(./Undergraduate_Research/./Masters_Work/./Preliminaries/Set_Theory.tex [245
+(./Undergraduate_Research/./Masters_Work/./Sections/Preliminaries.tex [245
 
-]) (./Undergraduate_Research/./Masters_Work/./Preliminaries/Algebra.tex [246] [247] [248] [249]) (./Undergraduate_Research/./Masters_Work/./Preliminaries/Relations_of_Order.tex [250]) (./Undergraduate_Research/./Masters_Work/./Preliminaries/The_Real_Numbers.tex [251] [252] [253] [254] [255]) (./Undergraduate_Research/./Masters_Work/./Preliminaries/Equivalence_and_Transfinite_Cardinal_Numbers.tex [256pdfTeX warning (ext4): destination with the same identifier (name{Item.1337}) has been already used, duplicate ignored
+] [246] [247] [248] [249] [250] [251] [252] [253] [254] [255] [256pdfTeX warning (ext4): destination with the same identifier (name{Item.1337}) has been already used, duplicate ignored
 
 \@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
-l.53         \end{definition}
-                             ] [257]
-Overfull \hbox (3.89647pt too wide) in paragraph at lines 130--131
+l.865             \end{definition}
+                                  ] [257]
+Overfull \hbox (3.89647pt too wide) in paragraph at lines 942--943
 []\T1/cmr/m/n/10 It suf-fices to show that $\OML/cmm/m/it/10 R \OMS/cmsy/m/n/10 ^^X \U/msb/m/n/10 R$\T1/cmr/m/n/10 , where $\OML/cmm/m/it/10 R$ \T1/cmr/m/n/10 is from the pre-vi-ous the-o-rem. Let $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = []$\T1/cmr/m/n/10 .
  []
 
-) (./Undergraduate_Research/./Masters_Work/./Preliminaries/Vector_Spaces_and_Euclidean_Spaces.tex [258] [259] [260] [261]) (./Undergraduate_Research/./Masters_Work/./Preliminaries/Topology.tex [262] [263] [264]) (./Undergraduate_Research/./Masters_Work/./Preliminaries/Metric_Spaces.tex [265] [266] [267] [268] [269]) (./Undergraduate_Research/./Masters_Work/./Preliminaries/Measure.tex) (./Undergraduate_Research/./Masters_Work/./Calculus_on_Normed_Spaces/Linear_Transformations.tex) (./Undergraduate_Research/./Masters_Work/./Calculus_on_Normed_Spaces/Integration.tex) (./Undergraduate_Research/./Masters_Work/./Calculus_on_Normed_Spaces/Differentiation.tex) (./Undergraduate_Research/./Masters_Work/./Calculus_on_Normed_Spaces/Real_Analysis.tex) (./Undergraduate_Research/./Masters_Work/./Convexity_Part_I/Convex_Sets.tex [270] [271]
+[258] [259] [260] [261] [262] [263] [264] [265] [266] [267] [268] [269]) (./Undergraduate_Research/./Masters_Work/./Sections/Calculus_on_Normed_Spaces.tex) (./Undergraduate_Research/./Masters_Work/./Sections/Convexity_Part_I.tex [270] [271]
 Overfull \hbox (2.74803pt too wide) in paragraph at lines 162--163
 []\T1/cmr/m/n/10 As $\OML/cmm/m/it/10 S$ \T1/cmr/m/n/10 is affinely de-pen-dent, there are dis-tinct points $\OML/cmm/m/it/10 x[]; [] ; x[]$ \T1/cmr/m/n/10 and non-zero real num-bers $\OML/cmm/m/it/10 ^^U[]; [] ; ^^U[]$
  []
 
-) (./Undergraduate_Research/./Masters_Work/./Convexity_Part_I/Convexity_in_the_Euclidean_Plane.tex [272]
-<images/Circle-1.png, id=9447, 480.79625pt x 551.05875pt>
+[272]
+<images/Circle-1.png, id=9406, 480.79625pt x 551.05875pt>
 File: images/Circle-1.png Graphic file (type png)
 <use images/Circle-1.png>
-Package pdftex.def Info: images/Circle-1.png  used on input line 59.
+Package pdftex.def Info: images/Circle-1.png  used on input line 219.
 (pdftex.def)             Requested size: 144.95303pt x 166.1345pt.
-<images/convex-1.png, id=9448, 527.9725pt x 625.33624pt>
+<images/convex-1.png, id=9407, 527.9725pt x 625.33624pt>
 File: images/convex-1.png Graphic file (type png)
 <use images/convex-1.png>
-Package pdftex.def Info: images/convex-1.png  used on input line 64.
+Package pdftex.def Info: images/convex-1.png  used on input line 224.
 (pdftex.def)             Requested size: 144.95303pt x 171.67697pt.
-<images/line-1.png, id=9449, 590.205pt x 502.87875pt>
+<images/line-1.png, id=9408, 590.205pt x 502.87875pt>
 File: images/line-1.png Graphic file (type png)
 <use images/line-1.png>
-Package pdftex.def Info: images/line-1.png  used on input line 69.
+Package pdftex.def Info: images/line-1.png  used on input line 229.
 (pdftex.def)             Requested size: 144.95303pt x 123.50179pt.
  [273 <./images/Circle-1.png> <./images/convex-1.png> <./images/line-1.png>]
-Overfull \hbox (6.31473pt too wide) in paragraph at lines 110--111
+Overfull \hbox (6.31473pt too wide) in paragraph at lines 270--271
 \OML/cmm/m/it/10 e[]$ \T1/cmr/m/n/10 and the hor-i-zon-tal axis of $\U/msb/m/n/10 R[]$\T1/cmr/m/n/10 . The mean width is $\OML/cmm/m/it/10 W\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Q\OT1/cmr/m/n/10 ) = [] [][] \OML/cmm/m/it/10 W[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Q\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 d^^R \OT1/cmr/m/n/10 = [] [][] [] [][] \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 e[]\OMS/cmsy/m/n/10 jj []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R \OMS/cmsy/m/n/10 ^^@
  []
 
-<images/semicircle-1.png, id=9472, 644.4075pt x 449.68pt>
+<images/semicircle-1.png, id=9432, 644.4075pt x 449.68pt>
 File: images/semicircle-1.png Graphic file (type png)
 <use images/semicircle-1.png>
-Package pdftex.def Info: images/semicircle-1.png  used on input line 117.
+Package pdftex.def Info: images/semicircle-1.png  used on input line 277.
 (pdftex.def)             Requested size: 193.32373pt x 134.90503pt.
 [274]
-<images/Circles-3.png, id=9485, 603.25375pt x 516.93124pt>
+<images/Circles-3.png, id=9445, 603.25375pt x 516.93124pt>
 File: images/Circles-3.png Graphic file (type png)
 <use images/Circles-3.png>
-Package pdftex.def Info: images/Circles-3.png  used on input line 173.
+Package pdftex.def Info: images/Circles-3.png  used on input line 333.
 (pdftex.def)             Requested size: 221.95676pt x 190.18883pt.
-<images/Circle-4.png, id=9486, 531.9875pt x 501.875pt>
+<images/Circle-4.png, id=9446, 531.9875pt x 501.875pt>
 File: images/Circle-4.png Graphic file (type png)
 <use images/Circle-4.png>
-Package pdftex.def Info: images/Circle-4.png  used on input line 178.
+Package pdftex.def Info: images/Circle-4.png  used on input line 338.
 (pdftex.def)             Requested size: 221.95676pt x 209.3923pt.
  [275 <./images/semicircle-1.png>] [276 <./images/Circles-3.png> <./images/Circle-4.png>]
-<images/triangle-1.png, id=9516, 477.785pt x 426.59375pt>
+<images/triangle-1.png, id=9476, 477.785pt x 426.59375pt>
 File: images/triangle-1.png Graphic file (type png)
 <use images/triangle-1.png>
-Package pdftex.def Info: images/triangle-1.png  used on input line 272.
+Package pdftex.def Info: images/triangle-1.png  used on input line 432.
 (pdftex.def)             Requested size: 143.3366pt x 127.97911pt.
- [277 <./images/triangle-1.png>]) (./Undergraduate_Research/./Masters_Work/./Miscellaneous_Gems/Miscellaneous_Gems.tex [278] [279] [280]
-Overfull \hbox (60.64005pt too wide) in paragraph at lines 257--258
-\OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )[] = [][] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 dt \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )[]$\T1/cmr/m/n/10 . But $[][] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 dt \OT1/cmr/m/n/10 = [][] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 dt \OT1/cmr/m/n/10 +
- []
-
-
-Overfull \hbox (11.21147pt too wide) in paragraph at lines 257--258
-\OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )[]$\T1/cmr/m/n/10 , from in-te-gra-tion by parts. Thus, $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ [][] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 )[] = [][] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 dt$
- []
-
-[281]
-Overfull \hbox (22.19934pt too wide) in paragraph at lines 260--261
-[][]\T1/cmr/bx/n/10 Lemma 31.5.1 []\T1/cmr/m/it/10 If $\OML/cmm/m/it/10 f \OMS/cmsy/m/n/10 2 \OML/cmm/m/it/10 C[]$ \T1/cmr/m/it/10 and $\OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ! \OT1/cmr/m/n/10 0$ \T1/cmr/m/it/10 (Point-wise) on $\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 a; b\OT1/cmr/m/n/10 ]$\T1/cmr/m/it/10 , and if $\OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^Q \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ [][] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 )[]$\T1/cmr/m/it/10 ,
- []
-
-[282]
-Overfull \hbox (47.5063pt too wide) in paragraph at lines 302--303
-[][]\T1/cmr/bx/n/10 Theorem 31.5.3 \T1/cmr/m/n/10 (La-grange's Re-main-der The-o-rem) []\T1/cmr/m/it/10 A func-tion $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$ \T1/cmr/m/it/10 is an-a-lytic if and only if $[][] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 dt \OMS/cmsy/m/n/10 !
- []
-
-
-Overfull \hbox (49.14206pt too wide) in paragraph at lines 305--306
-[]\T1/cmr/m/n/10 For if $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$ \T1/cmr/m/n/10 is an-a-lytic, then $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ [][] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 )[] = [][] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 dt \OMS/cmsy/m/n/10 ! \OT1/cmr/m/n/10 0$\T1/cmr/m/n/10 . If $[][] \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 dt \OMS/cmsy/m/n/10 !
- []
-
-[283] [284] [285] [286]
-Overfull \hbox (48.14125pt too wide) in paragraph at lines 637--640
-[]\T1/cmr/m/n/10 In a patho-log-i-cal con-struc-tion, let $\OML/cmm/m/it/10 G \OT1/cmr/m/n/10 = \U/msb/m/n/10 R$\T1/cmr/m/n/10 . Con-sider the fol-low-ing op-er-a-tion: $\OML/cmm/m/it/10 x \OMS/cmsy/m/n/10 ^^C \OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 .
- []
-
-[287] [288] [289])) [290]
+ [277 <./images/triangle-1.png>])) [278]
 Overfull \hbox (9.13187pt too wide) in paragraph at lines 25--25
 |\T1/cmr/bx/n/24.88 Translation of Vito Volterra's Math-e-mat-
  []
 
-[291
+[279
 
 ] (./Undergraduate_Research/./Volterra_Mathematical_Biology/Volterra_Mathematical_Biology.tex
 Underfull \hbox (badness 5681) in paragraph at lines 59--59
 []\T1/cmr/m/n/10 Cette étude re-pose sur celle des in-té-grales
  []
 
-[292
+[280
 
 ]
 Underfull \hbox (badness 1107) in paragraph at lines 88--88
 []\T1/cmr/m/n/10 Je dois dire un mot sur les Notes ma-thé-ma-
  []
 
-[293]
+[281]
 Chapter 32.
-) [294
+) [282
 
-] [295
+] [283
 
-] [296
+] [284
 
 ] (./Undergraduate_Research/Whitin_Observatory/Whitin_Observatory.tex (./Undergraduate_Research/Whitin_Observatory/./Notes_on_Miscellaneous_Papers/Notes_on_Miscellaneous_Papers.tex
 Chapter 33.
-) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/Notes_on_the_Mathematics_of_Cassini.tex [297
+) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/Notes_on_the_Mathematics_of_Cassini.tex [285
 
 ]
 Chapter 34.
-(./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Atmospheric_Occultations/Titan_Geometry.tex (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Atmospheric_Occultations/../../../../tikz/Titan_Occultation_Geometry.tex) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Atmospheric_Occultations/../../../../tikz/Titan_Bending_Angle_Geometry.tex) [298
+(./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Atmospheric_Occultations/Titan_Geometry.tex (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Atmospheric_Occultations/../../../../tikz/Titan_Occultation_Geometry.tex) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Atmospheric_Occultations/../../../../tikz/Titan_Bending_Angle_Geometry.tex) [286
 
-] [299]) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Ring_Occultations/Ring_Geometry.tex [300] [301]) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Ring_Occultations/Derivations_of_Equations_in_MTR86.tex [302]) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Ring_Occultations/Shannons_Sampling_Theorem.tex) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Ring_Occultations/Diffraction_Through_a_Square_Well.tex [303]) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Ring_Occultations/Diffraction_Through_and_Inverted_Square_Well.tex [304]) [305] [306] [307] [308] [309] [310] [311] [312]) (./Undergraduate_Research/Whitin_Observatory/./Interim_Report/Interim_Report.tex [313]
+] [287]) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Ring_Occultations/Ring_Geometry.tex [288] [289]) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Ring_Occultations/Derivations_of_Equations_in_MTR86.tex [290]) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Ring_Occultations/Shannons_Sampling_Theorem.tex) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Ring_Occultations/Diffraction_Through_a_Square_Well.tex [291]) (./Undergraduate_Research/Whitin_Observatory/./Notes_on_the_Mathematics_of_Cassini/./Ring_Occultations/Diffraction_Through_and_Inverted_Square_Well.tex [292]) [293] [294] [295] [296] [297] [298] [299] [300]) (./Undergraduate_Research/Whitin_Observatory/./Interim_Report/Interim_Report.tex [301]
 Chapter 35.
-[314
+[302
 
-] [315
+] [303
 
-] [316]
-<images/user_guide_fig_3-9.pdf, id=10024, page=1, 614.295pt x 794.97pt>
+] [304]
+<images/user_guide_fig_3-9.pdf, id=9818, page=1, 614.295pt x 794.97pt>
 File: images/user_guide_fig_3-9.pdf Graphic file (type pdf)
 <use images/user_guide_fig_3-9.pdf, page 1>
 Package pdftex.def Info: images/user_guide_fig_3-9.pdf , page1 used on input line 144.
 (pdftex.def)             Requested size: 221.95676pt x 206.28517pt.
-<images/rgf_plot_fig_3_9.pdf, id=10026, page=1, 614.295pt x 794.97pt>
+<images/rgf_plot_fig_3_9.pdf, id=9820, page=1, 614.295pt x 794.97pt>
 File: images/rgf_plot_fig_3_9.pdf Graphic file (type pdf)
 <use images/rgf_plot_fig_3_9.pdf, page 1>
 Package pdftex.def Info: images/rgf_plot_fig_3_9.pdf , page1 used on input line 149.
 (pdftex.def)             Requested size: 195.67905pt x 211.38202pt.
- [317 <./images/user_guide_fig_3-9.pdf> <./images/rgf_plot_fig_3_9.pdf>]
-<images/user_guide_fig_3-10_a_rotated.pdf, id=10065, page=1, 794.97pt x 614.295pt>
+ [305 <./images/user_guide_fig_3-9.pdf> <./images/rgf_plot_fig_3_9.pdf>]
+<images/user_guide_fig_3-10_a_rotated.pdf, id=9859, page=1, 794.97pt x 614.295pt>
 File: images/user_guide_fig_3-10_a_rotated.pdf Graphic file (type pdf)
 <use images/user_guide_fig_3-10_a_rotated.pdf, page 1>
 Package pdftex.def Info: images/user_guide_fig_3-10_a_rotated.pdf , page1 used on input line 165.
 (pdftex.def)             Requested size: 194.77287pt x 139.78183pt.
-<images/fig_3-10_top.pdf, id=10067, 614.295pt x 794.97pt>
+<images/fig_3-10_top.pdf, id=9861, 614.295pt x 794.97pt>
 File: images/fig_3-10_top.pdf Graphic file (type pdf)
 <use images/fig_3-10_top.pdf>
 Package pdftex.def Info: images/fig_3-10_top.pdf  used on input line 170.
 (pdftex.def)             Requested size: 212.89546pt x 138.7752pt.
-<images/user_guide_fig_3-10_b_rotated.pdf, id=10069, page=1, 794.97pt x 614.295pt>
+<images/user_guide_fig_3-10_b_rotated.pdf, id=9863, page=1, 794.97pt x 614.295pt>
 File: images/user_guide_fig_3-10_b_rotated.pdf Graphic file (type pdf)
 <use images/user_guide_fig_3-10_b_rotated.pdf, page 1>
 Package pdftex.def Info: images/user_guide_fig_3-10_b_rotated.pdf , page1 used on input line 180.
 (pdftex.def)             Requested size: 210.6284pt x 149.07333pt.
-<images/fig_3-10_bottom.pdf, id=10071, 614.295pt x 794.97pt>
+<images/fig_3-10_bottom.pdf, id=9865, 614.295pt x 794.97pt>
 File: images/fig_3-10_bottom.pdf Graphic file (type pdf)
 <use images/fig_3-10_bottom.pdf>
 Package pdftex.def Info: images/fig_3-10_bottom.pdf  used on input line 185.
 (pdftex.def)             Requested size: 221.95676pt x 154.54955pt.
-<images/user_guide_fig_3-11rotated2.pdf, id=10082, page=1, 794.97pt x 614.295pt>
+<images/user_guide_fig_3-11rotated2.pdf, id=9876, page=1, 794.97pt x 614.295pt>
 File: images/user_guide_fig_3-11rotated2.pdf Graphic file (type pdf)
 <use images/user_guide_fig_3-11rotated2.pdf, page 1>
 Package pdftex.def Info: images/user_guide_fig_3-11rotated2.pdf , page1 used on input line 199.
 (pdftex.def)             Requested size: 208.36827pt x 153.18394pt.
-<images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf, id=10084, page=1, 794.97pt x 614.295pt>
+<images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf, id=9878, page=1, 794.97pt x 614.295pt>
 File: images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf Graphic file (type pdf)
 <use images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf, page 1>
 Package pdftex.def Info: images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf , page1 used on input line 204.
 (pdftex.def)             Requested size: 221.95676pt x 174.23126pt.
- [318 <./images/user_guide_fig_3-10_a_rotated.pdf, page is rotated 90 degrees> <./images/fig_3-10_top.pdf> <./images/user_guide_fig_3-10_b_rotated.pdf, page is rotated 90 degrees> <./images/fig_3-10_bottom.pdf>]
-<images/user_guide_fig_3-12.pdf, id=10163, page=1, 614.295pt x 794.97pt>
+ [306 <./images/user_guide_fig_3-10_a_rotated.pdf, page is rotated 90 degrees> <./images/fig_3-10_top.pdf> <./images/user_guide_fig_3-10_b_rotated.pdf, page is rotated 90 degrees> <./images/fig_3-10_bottom.pdf>]
+<images/user_guide_fig_3-12.pdf, id=9957, page=1, 614.295pt x 794.97pt>
 File: images/user_guide_fig_3-12.pdf Graphic file (type pdf)
 <use images/user_guide_fig_3-12.pdf, page 1>
 Package pdftex.def Info: images/user_guide_fig_3-12.pdf , page1 used on input line 217.
 (pdftex.def)             Requested size: 527.56886pt x 708.24454pt.
-<images/rjm_gjs_fig_3-12.pdf, id=10165, page=1, 794.97pt x 614.295pt>
+<images/rjm_gjs_fig_3-12.pdf, id=9959, page=1, 794.97pt x 614.295pt>
 File: images/rjm_gjs_fig_3-12.pdf Graphic file (type pdf)
 <use images/rjm_gjs_fig_3-12.pdf, page 1>
 Package pdftex.def Info: images/rjm_gjs_fig_3-12.pdf , page1 used on input line 223.
 (pdftex.def)             Requested size: 217.42265pt x 174.66183pt.
-<images/user_guide_fig_3-13.pdf, id=10176, page=1, 614.295pt x 794.97pt>
+<images/user_guide_fig_3-13.pdf, id=9970, page=1, 614.295pt x 794.97pt>
 File: images/user_guide_fig_3-13.pdf Graphic file (type pdf)
 <use images/user_guide_fig_3-13.pdf, page 1>
 Package pdftex.def Info: images/user_guide_fig_3-13.pdf , page1 used on input line 236.
 (pdftex.def)             Requested size: 513.11511pt x 701.01822pt.
-<images/gjs_plot_fig_3_13_progress_report.pdf, id=10178, page=1, 794.97pt x 614.295pt>
+<images/gjs_plot_fig_3_13_progress_report.pdf, id=9972, page=1, 794.97pt x 614.295pt>
 File: images/gjs_plot_fig_3_13_progress_report.pdf Graphic file (type pdf)
 <use images/gjs_plot_fig_3_13_progress_report.pdf, page 1>
 Package pdftex.def Info: images/gjs_plot_fig_3_13_progress_report.pdf , page1 used on input line 242.
 (pdftex.def)             Requested size: 210.85823pt x 158.13849pt.
- [319 <./images/user_guide_fig_3-11rotated2.pdf, page is rotated 90 degrees> <./images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf> <./images/user_guide_fig_3-12.pdf> <./images/rjm_gjs_fig_3-12.pdf>]
-<images/Rev007_E_comparison_geo.pdf, id=10276, page=2, 614.295pt x 794.97pt>
+ [307 <./images/user_guide_fig_3-11rotated2.pdf, page is rotated 90 degrees> <./images/RSS_User_Guide_Fig_3-11_22JAN2018.pdf> <./images/user_guide_fig_3-12.pdf> <./images/rjm_gjs_fig_3-12.pdf>]
+<images/Rev007_E_comparison_geo.pdf, id=10070, page=2, 614.295pt x 794.97pt>
 File: images/Rev007_E_comparison_geo.pdf Graphic file (type pdf)
 <use images/Rev007_E_comparison_geo.pdf, page 2>
 Package pdftex.def Info: images/Rev007_E_comparison_geo.pdf , page2 used on input line 262.
 (pdftex.def)             Requested size: 221.95676pt x 293.98213pt.
-<images/Rev007_E_comparison_geo.pdf, id=10278, page=3, 614.295pt x 794.97pt>
+<images/Rev007_E_comparison_geo.pdf, id=10072, page=3, 614.295pt x 794.97pt>
 File: images/Rev007_E_comparison_geo.pdf Graphic file (type pdf)
 <use images/Rev007_E_comparison_geo.pdf, page 3>
 Package pdftex.def Info: images/Rev007_E_comparison_geo.pdf , page3 used on input line 266.
 (pdftex.def)             Requested size: 221.95676pt x 293.98213pt.
- [320 <./images/user_guide_fig_3-13.pdf> <./images/gjs_plot_fig_3_13_progress_report.pdf>]
-<images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf, id=10348, page=1, 794.97pt x 614.295pt>
+ [308 <./images/user_guide_fig_3-13.pdf> <./images/gjs_plot_fig_3_13_progress_report.pdf>]
+<images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf, id=10142, page=1, 794.97pt x 614.295pt>
 File: images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf, page 1>
 Package pdftex.def Info: images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf , page1 used on input line 280.
 (pdftex.def)             Requested size: 362.37569pt x 276.47873pt.
- [321 <./images/Rev007_E_comparison_geo.pdf> <./images/Rev007_E_comparison_geo.pdf>]
-<images/CringRipples.pdf, id=10401, page=1, 794.97pt x 614.295pt>
+ [309 <./images/Rev007_E_comparison_geo.pdf> <./images/Rev007_E_comparison_geo.pdf>]
+<images/CringRipples.pdf, id=10195, page=1, 794.97pt x 614.295pt>
 File: images/CringRipples.pdf Graphic file (type pdf)
 <use images/CringRipples.pdf, page 1>
 Package pdftex.def Info: images/CringRipples.pdf , page1 used on input line 295.
 (pdftex.def)             Requested size: 317.07614pt x 206.78548pt.
- [322 <./images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf, page is rotated 270 degrees>]
-<images/CringRipplesDiffraction.pdf, id=10426, 794.97pt x 614.295pt>
+ [310 <./images/Rev007_E_X43_Maxwell_recon_07feb2018.pdf, page is rotated 270 degrees>]
+<images/CringRipplesDiffraction.pdf, id=10220, 794.97pt x 614.295pt>
 File: images/CringRipplesDiffraction.pdf Graphic file (type pdf)
 <use images/CringRipplesDiffraction.pdf>
 Package pdftex.def Info: images/CringRipplesDiffraction.pdf  used on input line 303.
 (pdftex.def)             Requested size: 317.07614pt x 255.43025pt.
-<images/CringRipplesTau2.pdf, id=10428, 794.97pt x 614.295pt>
+<images/CringRipplesTau2.pdf, id=10222, 794.97pt x 614.295pt>
 File: images/CringRipplesTau2.pdf Graphic file (type pdf)
 <use images/CringRipplesTau2.pdf>
 Package pdftex.def Info: images/CringRipplesTau2.pdf  used on input line 309.
 (pdftex.def)             Requested size: 317.07614pt x 255.43025pt.
-<images/CringRipplesTau.pdf, id=10430, page=1, 794.97pt x 614.295pt>
+<images/CringRipplesTau.pdf, id=10224, page=1, 794.97pt x 614.295pt>
 File: images/CringRipplesTau.pdf Graphic file (type pdf)
 <use images/CringRipplesTau.pdf, page 1>
 Package pdftex.def Info: images/CringRipplesTau.pdf , page1 used on input line 316.
 (pdftex.def)             Requested size: 317.07614pt x 255.43025pt.
- [323 <./images/CringRipples.pdf>] [324 <./images/CringRipplesDiffraction.pdf> <./images/CringRipplesTau2.pdf>]
-<images/gjs_rev123E_X63_Fring_fig.pdf, id=10530, 794.97pt x 614.295pt>
+ [311 <./images/CringRipples.pdf>] [312 <./images/CringRipplesDiffraction.pdf> <./images/CringRipplesTau2.pdf>]
+<images/gjs_rev123E_X63_Fring_fig.pdf, id=10324, 794.97pt x 614.295pt>
 File: images/gjs_rev123E_X63_Fring_fig.pdf Graphic file (type pdf)
 <use images/gjs_rev123E_X63_Fring_fig.pdf>
 Package pdftex.def Info: images/gjs_rev123E_X63_Fring_fig.pdf  used on input line 328.
 (pdftex.def)             Requested size: 407.66833pt x 257.57538pt.
-<images/gjs_rev123E_K55_Fring_fig.pdf, id=10535, 794.97pt x 614.295pt>
+<images/gjs_rev123E_K55_Fring_fig.pdf, id=10329, 794.97pt x 614.295pt>
 File: images/gjs_rev123E_K55_Fring_fig.pdf Graphic file (type pdf)
 <use images/gjs_rev123E_K55_Fring_fig.pdf>
 Package pdftex.def Info: images/gjs_rev123E_K55_Fring_fig.pdf  used on input line 335.
 (pdftex.def)             Requested size: 407.66833pt x 257.57538pt.
-<images/gjs_rev123E_S63_Fring_fig.pdf, id=10538, 794.97pt x 614.295pt>
+<images/gjs_rev123E_S63_Fring_fig.pdf, id=10332, 794.97pt x 614.295pt>
 File: images/gjs_rev123E_S63_Fring_fig.pdf Graphic file (type pdf)
 <use images/gjs_rev123E_S63_Fring_fig.pdf>
 Package pdftex.def Info: images/gjs_rev123E_S63_Fring_fig.pdf  used on input line 342.
 (pdftex.def)             Requested size: 407.66833pt x 257.57538pt.
- [325 <./images/CringRipplesTau.pdf>] [326 <./images/gjs_rev123E_X63_Fring_fig.pdf> <./images/gjs_rev123E_K55_Fring_fig.pdf>] [327 <./images/gjs_rev123E_S63_Fring_fig.pdf>] [328]
-<images/b_year_dss43.pdf, id=10724, 794.97pt x 614.295pt>
+ [313 <./images/CringRipplesTau.pdf>] [314 <./images/gjs_rev123E_X63_Fring_fig.pdf> <./images/gjs_rev123E_K55_Fring_fig.pdf>] [315 <./images/gjs_rev123E_S63_Fring_fig.pdf>] [316]
+<images/b_year_dss43.pdf, id=10518, 794.97pt x 614.295pt>
 File: images/b_year_dss43.pdf Graphic file (type pdf)
 <use images/b_year_dss43.pdf>
 Package pdftex.def Info: images/b_year_dss43.pdf  used on input line 472.
 (pdftex.def)             Requested size: 221.95676pt x 159.80429pt.
-<images/jwf_rev7E_elev_example_08feb2018.pdf, id=10726, 794.97pt x 614.295pt>
+<images/jwf_rev7E_elev_example_08feb2018.pdf, id=10520, 794.97pt x 614.295pt>
 File: images/jwf_rev7E_elev_example_08feb2018.pdf Graphic file (type pdf)
 <use images/jwf_rev7E_elev_example_08feb2018.pdf>
 Package pdftex.def Info: images/jwf_rev7E_elev_example_08feb2018.pdf  used on input line 477.
 (pdftex.def)             Requested size: 221.95676pt x 154.90565pt.
-<images/jwf_RSS_occs_v1_page1.pdf, id=10728, 794.97pt x 614.295pt>
+<images/jwf_RSS_occs_v1_page1.pdf, id=10522, 794.97pt x 614.295pt>
 File: images/jwf_RSS_occs_v1_page1.pdf Graphic file (type pdf)
 <use images/jwf_RSS_occs_v1_page1.pdf>
 Package pdftex.def Info: images/jwf_RSS_occs_v1_page1.pdf  used on input line 483.
 (pdftex.def)             Requested size: 452.9679pt x 290.31908pt.
- [329] [330 <./images/b_year_dss43.pdf> <./images/jwf_rev7E_elev_example_08feb2018.pdf, page is rotated 270 degrees> <./images/jwf_RSS_occs_v1_page1.pdf>] [331] [332]
-<images/gjs_rev7E_X43_make_P_norm_vals.png, id=10846, 1375.63937pt x 1093.08376pt>
+ [317] [318 <./images/b_year_dss43.pdf> <./images/jwf_rev7E_elev_example_08feb2018.pdf, page is rotated 270 degrees> <./images/jwf_RSS_occs_v1_page1.pdf>] [319] [320]
+<images/gjs_rev7E_X43_make_P_norm_vals.png, id=10640, 1375.63937pt x 1093.08376pt>
 File: images/gjs_rev7E_X43_make_P_norm_vals.png Graphic file (type png)
 <use images/gjs_rev7E_X43_make_P_norm_vals.png>
 Package pdftex.def Info: images/gjs_rev7E_X43_make_P_norm_vals.png  used on input line 591.
 (pdftex.def)             Requested size: 398.61395pt x 290.55946pt.
- [333 <./images/gjs_rev7E_X43_make_P_norm_vals.png>]
-<images/gjs_compare_python_power_inversion_with_essam.pdf, id=10863, page=1, 794.97pt x 614.295pt>
+ [321 <./images/gjs_rev7E_X43_make_P_norm_vals.png>]
+<images/gjs_compare_python_power_inversion_with_essam.pdf, id=10657, page=1, 794.97pt x 614.295pt>
 File: images/gjs_compare_python_power_inversion_with_essam.pdf Graphic file (type pdf)
 <use images/gjs_compare_python_power_inversion_with_essam.pdf, page 1>
 Package pdftex.def Info: images/gjs_compare_python_power_inversion_with_essam.pdf , page1 used on input line 599.
 (pdftex.def)             Requested size: 407.66833pt x 256.834pt.
-<images/gjs_compare_python_power_inversion_with_essam.pdf, id=10865, page=2, 794.97pt x 614.295pt>
+<images/gjs_compare_python_power_inversion_with_essam.pdf, id=10659, page=2, 794.97pt x 614.295pt>
 File: images/gjs_compare_python_power_inversion_with_essam.pdf Graphic file (type pdf)
 <use images/gjs_compare_python_power_inversion_with_essam.pdf, page 2>
 Package pdftex.def Info: images/gjs_compare_python_power_inversion_with_essam.pdf , page2 used on input line 605.
 (pdftex.def)             Requested size: 407.66833pt x 256.834pt.
-<images/gjs_compare_python_power_inversion_with_essam.pdf, id=10869, page=3, 794.97pt x 614.295pt>
+<images/gjs_compare_python_power_inversion_with_essam.pdf, id=10663, page=3, 794.97pt x 614.295pt>
 File: images/gjs_compare_python_power_inversion_with_essam.pdf Graphic file (type pdf)
 <use images/gjs_compare_python_power_inversion_with_essam.pdf, page 3>
 Package pdftex.def Info: images/gjs_compare_python_power_inversion_with_essam.pdf , page3 used on input line 611.
 (pdftex.def)             Requested size: 407.66833pt x 256.834pt.
- [334 <./images/gjs_compare_python_power_inversion_with_essam.pdf>] [335 <./images/gjs_compare_python_power_inversion_with_essam.pdf> <./images/gjs_compare_python_power_inversion_with_essam.pdf>]
+ [322 <./images/gjs_compare_python_power_inversion_with_essam.pdf>] [323 <./images/gjs_compare_python_power_inversion_with_essam.pdf> <./images/gjs_compare_python_power_inversion_with_essam.pdf>]
 Overfull \hbox (238.07169pt too wide) in paragraph at lines 618--618
 \T1/cmr/m/n/10 We will sub-mit our open-source soft-ware and doc-u-men-ta-tion to the ex-ist-ing GitHub repos-i-tory \T1/cmtt/m/n/10 https://github.com/NASA-Planetary-Science/rss_ringoccs\T1/cmr/m/n/10 .
  []
 
-[336]) (./Undergraduate_Research/Whitin_Observatory/./EasyData_Example/EasyData_Example.tex [337]
+[324]) (./Undergraduate_Research/Whitin_Observatory/./EasyData_Example/EasyData_Example.tex [325]
 Chapter 36.
-<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=10921, page=1, 614.295pt x 794.97pt>
+<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=10716, page=1, 614.295pt x 794.97pt>
 File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 1>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page1 used on input line 19.
 (pdftex.def)             Requested size: 452.9679pt x 457.30566pt.
-[338
+[326
 
-] [339 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
+] [327 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
 Underfull \hbox (badness 5460) in paragraph at lines 85--85
 []\T1/cmr/m/n/7 Table 36.3: |Glos-sary of op-ti-cal depth, phase shift, and se-lected ge-om-e-try pa-ram-e-ters con-tained in the files
  []
 
-<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=10947, page=2, 614.295pt x 794.97pt>
+<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=10741, page=2, 614.295pt x 794.97pt>
 File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 2>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page2 used on input line 89.
 (pdftex.def)             Requested size: 452.9679pt x 607.80528pt.
-<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=10949, page=3, 614.295pt x 794.97pt>
+<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=10743, page=3, 614.295pt x 794.97pt>
 File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 3>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page3 used on input line 94.
 (pdftex.def)             Requested size: 452.9679pt x 607.80528pt.
-[340]
-<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=10957, page=4, 614.295pt x 794.97pt>
+[328]
+<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=10751, page=4, 614.295pt x 794.97pt>
 File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 4>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page4 used on input line 99.
 (pdftex.def)             Requested size: 452.9679pt x 613.77966pt.
- [341 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
-<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=10976, page=5, 614.295pt x 794.97pt>
+ [329 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
+<images/Rev007_E_X43_summary_p1_08FEB2018.pdf, id=10770, page=5, 614.295pt x 794.97pt>
 File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 5>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page5 used on input line 104.
@@ -2149,8 +2124,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--105
 []\T1/cmr/m/n/7 Fig. 36.4: |Ring ra-dius cor-rec-tion and se-lected oc-cul-ta-tion ge-om-e-try pa-ram-e-ters con-tained in the files
  []
 
-[342 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>] [343 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>] [344 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
-<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=11000, page=1, 794.97pt x 614.295pt>
+[330 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>] [331 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>] [332 <./images/Rev007_E_X43_summary_p1_08FEB2018.pdf>]
+<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=10794, page=1, 794.97pt x 614.295pt>
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 1>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page1 used on input line 110.
@@ -2159,9 +2134,9 @@ File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 1>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page1 used on input line 121.
 (pdftex.def)             Requested size: 452.9679pt x 457.30566pt.
- [345
+ [333
 
- <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degrees>] [346]
+ <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degrees>] [334]
 Underfull \hbox (badness 10000) in paragraph at lines 187--187
 []\T1/cmr/m/n/7 Table 36.6: |Glos-sary of op-ti-cal depth, phase shift, and se-lected ge-om-e-try pa-ram-e-ters con-tained in files
  []
@@ -2179,12 +2154,12 @@ File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 3>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page3 used on input line 197.
 (pdftex.def)             Requested size: 452.9679pt x 607.80528pt.
-[347]
+[335]
 File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 4>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page4 used on input line 202.
 (pdftex.def)             Requested size: 452.9679pt x 613.77966pt.
- [348]
+ [336]
 File: images/Rev007_E_X43_summary_p1_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p1_08FEB2018.pdf, page 5>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p1_08FEB2018.pdf , page5 used on input line 207.
@@ -2194,24 +2169,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []\T1/cmr/m/n/7 Fig. 36.10: |Ring ra-dius cor-rec-tion and se-lected oc-cul-ta-tion ge-om-e-try pa-ram-e-ters con-tained in the file
  []
 
-[349]
+[337]
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 1>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page1 used on input line 214.
 (pdftex.def)             Requested size: 452.9679pt x 380.80243pt.
- [350]
-<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=11050, page=2, 794.97pt x 614.295pt>
+ [338]
+<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=10845, page=2, 794.97pt x 614.295pt>
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 2>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page2 used on input line 220.
 (pdftex.def)             Requested size: 452.9679pt x 380.80243pt.
- [351]
-<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=11057, page=3, 794.97pt x 614.295pt>
+ [339]
+<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=10852, page=3, 794.97pt x 614.295pt>
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 3>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page3 used on input line 226.
 (pdftex.def)             Requested size: 452.9679pt x 380.80243pt.
-<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=11059, page=4, 794.97pt x 614.295pt>
+<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=10854, page=4, 794.97pt x 614.295pt>
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 4>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page4 used on input line 232.
@@ -2221,35 +2196,35 @@ Underfull \hbox (badness 1205) in paragraph at lines 233--233
 []\T1/cmr/m/n/7 Fig. 36.14: |Rev7-E nor-mal op-ti-cal depth pro-files re-con-structed to re-move diffrac-tion ef-fects at 1 km res-o-lu-tion (file
  []
 
-[352 <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degrees>]
-<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=11080, page=5, 794.97pt x 614.295pt>
+[340 <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degrees>]
+<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=10874, page=5, 794.97pt x 614.295pt>
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 5>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page5 used on input line 238.
 (pdftex.def)             Requested size: 452.9679pt x 380.80243pt.
-<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=11082, page=6, 794.97pt x 614.295pt>
+<images/Rev007_E_X43_summary_p2_08FEB2018.pdf, id=10876, page=6, 794.97pt x 614.295pt>
 File: images/Rev007_E_X43_summary_p2_08FEB2018.pdf Graphic file (type pdf)
 <use images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page 6>
 Package pdftex.def Info: images/Rev007_E_X43_summary_p2_08FEB2018.pdf , page6 used on input line 244.
 (pdftex.def)             Requested size: 452.9679pt x 380.80243pt.
- [353 <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degrees> <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degrees>]))) [354 <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degrees> <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degrees>] [355
+ [341 <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degrees> <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degrees>]))) [342 <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degrees> <./images/Rev007_E_X43_summary_p2_08FEB2018.pdf, page is rotated 270 degrees>] [343
 
-] (./Encyclopedia_Mathematica/Encyclopedia_Mathematica_Main.tex [356
+] (./Encyclopedia_Mathematica/Encyclopedia_Mathematica_Main.tex [344
 
 ] (./Encyclopedia_Mathematica/Analysis/Analysis_Summary.tex
 Chapter 37.
-[357
+[345
 
-] [358] [359])) (./main.acr [360
+] [346] [347])) (./main.acr [348
 
-] [361
-
-
-] [362]) [363] (./main.gls [364
+] [349
 
 
+] [350]) [351] (./main.gls [352
 
-] [365] [366] [367] [368]) [369] (./main.bbl) [370
+
+
+] [353] [354] [355] [356]) [357] (./main.bbl) [358
 
 
 ]
@@ -2259,13 +2234,13 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9C52951DFC5E83B21B14C438FB9183C0;19974.
+(rerunfilecheck)             Checksum: B8379265B19F85509560E488D80D755B;19379.
  ) 
 Here is how much of TeX's memory you used:
- 73306 strings out of 492982
- 1565629 string characters out of 6132527
- 1939221 words of memory out of 5000000
- 69325 multiletter control sequences out of 15000+600000
+ 73097 strings out of 492982
+ 1559008 string characters out of 6132527
+ 1940220 words of memory out of 5000000
+ 69317 multiletter control sequences out of 15000+600000
  569321 words of font info for 123 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,19n,184p,10526b,3283s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2282,10 +2257,10 @@ pdfTeX warning (dest): name{glo:grglos} has been referenced but does not exist, 
 pdfTeX warning (dest): name{glo:gpsglos} has been referenced but does not exist, replaced by a fixed one
 
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/esint-type1/esint10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/euler/eurb7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/rsfs/rsfs7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbi0700.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbi1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfit0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti0700.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on main.pdf (381 pages, 17667786 bytes).
+Output written on main.pdf (369 pages, 17588380 bytes).
 PDF statistics:
- 13559 PDF objects out of 15390 (max. 8388607)
- 11830 compressed objects within 119 object streams
- 6060 named destinations out of 6186 (max. 500000)
- 8463 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13326 PDF objects out of 15390 (max. 8388607)
+ 11611 compressed objects within 117 object streams
+ 5926 named destinations out of 6186 (max. 500000)
+ 8399 words of extra memory for PDF output out of 10000 (max. 10000000)
 

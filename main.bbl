@@ -1,0 +1,37 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Acton(1996)]{Acton1996}
+C.~Acton.
+\newblock % "ancillary data services of nasa's navigation and ancillary
+  information facility".
+\newblock \emph{Planetary and Space Science}, 44:\penalty0 65--70, 1996.
+
+\bibitem[French et~al.(1993)French, Nicholson, Cooke, Elliot, Matthews,
+  Perkovic, Tollestrup, Harvey, Chanover, Clark, Dunham, Forrest, Harrington,
+  Pipher, Brahic, Grenier, Roques, and Arndt]{French1993}
+.~R. French, P.~Nicholson, M.~Cooke, J.~Elliot, K.~Matthews, O.~Perkovic,
+  E.~Tollestrup, P.~Harvey, N.~Chanover, M.~Clark, E.~Dunham, W.~Forrest,
+  J.~Harrington, J.~Pipher, A.~Brahic, I.~Grenier, F.~Roques, and M.~Arndt.
+\newblock % "geometry of the saturn system from the 3 july 1989 occultation of
+  28 sgr and voyager observations"%.
+\newblock \emph{Icarus}, 103:\penalty0 163--214, 1993.
+
+\bibitem[Marouf et~al.(1986)Marouf, Tyler, and Rosen]{Marouf1986}
+.~E. Marouf, L.~Tyler, and P.~Rosen.
+\newblock Profiling saturn's rings by radio occultation.
+\newblock \emph{Icarus}, 68:\penalty0 120--166, 1986.
+
+\bibitem[Marouf et~al.(2011)Marouf, French, Rapparport, Wong, McGhee-French,
+  and Anabtawi]{Marouf2011}
+.~E. Marouf, R.~French, N.~Rapparport, K.~Wong, C.~McGhee-French, and
+  A.~Anabtawi.
+\newblock % "uncovering of small-scale quasi-periodic structure in saturn's
+  ring c and possible origin".
+\newblock \emph{EPSC-DPS Joint Meeting}, 265, 2011.
+
+\end{thebibliography}

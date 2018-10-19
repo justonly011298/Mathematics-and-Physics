@@ -7,12 +7,12 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {8.1}{\ignorespaces Truth Table for Problem \ref {problem:discrete_structures_practice_exam_2_problem_3}\relax }}{72}{table.caption.400}
-\contentsline {table}{\numberline {8.2}{\ignorespaces Truth Table for Problem \ref {problem:discrete structures_make_a_truth_table_for_p_and_1_and_more}\relax }}{73}{table.caption.402}
-\contentsline {table}{\numberline {8.3}{\ignorespaces Truth Table for Problem \ref {problem:discrete_structures_exam_2_p_and_q_iff_not_p_or_not_q}\relax }}{74}{table.caption.404}
-\contentsline {table}{\numberline {8.4}{\ignorespaces The Minsets of $A,B,$ and $C$.\relax }}{75}{table.caption.406}
-\contentsline {table}{\numberline {8.5}{\ignorespaces Minsets of $A$ and $B$.\relax }}{76}{table.caption.408}
-\contentsline {table}{\numberline {8.6}{\ignorespaces Truth Table for Problem \ref {discrete_structures_quiz_3_problem_2}\relax }}{80}{table.caption.410}
+\contentsline {table}{\numberline {8.1}{\ignorespaces Truth Table for Problem \ref {problem:discrete_structures_practice_exam_2_problem_3}\relax }}{73}{table.caption.520}
+\contentsline {table}{\numberline {8.2}{\ignorespaces Truth Table for Problem \ref {problem:discrete structures_make_a_truth_table_for_p_and_1_and_more}\relax }}{74}{table.caption.522}
+\contentsline {table}{\numberline {8.3}{\ignorespaces Truth Table for Problem \ref {problem:discrete_structures_exam_2_p_and_q_iff_not_p_or_not_q}\relax }}{75}{table.caption.524}
+\contentsline {table}{\numberline {8.4}{\ignorespaces The Minsets of $A,B,$ and $C$.\relax }}{76}{table.caption.526}
+\contentsline {table}{\numberline {8.5}{\ignorespaces Minsets of $A$ and $B$.\relax }}{77}{table.caption.528}
+\contentsline {table}{\numberline {8.6}{\ignorespaces Truth Table for Problem \ref {discrete_structures_quiz_3_problem_2}\relax }}{81}{table.caption.530}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -35,29 +35,18 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {30.1}{\ignorespaces Cassini RS Bands and Wavelengths\relax }}{202}{table.caption.572}
-\contentsline {table}{\numberline {30.2}{\ignorespaces USO Frequency $2006-2011$\relax }}{203}{table.caption.575}
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {32.1}{\ignorespaces List of Kernel File Types\relax }}{255}{table.caption.667}
-\contentsline {table}{\numberline {32.2}{\ignorespaces Caption\relax }}{256}{table.caption.672}
-\contentsline {table}{\numberline {32.3}{\ignorespaces List of Coordinate Systems and Conversion Methods\relax }}{261}{table.caption.681}
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {33.1}{\ignorespaces Easy Data Parameters for Geo File}}{305}{table.caption.837}
-\contentsline {table}{\numberline {33.2}{\ignorespaces Easy Data Parameters for Cal File}}{305}{table.caption.838}
-\contentsline {table}{\numberline {33.3}{\ignorespaces Easy Data Parameters for Tau File}}{305}{table.caption.839}
-\contentsline {table}{\numberline {33.4}{\ignorespaces Glossary of Parameters from the Geo File}}{312}{table.caption.846}
-\contentsline {table}{\numberline {33.5}{\ignorespaces Glossary of Data from the Cal File}}{312}{table.caption.847}
-\contentsline {table}{\numberline {33.6}{\ignorespaces Glossary of Parameters in Tau File}}{312}{table.caption.848}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {table}{\numberline {36.1}{\ignorespaces Easy Data Parameters for Geo File}}{340}{table.caption.783}
+\contentsline {table}{\numberline {36.2}{\ignorespaces Easy Data Parameters for Cal File}}{340}{table.caption.784}
+\contentsline {table}{\numberline {36.3}{\ignorespaces Easy Data Parameters for Tau File}}{340}{table.caption.785}
+\contentsline {table}{\numberline {36.4}{\ignorespaces Glossary of Parameters from the Geo File}}{347}{table.caption.792}
+\contentsline {table}{\numberline {36.5}{\ignorespaces Glossary of Data from the Cal File}}{347}{table.caption.793}
+\contentsline {table}{\numberline {36.6}{\ignorespaces Glossary of Parameters in Tau File}}{347}{table.caption.794}
 \addvspace {10\p@ }
 \contentsfinish 
 \contentsfinish 

@@ -10,16 +10,16 @@
 \glossentry{cft}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glossary:]{cftglos}{Z}}}%
 \glossentry{crsug}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{327\delimR 333}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{354\delimR 360}}}\glsgroupskip
 \glsgroupheading{D}\relax \glsresetentrylist %
 \glossentry{dc}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glossary:]{dcglos}{Z}}}%
 \glossentry{dsn}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{329}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{356}\delimN 
 		\glsseeformat[Glossary:]{dsnglos}{Z}}}\glsgroupskip
 \glsgroupheading{E}\relax \glsresetentrylist %
 \glossentry{ert}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{333}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{360}\delimN 
 		\glsseeformat[Glossary:]{ertglos}{Z}}}%
 \glossentry{esa}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glossary:]{esaglos}{Z}}}%
@@ -29,11 +29,11 @@
 \glossentry{fft}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glossary:]{fftglos}{Z}}}%
 \glossentry{fir}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{331}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{358}\delimN 
 		\glsseeformat[Glossary:]{firglos}{Z}}}%
 \glossentry{foil}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{13\delimR 15}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{17}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{12\delimR 15}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{18}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{21}\delimN 
 		\glsseeformat[Glossary:]{foilglos}{Z}}}\glsgroupskip
 \glsgroupheading{G}\relax \glsresetentrylist %
@@ -57,7 +57,7 @@
 		\glsseeformat[Glossary:]{ifglos}{Z}}}\glsgroupskip
 \glsgroupheading{J}\relax \glsresetentrylist %
 \glossentry{jpl}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{328}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{355}\delimN 
 		\glsseeformat[Glossary:]{jplglos}{Z}}}\glsgroupskip
 \glsgroupheading{K}\relax \glsresetentrylist %
 \glossentry{kat}{\glossaryentrynumbers{\relax 
@@ -74,7 +74,7 @@
 		\glsseeformat[Glossary:]{mhzglos}{Z}}}\glsgroupskip
 \glsgroupheading{N}\relax \glsresetentrylist %
 \glossentry{naif}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{328}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{355}\delimN 
 		\glsseeformat[Glossary:]{naifglos}{Z}}}%
 \glossentry{nasa}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glossary:]{nasaglos}{Z}}}\glsgroupskip
@@ -85,13 +85,13 @@
 		\glsseeformat[Glossary:]{opmodeglos}{Z}}}\glsgroupskip
 \glsgroupheading{P}\relax \glsresetentrylist %
 \glossentry{pds}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{327\delimN 328}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{332\delimR 335}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{349}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{354\delimN 355}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{359\delimR 362}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{376}\delimN 
 		\glsseeformat[Glossary:]{pdsglos}{Z}}}%
 \glossentry{pemdas}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{3}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{255}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{281}\delimN 
 		\glsseeformat[Glossary:]{pemdasglos}{Z}}}%
 \glossentry{pll}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glossary:]{pllglos}{Z}}}%
@@ -109,13 +109,13 @@
 \glossentry{rs}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glossary:]{rsglos}{Z}}}%
 \glossentry{rsr}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{328\delimN 329}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{331}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{355\delimN 356}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{358}\delimN 
 		\glsseeformat[Glossary:]{rsrglos}{Z}}}%
 \glossentry{rss}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{327\delimR 329}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{332}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{334}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{354\delimR 356}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{359}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{361}\delimN 
 		\glsseeformat[Glossary:]{rssglos}{Z}}}%
 \glossentry{rtg}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glossary:]{rtgglos}{Z}}}\glsgroupskip
@@ -125,7 +125,7 @@
 \glossentry{snr}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glossary:]{snrglos}{Z}}}%
 \glossentry{spice}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{328}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{355}\delimN 
 		\glsseeformat[Glossary:]{spiceglos}{Z}}}\glsgroupskip
 \glsgroupheading{T}\relax \glsresetentrylist %
 \glossentry{tdb}{\glossaryentrynumbers{\relax 
@@ -134,7 +134,7 @@
 		\glsseeformat[Glossary:]{tlmglos}{Z}}}\glsgroupskip
 \glsgroupheading{U}\relax \glsresetentrylist %
 \glossentry{uso}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{333}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{360}\delimN 
 		\glsseeformat[Glossary:]{usoglos}{Z}}}%
 \glossentry{utc}{\glossaryentrynumbers{\relax 
 		\glsseeformat[Glossary:]{utcglos}{Z}}}%

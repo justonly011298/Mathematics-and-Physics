@@ -1,7 +1,7 @@
 \babel@toc {english}{}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces The chaos that is the solution to problem \ref {problem:north_shore_exam_graph_everything}.\relax }}{19}{figure.caption.359}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces The graphs of the two equations shown in example \ref {example:north_shore_example_of_a_system_of_linear_equations}.\relax }}{20}{figure.caption.361}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces The chaos that is the solution to problem \ref {problem:north_shore_exam_graph_everything}.\relax }}{19}{figure.caption.247}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces The graphs of the two equations shown in example \ref {example:north_shore_example_of_a_system_of_linear_equations}.\relax }}{20}{figure.caption.249}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -14,7 +14,7 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {13.1}{\ignorespaces Figures for Wangsness 1-11 and 1-12}}{112}{figure.caption.569}
+\contentsline {figure}{\numberline {13.1}{\ignorespaces Figures for Wangsness 1-11 and 1-12}}{117}{figure.caption.459}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -26,46 +26,43 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {24.1}{\ignorespaces Homotopy Diagram.}}{166}{figure.caption.606}
-\contentsline {figure}{\numberline {24.2}{\ignorespaces Straight-Line Homotopy.\relax }}{166}{figure.caption.608}
-\contentsline {figure}{\numberline {24.3}{\ignorespaces Examples of Homotopy Equivalences That are not Homeomorphic.\relax }}{168}{figure.caption.610}
-\contentsline {figure}{\numberline {24.4}{\ignorespaces Stereographic Projection of the Sphere onto the Plane.\relax }}{170}{figure.caption.612}
-\contentsline {figure}{\numberline {24.5}{\ignorespaces Homeomorphism Between $S^{2}\setminus \{(0,0,1)\}$ and $D^{2}$.}}{170}{figure.caption.614}
-\contentsline {figure}{\numberline {24.6}{\ignorespaces Plane Representation of a Torus}}{171}{figure.caption.616}
-\contentsline {figure}{\numberline {24.7}{\ignorespaces Equivalency of $S^{2}\setminus \{a,b,c\}$, $T^{2}\setminus \{\alpha \}$, and a figure-8.\relax }}{171}{figure.caption.618}
-\contentsline {figure}{\numberline {24.8}{\ignorespaces How to construct $L(p,q)$.\relax }}{172}{figure.caption.620}
-\contentsline {figure}{\numberline {24.9}{\ignorespaces Example of a Commutative Diagram.\relax }}{174}{figure.caption.624}
-\contentsline {figure}{\numberline {24.10}{\ignorespaces Simple Surgery Example.\relax }}{175}{figure.caption.627}
-\contentsline {figure}{\numberline {24.11}{\ignorespaces Example of a Zero Surgery.\relax }}{175}{figure.caption.629}
-\contentsline {figure}{\numberline {24.12}{\ignorespaces More Complicated Surgery Example.}}{176}{figure.caption.631}
-\contentsline {figure}{\numberline {24.13}{\ignorespaces Partition of $S^{Cat}(\mathcal {M})$.\relax }}{177}{figure.caption.634}
-\contentsline {figure}{\numberline {24.14}{\ignorespaces Example of a Vector Bundle: $(D^{1},D^{1}\times \mathbb {R},p)$.\relax }}{178}{figure.caption.638}
-\contentsline {figure}{\numberline {24.15}{\ignorespaces M\"{o}bius Strip.\relax }}{178}{figure.caption.640}
-\contentsline {figure}{\numberline {24.16}{\ignorespaces $\mathbb {R}$ is a Universal Covering of $S^{1}$.\relax }}{179}{figure.caption.644}
-\contentsline {figure}{\numberline {24.17}{\ignorespaces Examples of Simplices.\relax }}{180}{figure.caption.647}
-\contentsline {figure}{\numberline {24.18}{\ignorespaces Diagram for the Surgery Exact Sequence of $S^{5}$.\relax }}{181}{figure.caption.649}
-\contentsline {figure}{\numberline {24.20}{\ignorespaces Turning a Vector Bundle into a Sphere Bundle.\relax }}{187}{figure.caption.662}
-\contentsline {figure}{\numberline {24.21}{\ignorespaces Diagrams for the Lifting Propery.\relax }}{187}{figure.caption.664}
+\contentsline {figure}{\numberline {24.1}{\ignorespaces Homotopy Diagram.}}{171}{figure.caption.498}
+\contentsline {figure}{\numberline {24.2}{\ignorespaces Straight-Line Homotopy.\relax }}{171}{figure.caption.500}
+\contentsline {figure}{\numberline {24.3}{\ignorespaces Examples of Homotopy Equivalences That are not Homeomorphic.\relax }}{174}{figure.caption.502}
+\contentsline {figure}{\numberline {24.4}{\ignorespaces Stereographic Projection of the Sphere onto the Plane.\relax }}{176}{figure.caption.504}
+\contentsline {figure}{\numberline {24.5}{\ignorespaces Homeomorphism Between $S^{2}\setminus \{(0,0,1)\}$ and $D^{2}$.}}{176}{figure.caption.506}
+\contentsline {figure}{\numberline {24.6}{\ignorespaces Plane Representation of a Torus}}{177}{figure.caption.508}
+\contentsline {figure}{\numberline {24.7}{\ignorespaces Equivalency of $S^{2}\setminus \{a,b,c\}$, $T^{2}\setminus \{\alpha \}$, and a figure-8.\relax }}{177}{figure.caption.510}
+\contentsline {figure}{\numberline {24.8}{\ignorespaces How to construct $L(p,q)$.\relax }}{178}{figure.caption.512}
+\contentsline {figure}{\numberline {24.9}{\ignorespaces Example of a Commutative Diagram.\relax }}{180}{figure.caption.516}
+\contentsline {figure}{\numberline {24.10}{\ignorespaces Simple Surgery Example.\relax }}{181}{figure.caption.519}
+\contentsline {figure}{\numberline {24.11}{\ignorespaces Example of a Zero Surgery.\relax }}{181}{figure.caption.521}
+\contentsline {figure}{\numberline {24.12}{\ignorespaces More Complicated Surgery Example.}}{182}{figure.caption.523}
+\contentsline {figure}{\numberline {24.13}{\ignorespaces Partition of $S^{Cat}(\mathcal {M})$.\relax }}{183}{figure.caption.526}
+\contentsline {figure}{\numberline {24.14}{\ignorespaces Example of a Vector Bundle: $(D^{1},D^{1}\times \mathbb {R},p)$.\relax }}{184}{figure.caption.530}
+\contentsline {figure}{\numberline {24.15}{\ignorespaces M\"{o}bius Strip.\relax }}{184}{figure.caption.532}
+\contentsline {figure}{\numberline {24.16}{\ignorespaces $\mathbb {R}$ is a Universal Covering of $S^{1}$.\relax }}{185}{figure.caption.536}
+\contentsline {figure}{\numberline {24.17}{\ignorespaces Examples of Simplices.\relax }}{186}{figure.caption.539}
+\contentsline {figure}{\numberline {24.18}{\ignorespaces Diagram for the Surgery Exact Sequence of $S^{5}$.\relax }}{187}{figure.caption.541}
+\contentsline {figure}{\numberline {24.20}{\ignorespaces Turning a Vector Bundle into a Sphere Bundle.\relax }}{193}{figure.caption.554}
+\contentsline {figure}{\numberline {24.21}{\ignorespaces Diagrams for the Lifting Propery.\relax }}{193}{figure.caption.556}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {26.1}{\ignorespaces Figures for Wangsness 1-11 and 1-12}}{211}{figure.caption.668}
-\contentsline {figure}{\numberline {26.2}{\ignorespaces Figures for Wangsness 1-13 and 1-14}}{212}{figure.caption.670}
-\contentsline {figure}{\numberline {26.3}{\ignorespaces Figure for Wangsness 1-15}}{214}{figure.caption.672}
-\contentsline {figure}{\numberline {26.4}{\ignorespaces Figures for Wangsness 1-22 and 1-23}}{216}{figure.caption.674}
-\contentsline {figure}{\numberline {26.5}{\ignorespaces Figures for Wangsness 2-3 and 2-8}}{218}{figure.caption.676}
-\contentsline {figure}{\numberline {26.6}{\ignorespaces Drawing for Wangsness 4-3}}{220}{figure.caption.680}
-\contentsline {figure}{\numberline {26.7}{\ignorespaces Drawing for Wangsness 4-3}}{220}{figure.caption.682}
-\contentsline {figure}{\numberline {26.8}{\ignorespaces Drawings for problems \ref {problem:EMAG_Wangsness_5_3} and \ref {problem:EMAG_Wangsness_5_4} \relax }}{223}{figure.caption.684}
-\contentsline {figure}{\numberline {26.9}{\ignorespaces Circuits for problem \ref {Problem:EMAG_Wangsness_6_7} \relax }}{225}{figure.caption.686}
-\contentsline {figure}{\numberline {26.10}{\ignorespaces Infinite Cylinders for problem \ref {problem:EMAG_Wangsness_6_10} \relax }}{226}{figure.caption.688}
-\contentsline {figure}{\numberline {26.11}{\ignorespaces Drawing for Wangsness 8-5\relax }}{227}{figure.caption.697}
-\contentsline {figure}{\numberline {26.12}{\ignorespaces Drawing for Wangsness 10-3\relax }}{228}{figure.caption.702}
-\contentsline {figure}{\numberline {26.13}{\ignorespaces Drawing for Wangsness 10-6\relax }}{229}{figure.caption.705}
-\contentsline {figure}{\numberline {26.15}{\ignorespaces Drawing for Wangsness 13-4\relax }}{231}{figure.caption.715}
-\contentsline {figure}{\numberline {26.16}{\ignorespaces Drawing for Wangsness 14-15\relax }}{232}{figure.caption.719}
-\contentsline {figure}{\numberline {26.17}{\ignorespaces Drawing for Wangsness 15-7\relax }}{232}{figure.caption.722}
-\contentsline {figure}{\numberline {26.18}{\ignorespaces Drawing for Wangsness 17-4}}{233}{figure.caption.728}
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {26.1}{\ignorespaces Figures for Wangsness 1-11 and 1-12}}{236}{figure.caption.560}
+\contentsline {figure}{\numberline {26.2}{\ignorespaces Figures for Wangsness 1-13 and 1-14}}{238}{figure.caption.562}
+\contentsline {figure}{\numberline {26.3}{\ignorespaces Figure for Wangsness 1-15}}{239}{figure.caption.564}
+\contentsline {figure}{\numberline {26.4}{\ignorespaces Figures for Wangsness 1-22 and 1-23}}{242}{figure.caption.566}
+\contentsline {figure}{\numberline {26.5}{\ignorespaces Figures for Wangsness 2-3 and 2-8}}{244}{figure.caption.568}
+\contentsline {figure}{\numberline {26.6}{\ignorespaces Drawing for Wangsness 4-3}}{246}{figure.caption.572}
+\contentsline {figure}{\numberline {26.7}{\ignorespaces Drawing for Wangsness 4-3}}{247}{figure.caption.574}
+\contentsline {figure}{\numberline {26.8}{\ignorespaces Drawings for problems \ref {problem:EMAG_Wangsness_5_3} and \ref {problem:EMAG_Wangsness_5_4} \relax }}{249}{figure.caption.576}
+\contentsline {figure}{\numberline {26.9}{\ignorespaces Circuits for problem \ref {Problem:EMAG_Wangsness_6_7} \relax }}{251}{figure.caption.578}
+\contentsline {figure}{\numberline {26.10}{\ignorespaces Infinite Cylinders for problem \ref {problem:EMAG_Wangsness_6_10} \relax }}{252}{figure.caption.580}
+\contentsline {figure}{\numberline {26.11}{\ignorespaces Drawing for Wangsness 8-5\relax }}{253}{figure.caption.589}
+\contentsline {figure}{\numberline {26.14}{\ignorespaces Drawing for Wangsness 13-4\relax }}{256}{figure.caption.604}
+\contentsline {figure}{\numberline {26.15}{\ignorespaces Drawing for Wangsness 14-15\relax }}{257}{figure.caption.608}
+\contentsline {figure}{\numberline {26.16}{\ignorespaces Drawing for Wangsness 15-7\relax }}{258}{figure.caption.611}
+\contentsline {figure}{\numberline {26.17}{\ignorespaces Drawing for Wangsness 17-4}}{259}{figure.caption.617}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -75,44 +72,46 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {36.1}{\ignorespaces Frequency estimation}}{329}{figure.caption.774}
-\contentsline {figure}{\numberline {36.2}{\ignorespaces Frequency offset}}{330}{figure.caption.776}
-\contentsline {figure}{\numberline {36.3}{\ignorespaces Frequency offset}}{330}{figure.caption.777}
-\contentsline {figure}{\numberline {36.4}{\ignorespaces Free space power}}{331}{figure.caption.779}
-\contentsline {figure}{\numberline {36.5}{\ignorespaces Reconstruction of Huygens Ringlet}}{331}{figure.caption.781}
-\contentsline {figure}{\numberline {36.6}{\ignorespaces Titan Ringlet - CRSUG Fig.~3.13}}{332}{figure.caption.782}
-\contentsline {figure}{\numberline {36.7}{\ignorespaces Geometry comparison}}{333}{figure.caption.785}
-\contentsline {figure}{\numberline {36.8}{\ignorespaces Maxwell Ringlet reconstruction}}{334}{figure.caption.788}
-\contentsline {figure}{\numberline {36.9}{\ignorespaces C ring ripples}}{335}{figure.caption.791}
-\contentsline {figure}{\numberline {36.10}{\ignorespaces Comparison of C ring diffraction patterns}}{336}{figure.caption.792}
-\contentsline {figure}{\numberline {36.11}{\ignorespaces Comparison of C ring optical depth profiles}}{336}{figure.caption.793}
-\contentsline {figure}{\numberline {36.12}{\ignorespaces Comparison of independently-derived C ring optical depth profiles}}{337}{figure.caption.794}
-\contentsline {figure}{\numberline {36.13}{\ignorespaces F ring profile - X band}}{338}{figure.caption.795}
-\contentsline {figure}{\numberline {36.14}{\ignorespaces F ring profile - Ka band}}{338}{figure.caption.796}
-\contentsline {figure}{\numberline {36.15}{\ignorespaces F ring profile - S band}}{339}{figure.caption.797}
-\contentsline {figure}{\numberline {36.16}{\ignorespaces Auxiliary geometry plots}}{342}{figure.caption.798}
-\contentsline {figure}{\numberline {36.17}{\ignorespaces Data processing pipeline}}{343}{figure.caption.799}
-\contentsline {figure}{\numberline {36.18}{\ignorespaces Power normalization in Python}}{345}{figure.caption.800}
-\contentsline {figure}{\numberline {36.19}{\ignorespaces Maxwell Ringlet profiles using Python normalization and resampling}}{346}{figure.caption.801}
-\contentsline {figure}{\numberline {36.20}{\ignorespaces Maxwell Ringlet phase using Python normalization and resampling}}{347}{figure.caption.802}
-\contentsline {figure}{\numberline {36.21}{\ignorespaces Comparison of Marouf's inversion and our independent analysis}}{347}{figure.caption.803}
+\contentsline {figure}{\numberline {35.1}{\ignorespaces Various Geometries for Titan\relax }}{337}{figure.caption.661}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {37.1}{\ignorespaces Occultation Geometry}}{353}{figure.caption.808}
-\contentsline {figure}{\numberline {37.2}{\ignorespaces More Occultation Geometry}}{354}{figure.caption.809}
-\contentsline {figure}{\numberline {37.3}{\ignorespaces Calibration Data contained in the Easy Data}}{355}{figure.caption.810}
-\contentsline {figure}{\numberline {37.4}{\ignorespaces Even More Occultation Geometry}}{356}{figure.caption.811}
-\contentsline {figure}{\numberline {37.5}{\ignorespaces Normal Optical Depth Profiles from the Easy Data}}{357}{figure.caption.812}
-\contentsline {figure}{\numberline {37.6}{\ignorespaces Radio Occultation Track}}{358}{figure.caption.813}
-\contentsline {figure}{\numberline {37.7}{\ignorespaces Occultation geometry parameters in file RSS\_2005\_123\_X43\_E\_GEO.tab\relax }}{360}{figure.caption.817}
-\contentsline {figure}{\numberline {37.8}{\ignorespaces See caption of Figure 1a.\relax }}{361}{figure.caption.818}
-\contentsline {figure}{\numberline {37.9}{\ignorespaces Calibration Data from Cal File}}{362}{figure.caption.819}
-\contentsline {figure}{\numberline {37.10}{\ignorespaces Ring Radius Correction from Selected Occultation Geometry}}{363}{figure.caption.820}
-\contentsline {figure}{\numberline {37.11}{\ignorespaces Normal Optical Depth Profiles 70000-85000km}}{364}{figure.caption.821}
-\contentsline {figure}{\numberline {37.12}{\ignorespaces Normal Optical Depth Profiles 85000-100000km}}{364}{figure.caption.822}
-\contentsline {figure}{\numberline {37.13}{\ignorespaces Normal Optical Depth Profiles 100000-115000km}}{365}{figure.caption.823}
-\contentsline {figure}{\numberline {37.14}{\ignorespaces Normal Optical Depth Profiles 115000-130000km}}{365}{figure.caption.824}
-\contentsline {figure}{\numberline {37.15}{\ignorespaces Normal Optical Depth Profiles 130000-145000km}}{366}{figure.caption.825}
-\contentsline {figure}{\numberline {37.16}{\ignorespaces Phase Shift Profile}}{366}{figure.caption.826}
+\contentsline {figure}{\numberline {36.1}{\ignorespaces Frequency estimation}}{356}{figure.caption.664}
+\contentsline {figure}{\numberline {36.2}{\ignorespaces Frequency offset}}{357}{figure.caption.666}
+\contentsline {figure}{\numberline {36.3}{\ignorespaces Frequency offset}}{357}{figure.caption.667}
+\contentsline {figure}{\numberline {36.4}{\ignorespaces Free space power}}{358}{figure.caption.669}
+\contentsline {figure}{\numberline {36.5}{\ignorespaces Reconstruction of Huygens Ringlet}}{358}{figure.caption.671}
+\contentsline {figure}{\numberline {36.6}{\ignorespaces Titan Ringlet - CRSUG Fig.~3.13}}{359}{figure.caption.672}
+\contentsline {figure}{\numberline {36.7}{\ignorespaces Geometry comparison}}{360}{figure.caption.675}
+\contentsline {figure}{\numberline {36.8}{\ignorespaces Maxwell Ringlet reconstruction}}{361}{figure.caption.678}
+\contentsline {figure}{\numberline {36.9}{\ignorespaces C ring ripples}}{362}{figure.caption.681}
+\contentsline {figure}{\numberline {36.10}{\ignorespaces Comparison of C ring diffraction patterns}}{363}{figure.caption.682}
+\contentsline {figure}{\numberline {36.11}{\ignorespaces Comparison of C ring optical depth profiles}}{363}{figure.caption.683}
+\contentsline {figure}{\numberline {36.12}{\ignorespaces Comparison of independently-derived C ring optical depth profiles}}{364}{figure.caption.684}
+\contentsline {figure}{\numberline {36.13}{\ignorespaces F ring profile - X band}}{365}{figure.caption.685}
+\contentsline {figure}{\numberline {36.14}{\ignorespaces F ring profile - Ka band}}{365}{figure.caption.686}
+\contentsline {figure}{\numberline {36.15}{\ignorespaces F ring profile - S band}}{366}{figure.caption.687}
+\contentsline {figure}{\numberline {36.16}{\ignorespaces Auxiliary geometry plots}}{369}{figure.caption.688}
+\contentsline {figure}{\numberline {36.17}{\ignorespaces Data processing pipeline}}{370}{figure.caption.689}
+\contentsline {figure}{\numberline {36.18}{\ignorespaces Power normalization in Python}}{372}{figure.caption.690}
+\contentsline {figure}{\numberline {36.19}{\ignorespaces Maxwell Ringlet profiles using Python normalization and resampling}}{373}{figure.caption.691}
+\contentsline {figure}{\numberline {36.20}{\ignorespaces Maxwell Ringlet phase using Python normalization and resampling}}{374}{figure.caption.692}
+\contentsline {figure}{\numberline {36.21}{\ignorespaces Comparison of Marouf's inversion and our independent analysis}}{374}{figure.caption.693}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {37.1}{\ignorespaces Occultation Geometry}}{380}{figure.caption.698}
+\contentsline {figure}{\numberline {37.2}{\ignorespaces More Occultation Geometry}}{381}{figure.caption.699}
+\contentsline {figure}{\numberline {37.3}{\ignorespaces Calibration Data contained in the Easy Data}}{382}{figure.caption.700}
+\contentsline {figure}{\numberline {37.4}{\ignorespaces Even More Occultation Geometry}}{383}{figure.caption.701}
+\contentsline {figure}{\numberline {37.5}{\ignorespaces Normal Optical Depth Profiles from the Easy Data}}{384}{figure.caption.702}
+\contentsline {figure}{\numberline {37.6}{\ignorespaces Radio Occultation Track}}{385}{figure.caption.703}
+\contentsline {figure}{\numberline {37.7}{\ignorespaces Occultation geometry parameters in file RSS\_2005\_123\_X43\_E\_GEO.tab\relax }}{387}{figure.caption.707}
+\contentsline {figure}{\numberline {37.8}{\ignorespaces See caption of Figure 1a.\relax }}{388}{figure.caption.708}
+\contentsline {figure}{\numberline {37.9}{\ignorespaces Calibration Data from Cal File}}{389}{figure.caption.709}
+\contentsline {figure}{\numberline {37.10}{\ignorespaces Ring Radius Correction from Selected Occultation Geometry}}{390}{figure.caption.710}
+\contentsline {figure}{\numberline {37.11}{\ignorespaces Normal Optical Depth Profiles 70000-85000km}}{391}{figure.caption.711}
+\contentsline {figure}{\numberline {37.12}{\ignorespaces Normal Optical Depth Profiles 85000-100000km}}{391}{figure.caption.712}
+\contentsline {figure}{\numberline {37.13}{\ignorespaces Normal Optical Depth Profiles 100000-115000km}}{392}{figure.caption.713}
+\contentsline {figure}{\numberline {37.14}{\ignorespaces Normal Optical Depth Profiles 115000-130000km}}{392}{figure.caption.714}
+\contentsline {figure}{\numberline {37.15}{\ignorespaces Normal Optical Depth Profiles 130000-145000km}}{393}{figure.caption.715}
+\contentsline {figure}{\numberline {37.16}{\ignorespaces Phase Shift Profile}}{393}{figure.caption.716}
 \addvspace {10\p@ }
 \contentsfinish 
 \contentsfinish 

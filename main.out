@@ -1,7 +1,7 @@
 \BOOKMARK [0][-]{chapter*.2}{List of Figures}{}% 1
 \BOOKMARK [0][-]{chapter*.3}{List of Tables}{}% 2
 \BOOKMARK [-2][-]{book.1}{ Book book: Courses }{}% 3
-\BOOKMARK [-1][-]{part.1}{Coursework: Mathematics}{book.1}% 4
+\BOOKMARK [-1][-]{part.1}{Courses: Mathematics}{book.1}% 4
 \BOOKMARK [0][-]{chapter.1}{Arithmetic}{part.1}% 5
 \BOOKMARK [0][-]{chapter.2}{Elementary Algebra}{part.1}% 6
 \BOOKMARK [1][-]{section.2.1}{Basic Notions}{chapter.2}% 7
@@ -145,162 +145,153 @@
 \BOOKMARK [1][-]{section.25.3}{Homology}{chapter.25}% 145
 \BOOKMARK [1][-]{section.25.4}{Cohomology}{chapter.25}% 146
 \BOOKMARK [1][-]{section.25.5}{Homotopy}{chapter.25}% 147
-\BOOKMARK [0][-]{chapter.26}{Surgery Theory}{part.1}% 148
-\BOOKMARK [1][-]{section.26.1}{A Review of Topology}{chapter.26}% 149
-\BOOKMARK [2][-]{subsection.26.1.1}{Homotopy}{section.26.1}% 150
-\BOOKMARK [2][-]{subsection.26.1.2}{Lecture 2: Surgery Structure Sets}{section.26.1}% 151
-\BOOKMARK [2][-]{subsection.26.1.3}{Lecture 3: Vector Bundles}{section.26.1}% 152
-\BOOKMARK [2][-]{subsection.26.1.4}{Lecture 4: Principal G-Bundles}{section.26.1}% 153
-\BOOKMARK [2][-]{subsection.26.1.5}{Lecture 5: The Wall L-Groups}{section.26.1}% 154
-\BOOKMARK [2][-]{subsection.26.1.6}{Lecture 6: The Brown Representation Theorem}{section.26.1}% 155
-\BOOKMARK [2][-]{subsection.26.1.7}{Lecture 1: Singular and Simplicial Homology}{section.26.1}% 156
-\BOOKMARK [0][-]{chapter.27}{GRE Mathematics Subject Test}{part.1}% 157
-\BOOKMARK [1][-]{section.27.1}{Definitions and Theorems}{chapter.27}% 158
-\BOOKMARK [2][-]{subsection.27.1.1}{Definitions}{section.27.1}% 159
-\BOOKMARK [2][-]{subsection.27.1.2}{Theorems}{section.27.1}% 160
-\BOOKMARK [1][-]{section.27.2}{Practice Tests}{chapter.27}% 161
-\BOOKMARK [2][-]{subsection.27.2.1}{GRE0568}{section.27.2}% 162
-\BOOKMARK [1][-]{section.27.3}{Notes from REA Mathematics}{chapter.27}% 163
-\BOOKMARK [2][-]{subsection.27.3.1}{Polynomials and Equations}{section.27.3}% 164
-\BOOKMARK [2][-]{subsection.27.3.2}{Inequalities}{section.27.3}% 165
-\BOOKMARK [2][-]{subsection.27.3.3}{Linear Algebra}{section.27.3}% 166
-\BOOKMARK [2][-]{subsection.27.3.4}{Abstract Algebra}{section.27.3}% 167
-\BOOKMARK [2][-]{subsection.27.3.5}{Functions}{section.27.3}% 168
-\BOOKMARK [2][-]{subsection.27.3.6}{Coordinate Geometry}{section.27.3}% 169
-\BOOKMARK [2][-]{subsection.27.3.7}{Trigonometry}{section.27.3}% 170
-\BOOKMARK [2][-]{subsection.27.3.8}{Limits}{section.27.3}% 171
-\BOOKMARK [2][-]{subsection.27.3.9}{Derivatives}{section.27.3}% 172
-\BOOKMARK [2][-]{subsection.27.3.10}{Application of Derivatives}{section.27.3}% 173
-\BOOKMARK [2][-]{subsection.27.3.11}{Integration}{section.27.3}% 174
-\BOOKMARK [2][-]{subsection.27.3.12}{Sequences and Series}{section.27.3}% 175
-\BOOKMARK [2][-]{subsection.27.3.13}{Differential Equations}{section.27.3}% 176
-\BOOKMARK [2][-]{subsection.27.3.14}{Probability and Statistics}{section.27.3}% 177
-\BOOKMARK [2][-]{subsection.27.3.15}{Combinatorics}{section.27.3}% 178
-\BOOKMARK [2][-]{subsection.27.3.16}{Numerical Analysis}{section.27.3}% 179
-\BOOKMARK [2][-]{subsection.27.3.17}{Real Variables}{section.27.3}% 180
-\BOOKMARK [2][-]{subsection.27.3.18}{Complex Variables}{section.27.3}% 181
-\BOOKMARK [2][-]{subsection.27.3.19}{Set Theory}{section.27.3}% 182
-\BOOKMARK [2][-]{subsection.27.3.20}{Topology}{section.27.3}% 183
-\BOOKMARK [-1][-]{part.2}{Coursework: Physics}{book.1}% 184
-\BOOKMARK [0][-]{chapter.28}{Electromagnetism I}{part.2}% 185
-\BOOKMARK [1][-]{section.28.1}{Homework Sets}{chapter.28}% 186
-\BOOKMARK [2][-]{subsection.28.1.1}{Homework I}{section.28.1}% 187
-\BOOKMARK [2][-]{subsection.28.1.2}{Homework II}{section.28.1}% 188
-\BOOKMARK [2][-]{subsection.28.1.3}{Homework III}{section.28.1}% 189
-\BOOKMARK [2][-]{subsection.28.1.4}{Homework IV}{section.28.1}% 190
-\BOOKMARK [2][-]{subsection.28.1.5}{Homework V}{section.28.1}% 191
-\BOOKMARK [2][-]{subsection.28.1.6}{Homework VI}{section.28.1}% 192
-\BOOKMARK [2][-]{subsection.28.1.7}{Homework VII}{section.28.1}% 193
-\BOOKMARK [2][-]{subsection.28.1.8}{Homework VIII}{section.28.1}% 194
-\BOOKMARK [2][-]{subsection.28.1.9}{Homework IX}{section.28.1}% 195
-\BOOKMARK [2][-]{subsection.28.1.10}{Homework X}{section.28.1}% 196
-\BOOKMARK [2][-]{subsection.28.1.11}{Homework XI}{section.28.1}% 197
-\BOOKMARK [2][-]{subsection.28.1.12}{Homework XII}{section.28.1}% 198
-\BOOKMARK [2][-]{subsection.28.1.13}{Homework XIII}{section.28.1}% 199
-\BOOKMARK [1][-]{section.28.2}{Exams}{chapter.28}% 200
-\BOOKMARK [2][-]{subsection.28.2.1}{Exam I}{section.28.2}% 201
-\BOOKMARK [2][-]{subsection.28.2.2}{Exam II}{section.28.2}% 202
-\BOOKMARK [2][-]{subsection.28.2.3}{Exam III}{section.28.2}% 203
-\BOOKMARK [2][-]{subsection.28.2.4}{Practice Final Exam}{section.28.2}% 204
-\BOOKMARK [2][-]{subsection.28.2.5}{Final Exam}{section.28.2}% 205
-\BOOKMARK [0][-]{chapter.29}{Electromagnetism II}{part.2}% 206
-\BOOKMARK [1][-]{section.29.1}{Homework}{chapter.29}% 207
-\BOOKMARK [2][-]{subsection.29.1.1}{Homework I}{section.29.1}% 208
-\BOOKMARK [0][-]{chapter.30}{Classical Mechanics}{part.2}% 209
-\BOOKMARK [1][-]{section.30.1}{Notes}{chapter.30}% 210
-\BOOKMARK [2][-]{subsection.30.1.1}{Old Notes on Lagrangians}{section.30.1}% 211
-\BOOKMARK [0][-]{chapter.31}{Mathematical Physics I}{part.2}% 212
-\BOOKMARK [1][-]{section.31.1}{Cheat Sheet}{chapter.31}% 213
-\BOOKMARK [2][-]{subsection.31.1.1}{Series}{section.31.1}% 214
-\BOOKMARK [2][-]{subsection.31.1.2}{Complex Variables}{section.31.1}% 215
-\BOOKMARK [2][-]{subsection.31.1.3}{Matrices}{section.31.1}% 216
-\BOOKMARK [2][-]{subsection.31.1.4}{Vectors}{section.31.1}% 217
-\BOOKMARK [-1][-]{part.3}{Coursework: Miscellaneous}{book.1}% 218
-\BOOKMARK [0][-]{chapter.32}{Programming Tutorials}{part.3}% 219
-\BOOKMARK [1][-]{section.32.1}{Bash}{chapter.32}% 220
-\BOOKMARK [2][-]{subsection.32.1.1}{Test Codes}{section.32.1}% 221
-\BOOKMARK [2][-]{subsection.32.1.2}{Beta Version of RSSCONFIG Script}{section.32.1}% 222
-\BOOKMARK [2][-]{subsection.32.1.3}{Using wget}{section.32.1}% 223
-\BOOKMARK [1][-]{section.32.2}{The C Programming Language}{chapter.32}% 224
-\BOOKMARK [2][-]{subsection.32.2.1}{Tutorials from learn-c.org}{section.32.2}% 225
-\BOOKMARK [2][-]{subsection.32.2.2}{The FizzBuzz Test}{section.32.2}% 226
-\BOOKMARK [1][-]{section.32.3}{IDL}{chapter.32}% 227
-\BOOKMARK [2][-]{subsection.32.3.1}{Tutorials}{section.32.3}% 228
-\BOOKMARK [1][-]{section.32.4}{Python}{chapter.32}% 229
-\BOOKMARK [2][-]{subsection.32.4.1}{Tutorials from LearnPython.org}{section.32.4}% 230
-\BOOKMARK [2][-]{subsection.32.4.2}{Miscellaneous Tests}{section.32.4}% 231
-\BOOKMARK [0][-]{chapter.33}{UML General Education}{part.3}% 232
-\BOOKMARK [1][-]{section.33.1}{Western Civilization}{chapter.33}% 233
-\BOOKMARK [2][-]{subsection.33.1.1}{Notes for Exam I}{section.33.1}% 234
-\BOOKMARK [2][-]{subsection.33.1.2}{Notes for Exam II}{section.33.1}% 235
-\BOOKMARK [1][-]{section.33.2}{College Writing}{chapter.33}% 236
-\BOOKMARK [2][-]{subsection.33.2.1}{Vocabulary}{section.33.2}% 237
-\BOOKMARK [1][-]{section.33.3}{Genesis}{chapter.33}% 238
-\BOOKMARK [-2][-]{book.2}{ Book book: Research }{}% 239
-\BOOKMARK [-1][-]{part.4}{Master's Work}{book.2}% 240
-\BOOKMARK [0][-]{chapter.34}{Master's Work}{part.4}% 241
-\BOOKMARK [1][-]{section.34.1}{Preliminaries}{chapter.34}% 242
-\BOOKMARK [2][-]{subsection.34.1.1}{Set Theory}{section.34.1}% 243
-\BOOKMARK [2][-]{subsection.34.1.2}{Algebra}{section.34.1}% 244
-\BOOKMARK [2][-]{subsection.34.1.3}{Relations of Order}{section.34.1}% 245
-\BOOKMARK [2][-]{subsection.34.1.4}{The Real Numbers}{section.34.1}% 246
-\BOOKMARK [2][-]{subsection.34.1.5}{Equivalence and Transfinite Cardinal Numbers}{section.34.1}% 247
-\BOOKMARK [2][-]{subsection.34.1.6}{Vector Spaces and Euclidean Spaces}{section.34.1}% 248
-\BOOKMARK [2][-]{subsection.34.1.7}{Topology}{section.34.1}% 249
-\BOOKMARK [2][-]{subsection.34.1.8}{Metric Spaces}{section.34.1}% 250
-\BOOKMARK [2][-]{subsection.34.1.9}{Measure Theory}{section.34.1}% 251
-\BOOKMARK [1][-]{section.34.2}{Calculus on Normed Spaces}{chapter.34}% 252
-\BOOKMARK [2][-]{subsection.34.2.1}{Linear Transformations}{section.34.2}% 253
-\BOOKMARK [2][-]{subsection.34.2.2}{Integration}{section.34.2}% 254
-\BOOKMARK [2][-]{subsection.34.2.3}{Differentiation}{section.34.2}% 255
-\BOOKMARK [2][-]{subsection.34.2.4}{Real Analysis}{section.34.2}% 256
-\BOOKMARK [1][-]{section.34.3}{Convexity: Part I}{chapter.34}% 257
-\BOOKMARK [2][-]{subsection.34.3.1}{Convex Sets}{section.34.3}% 258
-\BOOKMARK [2][-]{subsection.34.3.2}{Convexity in the Euclidean Plane}{section.34.3}% 259
-\BOOKMARK [1][-]{section.34.4}{On Uniform Convergence}{chapter.34}% 260
-\BOOKMARK [1][-]{section.34.5}{On Analyticity}{chapter.34}% 261
-\BOOKMARK [1][-]{section.34.6}{On Infinite Order O.D.E.'s}{chapter.34}% 262
-\BOOKMARK [1][-]{section.34.7}{Other Results}{chapter.34}% 263
-\BOOKMARK [1][-]{section.34.8}{An Uninteresting Algebraic Structure}{chapter.34}% 264
-\BOOKMARK [1][-]{section.34.9}{An Almost Group}{chapter.34}% 265
-\BOOKMARK [1][-]{section.34.10}{On Sequences}{chapter.34}% 266
-\BOOKMARK [1][-]{section.34.11}{A Class of Differentiability}{chapter.34}% 267
-\BOOKMARK [1][-]{section.34.12}{Degenerate Fredholm Equations of the First Kind}{chapter.34}% 268
-\BOOKMARK [-1][-]{part.5}{Research: Whitin Observatory}{book.2}% 269
-\BOOKMARK [0][-]{chapter.35}{Notes on Miscellaneous Papers}{part.5}% 270
-\BOOKMARK [1][-]{section.35.1}{Some Useful References}{chapter.35}% 271
-\BOOKMARK [1][-]{section.35.2}{Cassini Radio Science User's Guide}{chapter.35}% 272
-\BOOKMARK [2][-]{subsection.35.2.1}{Cassini Radio Science}{section.35.2}% 273
-\BOOKMARK [2][-]{subsection.35.2.2}{Radio Science Investigations}{section.35.2}% 274
-\BOOKMARK [0][-]{chapter.36}{Cassini Interim January 2018 Report}{part.5}% 275
-\BOOKMARK [1][-]{section.36.1}{Introduction}{chapter.36}% 276
-\BOOKMARK [1][-]{section.36.2}{General Approach and Analysis Methods}{chapter.36}% 277
-\BOOKMARK [2][-]{subsection.36.2.1}{Occultation Geometry}{section.36.2}% 278
-\BOOKMARK [2][-]{subsection.36.2.2}{Calibrated Observed Diffraction Pattern of Direct Signal}{section.36.2}% 279
-\BOOKMARK [2][-]{subsection.36.2.3}{Diffraction-Corrected Optical Depth Profiles}{section.36.2}% 280
-\BOOKMARK [2][-]{subsection.36.2.4}{Additional Useful Information}{section.36.2}% 281
-\BOOKMARK [1][-]{section.36.3}{Critical Tests of Processing Methods and Codes}{chapter.36}% 282
-\BOOKMARK [2][-]{subsection.36.3.1}{Comparison with Cassini Radio Science User's Guide}{section.36.3}% 283
-\BOOKMARK [2][-]{subsection.36.3.2}{Comparison with Existing Results on the PDS}{section.36.3}% 284
-\BOOKMARK [2][-]{subsection.36.3.3}{Additional Tests}{section.36.3}% 285
-\BOOKMARK [2][-]{subsection.36.3.4}{High Resolution F Ring Profiles}{section.36.3}% 286
-\BOOKMARK [1][-]{section.36.4}{Proposed PDS Organization and Contents}{chapter.36}% 287
-\BOOKMARK [2][-]{subsection.36.4.1}{Directory Structure}{section.36.4}% 288
-\BOOKMARK [2][-]{subsection.36.4.2}{Sample Auxiliary Information}{section.36.4}% 289
-\BOOKMARK [1][-]{section.36.5}{Data Pipeline}{chapter.36}% 290
-\BOOKMARK [2][-]{subsection.36.5.1}{Conversion of Software to Python 3}{section.36.5}% 291
-\BOOKMARK [2][-]{subsection.36.5.2}{Documentation}{section.36.5}% 292
-\BOOKMARK [1][-]{section.36.6}{Future Milestones and Delivery Schedule}{chapter.36}% 293
-\BOOKMARK [0][-]{chapter.37}{Easy Data Example}{part.5}% 294
-\BOOKMARK [1][-]{section.37.1}{Example 1}{chapter.37}% 295
-\BOOKMARK [1][-]{section.37.2}{Example 2}{chapter.37}% 296
-\BOOKMARK [-2][-]{book.3}{ Book book: Encyclopedia Mathematica }{}% 297
-\BOOKMARK [-1][-]{part.6}{Analysis}{book.3}% 298
-\BOOKMARK [0][-]{chapter.38}{Analysis Summary}{part.6}% 299
-\BOOKMARK [1][-]{section.38.1}{Definitions and Theorems}{chapter.38}% 300
-\BOOKMARK [2][-]{subsection.38.1.1}{Definitions}{section.38.1}% 301
-\BOOKMARK [2][-]{subsection.38.1.2}{Theorems}{section.38.1}% 302
-\BOOKMARK [1][-]{section.38.2}{Notes}{chapter.38}% 303
-\BOOKMARK [0][-]{section*.733}{Acronyms}{part.6}% 304
-\BOOKMARK [0][-]{section*.735}{Glossary}{part.6}% 305
-\BOOKMARK [0][-]{chapter*.737}{Bibliography}{part.6}% 306
+\BOOKMARK [0][-]{chapter.26}{GRE Mathematics Subject Test}{part.1}% 148
+\BOOKMARK [1][-]{section.26.1}{Definitions and Theorems}{chapter.26}% 149
+\BOOKMARK [2][-]{subsection.26.1.1}{Definitions}{section.26.1}% 150
+\BOOKMARK [2][-]{subsection.26.1.2}{Theorems}{section.26.1}% 151
+\BOOKMARK [1][-]{section.26.2}{Practice Tests}{chapter.26}% 152
+\BOOKMARK [2][-]{subsection.26.2.1}{GRE0568}{section.26.2}% 153
+\BOOKMARK [1][-]{section.26.3}{Notes from REA Mathematics}{chapter.26}% 154
+\BOOKMARK [2][-]{subsection.26.3.1}{Polynomials and Equations}{section.26.3}% 155
+\BOOKMARK [2][-]{subsection.26.3.2}{Inequalities}{section.26.3}% 156
+\BOOKMARK [2][-]{subsection.26.3.3}{Linear Algebra}{section.26.3}% 157
+\BOOKMARK [2][-]{subsection.26.3.4}{Abstract Algebra}{section.26.3}% 158
+\BOOKMARK [2][-]{subsection.26.3.5}{Functions}{section.26.3}% 159
+\BOOKMARK [2][-]{subsection.26.3.6}{Coordinate Geometry}{section.26.3}% 160
+\BOOKMARK [2][-]{subsection.26.3.7}{Trigonometry}{section.26.3}% 161
+\BOOKMARK [2][-]{subsection.26.3.8}{Limits}{section.26.3}% 162
+\BOOKMARK [2][-]{subsection.26.3.9}{Derivatives}{section.26.3}% 163
+\BOOKMARK [2][-]{subsection.26.3.10}{Application of Derivatives}{section.26.3}% 164
+\BOOKMARK [2][-]{subsection.26.3.11}{Integration}{section.26.3}% 165
+\BOOKMARK [2][-]{subsection.26.3.12}{Sequences and Series}{section.26.3}% 166
+\BOOKMARK [2][-]{subsection.26.3.13}{Differential Equations}{section.26.3}% 167
+\BOOKMARK [2][-]{subsection.26.3.14}{Probability and Statistics}{section.26.3}% 168
+\BOOKMARK [2][-]{subsection.26.3.15}{Combinatorics}{section.26.3}% 169
+\BOOKMARK [2][-]{subsection.26.3.16}{Numerical Analysis}{section.26.3}% 170
+\BOOKMARK [2][-]{subsection.26.3.17}{Real Variables}{section.26.3}% 171
+\BOOKMARK [2][-]{subsection.26.3.18}{Complex Variables}{section.26.3}% 172
+\BOOKMARK [2][-]{subsection.26.3.19}{Set Theory}{section.26.3}% 173
+\BOOKMARK [2][-]{subsection.26.3.20}{Topology}{section.26.3}% 174
+\BOOKMARK [-1][-]{part.2}{Courses: Physics}{book.1}% 175
+\BOOKMARK [0][-]{chapter.27}{Electromagnetism I}{part.2}% 176
+\BOOKMARK [1][-]{section.27.1}{Homework Sets}{chapter.27}% 177
+\BOOKMARK [2][-]{subsection.27.1.1}{Homework I}{section.27.1}% 178
+\BOOKMARK [2][-]{subsection.27.1.2}{Homework II}{section.27.1}% 179
+\BOOKMARK [2][-]{subsection.27.1.3}{Homework III}{section.27.1}% 180
+\BOOKMARK [2][-]{subsection.27.1.4}{Homework IV}{section.27.1}% 181
+\BOOKMARK [2][-]{subsection.27.1.5}{Homework V}{section.27.1}% 182
+\BOOKMARK [2][-]{subsection.27.1.6}{Homework VI}{section.27.1}% 183
+\BOOKMARK [2][-]{subsection.27.1.7}{Homework VII}{section.27.1}% 184
+\BOOKMARK [2][-]{subsection.27.1.8}{Homework VIII}{section.27.1}% 185
+\BOOKMARK [2][-]{subsection.27.1.9}{Homework IX}{section.27.1}% 186
+\BOOKMARK [2][-]{subsection.27.1.10}{Homework X}{section.27.1}% 187
+\BOOKMARK [2][-]{subsection.27.1.11}{Homework XI}{section.27.1}% 188
+\BOOKMARK [2][-]{subsection.27.1.12}{Homework XII}{section.27.1}% 189
+\BOOKMARK [2][-]{subsection.27.1.13}{Homework XIII}{section.27.1}% 190
+\BOOKMARK [1][-]{section.27.2}{Exams}{chapter.27}% 191
+\BOOKMARK [2][-]{subsection.27.2.1}{Exam I}{section.27.2}% 192
+\BOOKMARK [2][-]{subsection.27.2.2}{Exam II}{section.27.2}% 193
+\BOOKMARK [2][-]{subsection.27.2.3}{Exam III}{section.27.2}% 194
+\BOOKMARK [2][-]{subsection.27.2.4}{Practice Final Exam}{section.27.2}% 195
+\BOOKMARK [2][-]{subsection.27.2.5}{Final Exam}{section.27.2}% 196
+\BOOKMARK [0][-]{chapter.28}{Electromagnetism II}{part.2}% 197
+\BOOKMARK [1][-]{section.28.1}{Homework}{chapter.28}% 198
+\BOOKMARK [2][-]{subsection.28.1.1}{Homework I}{section.28.1}% 199
+\BOOKMARK [0][-]{chapter.29}{Classical Mechanics}{part.2}% 200
+\BOOKMARK [1][-]{section.29.1}{Notes}{chapter.29}% 201
+\BOOKMARK [2][-]{subsection.29.1.1}{Old Notes on Lagrangians}{section.29.1}% 202
+\BOOKMARK [0][-]{chapter.30}{Mathematical Physics I}{part.2}% 203
+\BOOKMARK [1][-]{section.30.1}{Cheat Sheet}{chapter.30}% 204
+\BOOKMARK [2][-]{subsection.30.1.1}{Series}{section.30.1}% 205
+\BOOKMARK [2][-]{subsection.30.1.2}{Complex Variables}{section.30.1}% 206
+\BOOKMARK [2][-]{subsection.30.1.3}{Matrices}{section.30.1}% 207
+\BOOKMARK [2][-]{subsection.30.1.4}{Vectors}{section.30.1}% 208
+\BOOKMARK [-1][-]{part.3}{Courses: Miscellaneous}{book.1}% 209
+\BOOKMARK [0][-]{chapter.31}{Programming Tutorials}{part.3}% 210
+\BOOKMARK [1][-]{section.31.1}{Bash}{chapter.31}% 211
+\BOOKMARK [2][-]{subsection.31.1.1}{Test Codes}{section.31.1}% 212
+\BOOKMARK [2][-]{subsection.31.1.2}{Beta Version of RSSCONFIG Script}{section.31.1}% 213
+\BOOKMARK [2][-]{subsection.31.1.3}{Using wget}{section.31.1}% 214
+\BOOKMARK [1][-]{section.31.2}{The C Programming Language}{chapter.31}% 215
+\BOOKMARK [2][-]{subsection.31.2.1}{Tutorials from learn-c.org}{section.31.2}% 216
+\BOOKMARK [2][-]{subsection.31.2.2}{The FizzBuzz Test}{section.31.2}% 217
+\BOOKMARK [1][-]{section.31.3}{IDL}{chapter.31}% 218
+\BOOKMARK [2][-]{subsection.31.3.1}{Tutorials}{section.31.3}% 219
+\BOOKMARK [1][-]{section.31.4}{Python}{chapter.31}% 220
+\BOOKMARK [2][-]{subsection.31.4.1}{Tutorials from LearnPython.org}{section.31.4}% 221
+\BOOKMARK [2][-]{subsection.31.4.2}{Miscellaneous Tests}{section.31.4}% 222
+\BOOKMARK [0][-]{chapter.32}{UML General Education}{part.3}% 223
+\BOOKMARK [1][-]{section.32.1}{Western Civilization}{chapter.32}% 224
+\BOOKMARK [2][-]{subsection.32.1.1}{Notes for Exam I}{section.32.1}% 225
+\BOOKMARK [2][-]{subsection.32.1.2}{Notes for Exam II}{section.32.1}% 226
+\BOOKMARK [1][-]{section.32.2}{College Writing}{chapter.32}% 227
+\BOOKMARK [2][-]{subsection.32.2.1}{Vocabulary}{section.32.2}% 228
+\BOOKMARK [1][-]{section.32.3}{Genesis}{chapter.32}% 229
+\BOOKMARK [-2][-]{book.2}{ Book book: Research }{}% 230
+\BOOKMARK [-1][-]{part.4}{Master's Work}{book.2}% 231
+\BOOKMARK [0][-]{chapter.33}{Master's Work}{part.4}% 232
+\BOOKMARK [1][-]{section.33.1}{Preliminaries}{chapter.33}% 233
+\BOOKMARK [2][-]{subsection.33.1.1}{Set Theory}{section.33.1}% 234
+\BOOKMARK [2][-]{subsection.33.1.2}{Algebra}{section.33.1}% 235
+\BOOKMARK [2][-]{subsection.33.1.3}{Relations of Order}{section.33.1}% 236
+\BOOKMARK [2][-]{subsection.33.1.4}{The Real Numbers}{section.33.1}% 237
+\BOOKMARK [2][-]{subsection.33.1.5}{Equivalence and Transfinite Cardinal Numbers}{section.33.1}% 238
+\BOOKMARK [2][-]{subsection.33.1.6}{Vector Spaces and Euclidean Spaces}{section.33.1}% 239
+\BOOKMARK [2][-]{subsection.33.1.7}{Topology}{section.33.1}% 240
+\BOOKMARK [2][-]{subsection.33.1.8}{Metric Spaces}{section.33.1}% 241
+\BOOKMARK [2][-]{subsection.33.1.9}{Measure Theory}{section.33.1}% 242
+\BOOKMARK [1][-]{section.33.2}{Calculus on Normed Spaces}{chapter.33}% 243
+\BOOKMARK [2][-]{subsection.33.2.1}{Linear Transformations}{section.33.2}% 244
+\BOOKMARK [2][-]{subsection.33.2.2}{Integration}{section.33.2}% 245
+\BOOKMARK [2][-]{subsection.33.2.3}{Differentiation}{section.33.2}% 246
+\BOOKMARK [2][-]{subsection.33.2.4}{Real Analysis}{section.33.2}% 247
+\BOOKMARK [1][-]{section.33.3}{Convexity: Part I}{chapter.33}% 248
+\BOOKMARK [2][-]{subsection.33.3.1}{Convex Sets}{section.33.3}% 249
+\BOOKMARK [2][-]{subsection.33.3.2}{Convexity in the Euclidean Plane}{section.33.3}% 250
+\BOOKMARK [1][-]{section.33.4}{On Uniform Convergence}{chapter.33}% 251
+\BOOKMARK [1][-]{section.33.5}{On Analyticity}{chapter.33}% 252
+\BOOKMARK [1][-]{section.33.6}{On Infinite Order O.D.E.'s}{chapter.33}% 253
+\BOOKMARK [1][-]{section.33.7}{Other Results}{chapter.33}% 254
+\BOOKMARK [1][-]{section.33.8}{An Uninteresting Algebraic Structure}{chapter.33}% 255
+\BOOKMARK [1][-]{section.33.9}{An Almost Group}{chapter.33}% 256
+\BOOKMARK [1][-]{section.33.10}{On Sequences}{chapter.33}% 257
+\BOOKMARK [1][-]{section.33.11}{A Class of Differentiability}{chapter.33}% 258
+\BOOKMARK [1][-]{section.33.12}{Degenerate Fredholm Equations of the First Kind}{chapter.33}% 259
+\BOOKMARK [-1][-]{part.5}{Research: Whitin Observatory}{book.2}% 260
+\BOOKMARK [0][-]{chapter.34}{Notes on Miscellaneous Papers}{part.5}% 261
+\BOOKMARK [1][-]{section.34.1}{Some Useful References}{chapter.34}% 262
+\BOOKMARK [1][-]{section.34.2}{Cassini Radio Science User's Guide}{chapter.34}% 263
+\BOOKMARK [2][-]{subsection.34.2.1}{Cassini Radio Science}{section.34.2}% 264
+\BOOKMARK [2][-]{subsection.34.2.2}{Radio Science Investigations}{section.34.2}% 265
+\BOOKMARK [0][-]{chapter.35}{Cassini Interim January 2018 Report}{part.5}% 266
+\BOOKMARK [1][-]{section.35.1}{Introduction}{chapter.35}% 267
+\BOOKMARK [1][-]{section.35.2}{General Approach and Analysis Methods}{chapter.35}% 268
+\BOOKMARK [2][-]{subsection.35.2.1}{Occultation Geometry}{section.35.2}% 269
+\BOOKMARK [2][-]{subsection.35.2.2}{Calibrated Observed Diffraction Pattern of Direct Signal}{section.35.2}% 270
+\BOOKMARK [2][-]{subsection.35.2.3}{Diffraction-Corrected Optical Depth Profiles}{section.35.2}% 271
+\BOOKMARK [2][-]{subsection.35.2.4}{Additional Useful Information}{section.35.2}% 272
+\BOOKMARK [1][-]{section.35.3}{Critical Tests of Processing Methods and Codes}{chapter.35}% 273
+\BOOKMARK [2][-]{subsection.35.3.1}{Comparison with Cassini Radio Science User's Guide}{section.35.3}% 274
+\BOOKMARK [2][-]{subsection.35.3.2}{Comparison with Existing Results on the PDS}{section.35.3}% 275
+\BOOKMARK [2][-]{subsection.35.3.3}{Additional Tests}{section.35.3}% 276
+\BOOKMARK [2][-]{subsection.35.3.4}{High Resolution F Ring Profiles}{section.35.3}% 277
+\BOOKMARK [1][-]{section.35.4}{Proposed PDS Organization and Contents}{chapter.35}% 278
+\BOOKMARK [2][-]{subsection.35.4.1}{Directory Structure}{section.35.4}% 279
+\BOOKMARK [2][-]{subsection.35.4.2}{Sample Auxiliary Information}{section.35.4}% 280
+\BOOKMARK [1][-]{section.35.5}{Data Pipeline}{chapter.35}% 281
+\BOOKMARK [2][-]{subsection.35.5.1}{Conversion of Software to Python 3}{section.35.5}% 282
+\BOOKMARK [2][-]{subsection.35.5.2}{Documentation}{section.35.5}% 283
+\BOOKMARK [1][-]{section.35.6}{Future Milestones and Delivery Schedule}{chapter.35}% 284
+\BOOKMARK [0][-]{chapter.36}{Easy Data Example}{part.5}% 285
+\BOOKMARK [1][-]{section.36.1}{Example 1}{chapter.36}% 286
+\BOOKMARK [1][-]{section.36.2}{Example 2}{chapter.36}% 287
+\BOOKMARK [-2][-]{book.3}{ Book book: Encyclopedia Mathematica }{}% 288
+\BOOKMARK [-1][-]{part.6}{Analysis}{book.3}% 289
+\BOOKMARK [0][-]{chapter.37}{Analysis Summary}{part.6}% 290
+\BOOKMARK [1][-]{section.37.1}{Definitions and Theorems}{chapter.37}% 291
+\BOOKMARK [2][-]{subsection.37.1.1}{Definitions}{section.37.1}% 292
+\BOOKMARK [2][-]{subsection.37.1.2}{Theorems}{section.37.1}% 293
+\BOOKMARK [1][-]{section.37.2}{Notes}{chapter.37}% 294
+\BOOKMARK [0][-]{section*.671}{Acronyms}{part.6}% 295
+\BOOKMARK [0][-]{section*.673}{Glossary}{part.6}% 296
+\BOOKMARK [0][-]{chapter*.675}{Bibliography}{part.6}% 297

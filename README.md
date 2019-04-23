@@ -1,6 +1,6 @@
 # Mathematics-and-Physics
-Various notes on mathematics and physics organized in several volumes. This project is currently incomplete and will remain
-so for quite some time.
+Various notes on mathematics and physics organized in several volumes. This project is
+currently incomplete and will remain so for quite some time.
 
 # How to Read This Document
 ## The Easiest Method
@@ -21,8 +21,8 @@ Download the main.pdf file and read away...
 ```
   4. Read.
 
-The benefits to this method are you now have the main.tex file, and all of the other various .tex files to change and
-edit as you please (But do give credit where it's due).
+The benefits to this method are you now have the main.tex file, and all of the other various
+.tex files to change and edit as you please (But do give credit where it's due).
 
 ## The Cool Method
   1. Cloan or Dowload the repository onto your computer.
@@ -39,39 +39,3 @@ If the `make_main.sh` doesn't have executable permissions, do:
 ```Bash
   Ryans-iMac:Mathematics-and-Physics ryan$ chmod +x make_main.sh
 ```
-
-# Simplified Table of Contents
-## Book One: Undergraduate Coursework
-A collection of all of the various course notes, homework, quizzes, and exams gathered from several universities.
-
-### Part One: Mathematics
-Courses from Calculus to Topology, Applied Mathematics to Number Theory.
-
-### Part Two: Physics
-Various courses from standard undergraduate physics. Introductory level to first year graduate school.
-
-## Book Two: Undergraduate Research
-Notes on all of the research I've been involved in between 2012 and 2018.
-
-### Part Three: LoCSST
-Notes and miscellaneous work conducted at the Lowell Center for Science and Space Technology.
-
-### Part Four: Whitin Observatory
-Research conducted at the Whitin Observatory at Wellesley College.
-
-## Book Three: Undergraduate Work
-Miscellanous work on a variety of problems outside of other research duties.
-
-### Part Five: Mathematics
-Notes pertaining to work in convex geometry, analysis, series and sequences,
-and a translation of Vito Volerra's mathematical biology book into English.
-
-### Part Six: Programming Tutorials
-A collection of tutorials in various languages, mostly IDL, C, Python, and Unix/Bash.
-
-## Book Four: Encylopedia Mathematica
-An attempt to organize many of the definitions and theorems of mathematics in as
-consistent a form as possible. This is very much in it's infancy.
-
-### Part Seven: Analysis
-Definitions and theorem from introductory and advanced real analysis.

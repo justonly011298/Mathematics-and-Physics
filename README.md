@@ -4,7 +4,7 @@ currently incomplete and will remain so for quite some time.
 
 # How to Read This Document
 ## The Easiest Method
-Download the main.pdf file and read away...
+Download Mathematics_and_Physics.pdf file and read away...
 
 ## The LaTeX Method
   1. Clone or Download the repository onto your computer.

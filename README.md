@@ -25,7 +25,7 @@ The benefits to this method are you now have the main.tex file, and all of the o
 .tex files to change and edit as you please (But do give credit where it's due).
 
 ## The Cool Method
-  1. Cloan or Dowload the repository onto your computer.
+  1. Cloan or Download the repository onto your computer.
   2. Navigate to where it's located (For example: /Documents/Research/Mathematics_and_Physics)
   3. Run the make_main.sh shell script.
 ```Bash

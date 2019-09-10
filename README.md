@@ -7,6 +7,10 @@ Lecture notes and problems on the many areas of mathematical analysis. This incl
 real analysis, measure theory, functional analysis, probability theory, and more.
 Preliminary sections on set theory and algebra are included. This is also in its infancy.
 
+# Elementary_Mathematics
+Material covering elementary (High-School Level) algebra through calculus and differential equations.
+Includes special topics like special functions, combinatorics, and mathematical modeling.
+
 # Diffraction_Through_Planetary_Rings
 A short treatise on research conducted at Wellesley College pertaining to the theory of
 diffraction and how it relates to the Cassini Radio Science Mission. In particular, application

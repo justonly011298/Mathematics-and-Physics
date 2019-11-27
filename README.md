@@ -1,25 +1,24 @@
-# Encyclopedia_Mathematica
-Various notes on mathematics and physics organized in several volumes. This project is
-currently incomplete and will remain so for quite some time.
+# Mathematics_and_Physics
+Various notes on mathematics and physics organized in several volumes. This
+project is currently incomplete and will remain so for quite some time.
 
 # Mathematical_Analysis
-Lecture notes and problems on the many areas of mathematical analysis. This includes
-real analysis, measure theory, functional analysis, probability theory, and more.
-Preliminary sections on set theory and algebra are included. This is also in its infancy.
+Lecture notes and problems on the many areas of mathematical analysis. This
+includes real analysis, measure theory, functional analysis, probability theory,
+and more. Preliminary sections on set theory and algebra are included. This is
+also in its infancy.
 
 # Elementary_Mathematics
-Material covering elementary (High-School Level) algebra through calculus and differential equations.
-Includes special topics like special functions, combinatorics, and mathematical modeling.
+Material covering elementary (High-School Level) algebra through calculus and
+differential equations. Includes special topics like special functions,
+combinatorics, and mathematical modeling.
 
-# Diffraction_Through_Planetary_Rings
-A short treatise on research conducted at Wellesley College pertaining to the theory of
-diffraction and how it relates to the Cassini Radio Science Mission. In particular, application
-of the theory to the rings of Saturn is discussed. A rather large preliminary section is included.
-The reader is expected to know only the basics of calculus to get started.
 
 # How to Read This Document
-This will detail how to go about reading the contents of Mathematics-and-Physics. The
-method is similar for the other projects contained in this repository.
+This will detail how to go about reading the contents of
+Mathematics-and-Physics. The method is similar for the other projects contained
+in this repository.
+
 ## The Easiest Method
 Download Mathematics_and_Physics.pdf file and read away...
 
@@ -28,13 +27,13 @@ Download Mathematics_and_Physics.pdf file and read away...
   2. Navigate to where it's located (For example: /Documents/Research/Mathematics_and_Physics)
   3. Run these lines:
 ```Bash
-  Ryans-iMac:~ ryan$ cd ~/Documents/Mathematics_and_Physics/Encyclopedia_Mathematica/
-  Ryans-iMac:Encyclopedia_Mathematica ryan$ pdflatex main.tex
-  Ryans-iMac:Encyclopedia_Mathematica ryan$ makeglossaries main
-  Ryans-iMac:Encyclopedia_Mathematica ryan$ pdflatex main.tex
-  Ryans-iMac:Encyclopedia_Mathematica ryan$ makeindex -l -s main.ist -o main.gls main.glo
-  Ryans-iMac:Encyclopedia_Mathematica ryan$ pdflatex main.tex
-  Ryans-iMac:Encyclopedia_Mathematica ryan$ open main.pdf
+  Ryans-iMac:~ ryan$ cd ~/Documents/Mathematics_and_Physics/
+  Ryans-iMac:Mathematics_and_Physics ryan$ pdflatex main.tex
+  Ryans-iMac:Mathematics_and_Physics ryan$ makeglossaries main
+  Ryans-iMac:Mathematics_and_Physics ryan$ pdflatex main.tex
+  Ryans-iMac:Mathematics_and_Physics ryan$ makeindex -l -s main.ist -o main.gls main.glo
+  Ryans-iMac:Mathematics_and_Physics ryan$ pdflatex main.tex
+  Ryans-iMac:Mathematics_and_Physics ryan$ open main.pdf
 ```
   4. Read.
 

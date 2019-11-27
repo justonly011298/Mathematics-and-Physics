@@ -1,18 +1,38 @@
 # Mathematics_and_Physics
 Various notes on mathematics and physics organized in several volumes. This
-project is currently incomplete and will remain so for quite some time.
+project is currently incomplete and will remain so for quite some time. The
+books are currently arranged as follows:
 
-# Mathematical_Analysis
-Lecture notes and problems on the many areas of mathematical analysis. This
-includes real analysis, measure theory, functional analysis, probability theory,
-and more. Preliminary sections on set theory and algebra are included. This is
-also in its infancy.
+## Foundations
+Notes on set theory, logic, model theory, arithmetic, and the structure of the
+real numbers.
 
-# Elementary_Mathematics
-Material covering elementary (High-School Level) algebra through calculus and
-differential equations. Includes special topics like special functions,
-combinatorics, and mathematical modeling.
+## Algebra
+Group theory, rings and fields, as well as vector spaces, modules, and linear
+algebra.
 
+## Topology
+Point set topology covering topological spaces, continuity, separation,
+connectedness, compactness, and a myriad of other properties. Many examples and
+counterexamples are provided and a great number of spaces are discussed.
+
+## Algebraic Topology
+Homotopy, homology, cohomology, and related topics.
+
+## Analysis
+Calculus, measure theory, functional analysis, probability theory,
+multivariate calculus, ordinary and partial differential equations, and
+Fourier analysis. Special functions such as Fresnel integrals and Bessel
+functions are constructed and discussed throughout.
+
+## Geometry
+Differential topology and Riemannian geometry.
+
+## Geometric Topology
+Knot theory, low dimensional topology, and surgery theory.
+
+## Physics
+Classical mechanics, electromagnetism, quantum mechanics, and astronomy.
 
 # How to Read This Document
 This will detail how to go about reading the contents of

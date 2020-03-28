@@ -1,6 +1,6 @@
 Compiled example
 ----------------
-![Example](Newton_Fractal_Cubic.png)
+![Example](Sphere_Rasterized.png)
 
 Notes
 -----

@@ -1,7 +1,7 @@
 # This make file produces the image contained in this directory.
 # To execute, run "make Makefile make"
 
-SOURCE = Commutative_Diagram_001
+SOURCE = Commutative_Diagram_002
 WIDTH = 512
 
 make:

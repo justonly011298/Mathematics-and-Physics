@@ -2,7 +2,7 @@
 # To execute, run "make Makefile make"
 
 SOURCE = Commutative_Diagram_001
-WIDTH = 512
+WIDTH = 256
 
 make:
 	make clean

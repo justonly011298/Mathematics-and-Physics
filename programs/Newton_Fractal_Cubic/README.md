@@ -4,4 +4,5 @@ Compiled example
 
 Notes
 -----
-This asymptote code uses the _custom_arrows.asy module included with this project.
+This code used complex.h and stdlib.h.
+It is compatible with the C99 standard.

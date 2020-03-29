@@ -1,6 +1,6 @@
 Compiled example
 ----------------
-![Example](Commutative_Diagram_001.png)
+![Example](Commutative_Diagram_002.png)
 
 Notes
 -----

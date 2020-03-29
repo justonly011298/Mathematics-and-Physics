@@ -6,7 +6,8 @@ WIDTH = 256
 
 make:
 	make clean
-	asy $(SOURCE) *.asy
+	rm -f $(SOURCE).png
+	asy $(SOURCE).asy
 	make png
 	make clean
 

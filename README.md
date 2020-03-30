@@ -1,7 +1,15 @@
 # Mathematics_and_Physics
-Various notes on mathematics and physics organized in several volumes. This
-project is currently incomplete and will remain so for quite some time. The
-books are currently arranged as follows:
+Various notes on mathematics and physics organized in several volumes. **This
+project is currently incomplete and will remain so for quite some time**. I am
+actively working on it, but the end goal is big. Recently I've updated the
+geometry to be b5 paper (9 inches by 6 inches) and some of the older notes that
+I have not yet gotten to will have equations falling out of the margins. I've
+also rewritten several environments for displaying and emphasizing theorems and
+definitions, but this means some of the older ones will be poorly formatted. I
+am working to getting this project both aesthetically appealing and
+mathematically accurate. Suggestions are more than welcome.
+
+The books are currently arranged as follows:
 
 ## Foundations
 Notes on set theory, logic, model theory, arithmetic, and the structure of the
@@ -26,7 +34,7 @@ Fourier analysis. Special functions such as Fresnel integrals and Bessel
 functions are constructed and discussed throughout.
 
 ## Geometry
-Differential topology and Riemannian geometry.
+Differential topology and Riemannian geometry, Convex and Euclidean geometry.
 
 ## Geometric Topology
 Knot theory, low dimensional topology, and surgery theory.
@@ -35,17 +43,19 @@ Knot theory, low dimensional topology, and surgery theory.
 Classical mechanics, electromagnetism, quantum mechanics, and astronomy.
 
 # Installation
-This will detail how to go about reading the contents of
-Mathematics-and-Physics. The repository has been updated so that the actual
-`png` and `pdf` files used for images through the project are not included in
-the `images/` folder. This is to save space on the repository and prevent git
-from keeping track of changes to the images themselved. Git should only be used
-to keep track of changes to the code. All of the images are made from code
-(tikz, asymptote, and the C programming language). To run the setup scripts you
-will need `gcc` which is the standard C compiler, and a latex distribution which
-has asympote (tex-live and mactex both provide the `asy` command). If you are
-not interested in the code, but simply want access to the document, see
-`The Easiest Method`.
+This details how to go about reading the contents of Mathematics-and-Physics.
+The repository has been updated so that the actual `png` and `pdf` files used
+for images through the project are not included in the `images/` folder. This is
+to save space on the repository and prevent git from keeping track of changes to
+the images themselved. Git should only be used to keep track of changes to the
+code. All of the images are made from code (tikz, asymptote, and the C
+programming language). To run the setup scripts you will need `gcc` which is the
+standard C compiler, and a latex distribution which has asympote (tex-live and
+mactex both provide the `asy` command). In creating and organizing figures,
+Linux users will need `pdf2svg` and `inkscape`. See the README in `images/` to
+installation instructions. MacOS users need `ImageMagick` which is installed by
+default. If you are not interested in the code, but simply want access to the
+document, see `The Easiest Method`.
 
 ## The Easiest Method
 Download Mathematics_and_Physics.pdf file and read away. Note, you will not be

@@ -15,7 +15,13 @@ installed with `apt-get` or whatever package manager your distribution uses.
     sudo apt-get install inkscape
 ```
 
-Next, at the top-level run the install script.
+Next, at the top-level run the install script. If you need to add permissions,
+you may do so as follows:
+```Bash
+    chmod +x make_figs_linux.sh
+```
+
+Then run the script.
 ```Bash
     ./make_figs_linux.sh
 ```
@@ -24,8 +30,13 @@ Next, at the top-level run the install script.
 ## MacOS Users
 The `ImageMagick` software is used in the install script and this comes
 installed on MacOS (standard for High Sierra, Mojave, and Catalina). Simply run
-the setup script.
+the setup script. If you need to add permissions, do so as follows:
 
+```Bash
+    chmod +x make_figs_macos.sh
+```
+
+Then run the script.
 ```Bash
     ./make_figs_macos.sh
 ```

@@ -5,7 +5,7 @@ books are currently arranged as follows:
 
 ## Foundations
 Notes on set theory, logic, model theory, arithmetic, and the structure of the
-real numbers.
+real numbers (including the calculus of one variable).
 
 ## Algebra
 Group theory, rings and fields, as well as vector spaces, modules, and linear

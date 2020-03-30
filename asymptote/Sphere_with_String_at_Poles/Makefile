@@ -1,6 +1,7 @@
 # To execute, run 'make Makefile make'
 SOURCE = Sphere_with_String_at_Poles
 WIDTH = 256
+DENSITY = 300
 DESTINATION = ../../images/
 
 make:
@@ -8,16 +9,8 @@ make:
 	rm -f $(SOURCE).png
 	asy $(SOURCE).asy
 	cp $(SOURCE).pdf $(DESTINATION)
-	make png
+	convert -density $(DENSITY) $(SOURCE).pdf  -resize $(WIDTH)x$(WIDTH) $(SOURCE).png
 	make clean
-
-png:
-	make svg
-	inkscape $(SOURCE).svg  -w $(WIDTH) --export-png=$(SOURCE).png
-
-svg:
-	pdf2svg $(SOURCE).pdf $(SOURCE).svg
-	inkscape $(SOURCE).svg  --export-plain-svg=$(SOURCE).svg
 
 clean:
 	rm -rf $(SOURCE).pdf $(SOURCE).svg

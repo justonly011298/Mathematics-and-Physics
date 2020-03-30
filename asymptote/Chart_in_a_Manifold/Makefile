@@ -1,5 +1,5 @@
 # To execute, run 'make Makefile make'
-SOURCE = Mobius_Strip
+SOURCE = Chart_in_a_Manifold
 WIDTH = 256
 DENSITY = 300
 DESTINATION = ../../images/

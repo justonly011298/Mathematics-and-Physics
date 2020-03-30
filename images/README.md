@@ -44,6 +44,6 @@ Then run the script.
 ## Notes for Both
 It should take a while to run since there are quite a lot of figures. You will
 need asymptote (which comes installed with tex-live and most other latex
-distributions) as well as the C compiles `gcc` to successfully run this. Linux
+distributions) as well as the C compiler `gcc` to successfully run this. Linux
 users can install this with `apt-get`, mac users will need to install `xcode`
 which is Apple's developer toolkit.

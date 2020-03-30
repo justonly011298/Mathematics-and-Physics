@@ -63,6 +63,12 @@ able to compile `main.tex` or have access to the high resolution standalone
 figures (The figures themselves will be in the PDF document, however).
 
 ## Full Installation
+**You will need:**
+  1. `gcc` The GNU Compiler Collection (Only C compiler is needed).
+  2. `asy` The Asymptote Compiler (Comes with tex-live and mactex).
+  3. (Mac Users) `ImageMagick` comes standard with OSX.
+  4. (Linux Users) `pdf2svg` and `inkscape`.
+See `images/README.md` for installation instructions. Once these are installed:
   1. Cloan or Download the repository onto your computer.
   2. Navigate to where it's located (ex: /Documents/Mathematics_and_Physics)
   ```Bash

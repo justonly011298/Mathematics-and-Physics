@@ -55,6 +55,9 @@ figures (The figures themselves will be in the PDF document, however).
 ## Full Installation
   1. Cloan or Download the repository onto your computer.
   2. Navigate to where it's located (ex: /Documents/Mathematics_and_Physics)
+  ```Bash
+    Ryans-iMac:~ ryan$ cd ~/Documents/Research/Mathematics_and_Physics/
+  ```
   3. Make sure `make_main.sh` has executable permissions:
   ```Bash
     Ryans-iMac:Mathematics_and_Physics ryan$ chmod +x make_main.sh
@@ -63,5 +66,4 @@ figures (The figures themselves will be in the PDF document, however).
   ```Bash
     Ryans-iMac:~ ryan$ cd ~/Documents/Research/Mathematics_and_Physics/
     Ryans-iMac:Mathematics_and_Physics ryan$ ./make_main.sh
-    Ryans-iMac:Mathematics_and_Physics ryan$ open Mathematics_and_Physics.pdf
   ```

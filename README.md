@@ -23,9 +23,11 @@ algebra.
 Point set topology covering topological spaces, continuity, separation,
 connectedness, compactness, and a myriad of other properties. Many examples and
 counterexamples are provided and a great number of spaces are discussed.
-
-## Algebraic Topology
-Homotopy, homology, cohomology, and related topics.
+Homotopy, homology, cohomology, and related topics are developed, and
+topological manifolds are described. Smooth and differentiable manifolds are
+saved for **Geometry** since we will need many of the results from **Analysis**,
+and hence there's a bit of a gap between studying topological manifolds and
+studying smooth manifolds.
 
 ## Analysis
 Calculus, measure theory, functional analysis, probability theory,

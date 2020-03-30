@@ -64,6 +64,5 @@ figures (The figures themselves will be in the PDF document, however).
   ```
   4. Run the make_main.sh shell script.
   ```Bash
-    Ryans-iMac:~ ryan$ cd ~/Documents/Research/Mathematics_and_Physics/
     Ryans-iMac:Mathematics_and_Physics ryan$ ./make_main.sh
   ```

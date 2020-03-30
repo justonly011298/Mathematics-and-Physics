@@ -68,6 +68,7 @@ figures (The figures themselves will be in the PDF document, however).
   2. `asy` The Asymptote Compiler (Comes with tex-live and mactex).
   3. (Mac Users) `ImageMagick` comes standard with OSX.
   4. (Linux Users) `pdf2svg` and `inkscape`.
+
 See `images/README.md` for installation instructions. Once these are installed:
   1. Cloan or Download the repository onto your computer.
   2. Navigate to where it's located (ex: /Documents/Mathematics_and_Physics)

@@ -6,4 +6,4 @@ pixel width. Actual sizes vary.
 
 Compiled Figure
 ---------------
-![Example](Real_Projective_Plane.png)
+![Example](Real_Proj_Plane_Cross_Cap_001.png)

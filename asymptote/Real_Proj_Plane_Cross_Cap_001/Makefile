@@ -1,5 +1,5 @@
 # To execute, run 'make Makefile make'
-SOURCE = Real_Projective_Plane
+SOURCE = Real_Proj_Plane_Cross_Cap_001
 WIDTH = 256
 DENSITY = 300
 DESTINATION = ../../images/
